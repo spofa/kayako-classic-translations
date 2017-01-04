@@ -1,4 +1,4 @@
-Kayako Classic Translation
+Kayako Classic Translations
 --------------------------
 
 This repository is the home of translations for Kayako Classic. These translations are open source and community maintained. Feel free to fork us and propose your own translations in a pull request.
