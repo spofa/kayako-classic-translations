@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[Türkçe]]></title>
+<isocode><![CDATA[tr]]></isocode>
+<author><![CDATA[Kayako]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}tr.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Hesap Bilgileri]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Bu mesaj #%s numaralı talebinize ilişkindir. Talep durumunuzu sizden %s saattir cevap almadığımız için '%s' olarak değiştiriyoruz.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Eğer başka sorunuz var ise lütfen bize bildiriniz. Talep detayınızı daima çevrimiçi olarak şuradan takip edebilirsiniz:]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Bu mesaj #%s numaralı talebinize ilişkindir. Talep durumunuz hakkında sizden %s saattir cevap alamadığımız için talebinizin son durumunu öğrenmek istiyoruz. Eğer başka sorularınız varsa basitçe bu e-postayı yanıtlayabilirsiniz.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Talebiniz sizden %s saat içerisinde cevap almadığımız takdirde otomatik olarak kapanacaktır. Bu işlem sırasında veya sonrasında bu e-postaya cevap gönderebilir ve talebinizi güncelleyebilirsiniz. Talep detayınızı daima çevrimiçi olarak şuradan takip edebilirsiniz: ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[Bir hatayla karşılaştık (%s eylem kayıtlı değil.)]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[İstekleriniz bizim için çok önemlidir. Destek operatörlerimizden biri sizinle en kısa süre içinde iletişime geçecek.]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[Bir hatayla karşılaştık (%s uygulaması kayıtlı değil.)]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Bölüm: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[Eposta: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[En iyi dileklerimizle,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Bizimle iletişim kurduğunuz için teşekkür ederiz. Bu destek talebinizin başarıyla alındığını bildiren otomatik bir mesajdır. Destek operatörlerimizden biri sizinle en kısa süre içinde iletişime geçecektir. Aşağıda bilginiz açısından destek talebinize ilişkin bilgiler yer almaktadır. Bu destek talebini yanıtlarken, mesajınızın konusunda destek talep numaranızı değiştirmediğinizden emin olunuz.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Parola: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Öncelik: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Durum: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Talebinizin çevrimiçi durumunu ve cevapları şuradan takip edebilirsiniz: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Konu: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[Talep No: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Faydalı]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[Faydalı değil]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[oy(lar)]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Tür: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[BCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Alıcı]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Personel]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Üçüncü Taraf]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Kullanıcı]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Önceki]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Sonraki &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Gönder]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Konuşmayı Başlat]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Gönder]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Güncelle]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Bayt]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[BZ Dosyası]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[BZ2 Dosyası]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Beni Ara]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[İptal et]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Lütfen resimde gördüğünüz karakterleri aşağıdaki kutucuğa girin (Otomatik kayıt ve form gönderilerini engellemek için gereklidir).]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[CAPTCHA Doğrulama]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Şifreyi Değiştir]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[Sohbet oturumu sona erdi.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Bu canlı sohbet hakkında kısa bir anket için tıklayınız.]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Mesajı terk etmek için buraya tıklayın.]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[Geri bildirimin için teşekkürler. Pencereyi kapatmak için Tamam ya da kısa bir anket için İptal et butonuna tıklayın.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s konuşmaya katıldı.]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[Sohbet oturumunun süresi doldu veya sona erdi.]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s konuşmadan ayrıldı.]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[Konuşmaların dokümanı bu adrese gönderilecektir:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Şablon Grubu]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[Yüklemeyi, başlatmak için 'sonraki' butonuna tıkla.]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[İndirme tamamlandığında, indirme çubuğundaki OnSite'a tıklayın.]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[OnSite oturumuna başlamak için Güvenlik Uyarısındaki 'Çalıştır'a tıklayın.]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Canlı sohbet için buraya tıklayın]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[Canlı sohbet çevrimdışı. Mesajı terk etmek için buraya tıklayın.]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Anlık arama için tıklayın]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Arama yapmak için tıklayın]]></phrase>
+<phrase section="default" code="close"><![CDATA[Kapat]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Geri bildirim gönderdiğiniz için teşekkür ederiz. Yorumunuz gözden geçirilmek üzere işaretlenebilir ve destek ekibi tarafından onaylandıktan sonra görünebilir.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Yorumlar:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[E-posta:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Tam Adı:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Yorumlar]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Telif Hakkı &copy; 2001-%s Kayako]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Bir sorunla karşılaşıldı (Nesne oluşturma başarısız oldu)]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- Varsayılan Zaman Aralığı –]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[Kayako %s, <a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Destek Masası Yazılımı</a>]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Word Doküman]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Word Doküman]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[E-Posta Hesapları]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Belirtilen e-posta adresi hatalı]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Yeni Parola:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[CAPTCHA doğrulama uyuşmuyor.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Profil fotoğraf dosyası geçersiz uzantıya sahip. Kabul edilen uzantılar: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Bir sorunla karşılaştık (SMTP sunucusuna bağlanılamadı)]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Geçersiz departman numarası belirtildi; lütfen geçerli bir departman seçiniz.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[Bir hatayla karşılaştık (%s olayı kayıtlı değil)]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Mevcut Şifre:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Mevcut Şifre doğru değil.]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Operatör:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Soru:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Yorumlar:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Bölüm:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[E-posta:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Tam Adı:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Mesaj:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Derecelendirme:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Konu:]]></phrase>
+<phrase section="default" code="file"><![CDATA[Dosya]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Bilgi Bankası]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Haber kategorileri]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[İstemde bulunulduğunda 'Dosya kaydet' seçeneğine tıklayın.]]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[İndirme tamamlandığında, indirme çubuğundaki OnSite'a çift tıklayın.]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[OnSite oturumuna başlamak için Güvenlik Uyarısındaki 'Çalıştır'a tıklayın.]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[%1$s destek merkezi (%2$s) için parola sıfırlama isteği aldık. Eğer bu mesajı almanızın hata olduğunu düşünüyorsanız, basitçe yok sayabilirsiniz.
+
+Parola sıfırlamak için aşağıdaki linki tarayıcınızın adres çubuğuna yapıştırın:
+
+%3$s
+
+Saygılarımızla,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Genel Bilgi]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Genel Seçenekler]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[%s Destek merkezi için yeni şifre]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[Daha fazla bilgi için veya bunun izniniz dışında yapıldığını düşünüyorsanız lütfen aşağıdaki linke tıklayarak destek merkezimizi ziyaret ediniz.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Destek merkezimizdeki parolanız sıfırlandı. Aşağıda bu şifreyi bulabilirsiniz:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[GIF resmi]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[GZIP Dosyası]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Gizli ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Çözülen talepleri gizle]]></phrase>
+<phrase section="default" code="home"><![CDATA[Ana sayfa]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[HTML Sayfası]]></phrase>
+<phrase section="mime" code="html"><![CDATA[HTML Sayfası]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[İkon Dosyası]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[İstemde bulunulduğunda 'Çalıştır' seçeneğine tıklayın.]]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[İndirmenin tamamlanmasını bekleyin.]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[OnSite oturumuna başlamak için Güvenlik Uyarısındaki çalıştıra tıklayın.]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[İstemde bulunulduğunda 'Çalıştır' seçeneğine tıklayın.]]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[İndirmenin tamamlanmasını bekleyin.]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[OnSite oturumuna başlamak için Güvenlik Uyarısındaki 'Çalıştır'a tıklayın.]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[İstemde bulunulduğunda 'Çalıştır' seçeneğine tıklayın. Yükleme tamamlandığında OnSite oturumun otomatik olarak açılacak.]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Ne yazık ki eklerin kabul olmadı (Her ikisinin de çok büyük veya kısıtlanmış dosya türü olmasından dolayı): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Belirtilen e-posta adresi hatalı]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[Bir sorunla karşılaşıldı (bu kuruluş bulunamadı)]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Bir sorunla karşılaşıldı (geçersiz abonelik)]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Geçersiz e-posta veya şifre]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Hatalı kullanıcı hesabı. Böyle bir hesap yok.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Giriş yapılamadı. Kullanıcı hesabı bloke edildi]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Giriş yapılamadı. Kullanıcı hesabının süresi doldu]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Giriş yapılamadı. Bu kullanıcı grubu belirtilen tema grubuna erişme yetkisine sahip değil.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Bir sorunla karşılaşıldı (geçersiz veya süresi dolmuş doğrulama)]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[Önerilerden ve veri tabanımızdan şu cevapları elde ettik]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Veri tabanı önerileri yükleniyor...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[İlişikli bilgi bankası makalesi bulunamadı.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Bilgi bankası önerileri]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s yazıyor...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[JAR Dosyası]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[%s - %s ile sohbet ediyorsun]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[%s ile sohbet ediyorsun]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[JPEG görüntüsü]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[JPEG görüntüsü]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Dosya Ekleri]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Üzgünüz - her iki makaleyi de görüntülemeye yetkiniz yok ya da böyle bir makale yok.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Bilgi Bankası]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Dil:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Son Güncellemeler]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[E-posta]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[Yazdır]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Sesi kapat]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Sesi aç]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Mesajı terk et]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Mesajınız için teşekkürler. Ekibimiz en kısa sürede sizinle irtibata geçecek.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[Ne yazık ki ekibimiz şu anda müsait değil. Mesaj bırakmak için formu doldurabilirsiniz. Ekibimiz sizinle en yakın zamanda iletişime geçecektir.]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Canlı Sohbet]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - %s canlı sohbeti]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[Daha iyi çözümler sunabilmemiz için sohbete başlamadan önce bizlere birkaç bilgi verin.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Lütfen telefon numaranızın altına detayları yazmayı unutmayın.]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Şu Kullanıcı Adıyla giriş yapıldı: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Giriş yap]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[E-posta adresiniz]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Devam etmek için lütfen giriş yapın]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Çıkış yap]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Şifremi unuttum]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Lütfen aşağıya kayıtlı E-Posta adresinizi girin ve gönder tuşuna basın. Kısa süre içinde parolanızı sıfırlamak için bir posta alacaksınız.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[%s Destek masası için parola sıfırlama isteği]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Lütfen parolanızı sıfırlamak için yeni parolanızı yazın ve gönder tuşuna basın.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Parolamı Unuttum]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Bir sorunla karşılaştık ( ne yazık ki belirtilen e-posta adresiyle bağlantılı bir kullanıcı hesabı bulamadık)]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Şifrenizi tekrardan geri alabilmeniz için bir e-posta yollandı - mailde yer alan adımları takip edin]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Şifre değiştirme başarılı oldu. Yeni bilgilerinizle giriş yapabilirsiniz.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Canlı sohbet çok yakında kullanılabilir olacak]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[Canlı sohbet yok]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Şifre Değiştir]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Çıkış yap]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Kuruluşlarım]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Tercihlerim]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Profilim]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[En Popüler]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[QuickTime Filmi]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG Ses Dosyası]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[Bir hatayla karşılaştık (çapraz site isteği tespit edildi); lütfen tekrar deneyin]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Hesap]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Kuruluşlarım]]></phrase>
+<phrase section="default" code="na"><![CDATA[- BOŞ -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Yeni Gönderiler &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Yeni Şifre:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Yeni Parola (tekrar):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[Girilen yeni şifreler eşleşmiyor.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[Şifre başarıyla güncellendi.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Haberler]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[Üzgünüz, haberler içerisinde bununla alakalı bir bilgi bulamadık.]]></phrase>
+<phrase section="default" code="no"><![CDATA[Hayır]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[Bu görünümde herhangi bir bilgi yok]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Devam edilemiyor. Bu işlemi yapma izniniz yok.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Hiç sonuç bulunamadı]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Haber aboneliği doğrulandı]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Haber kaynağımıza olan aboneliğiniz doğrulandı. Bundan böyle yayınlanan her makale için otomatik güncelleştirmeler alacaksınız. Bu abonelikten dilediğiniz zaman çıkmak için aşağıdaki linki kullanabilirsiniz.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Lütfen yardımcı olmamızı istediğiniz başka bir konu varsa bize bildirin,]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Haber kaynağımıza abone olduğunuz için teşekkür ederiz. Güncellemedi almanız için öncelikle aboneliğinizi doğrulamanız gerekecektir. Lütfen aşağıdaki linke tıklayarak aboneliğinizi aktifleştirin.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Haber aboneliğinizi doğrulayın]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Çevrimdışı]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Eski Gönderiler]]></phrase>
+<phrase section="default" code="on"><![CDATA[üzerinde]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[Çevrimiçi]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[Operatörümüz tarafından verilen 4 basamaklı kodu girin ve <b>OnSite</b> isimli küçük uygulamayı indirmeniz için Başlat butonuna tıklayın. Bu uygulama operatörlere geçici bir süreliğine bilgisayarınızı kontrol etme özelliği verecektir.]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Kayako OnSite şu an için sadece Microsoft Windows cihazlarında kullanılabilir.]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[Küçük bir uygulama olan <b>OnSite</b>'ı indirmek üzeresiniz. Bu uygulama operatörlere geçici bir süreliğine bilgisayarınızı kontrol etme özelliği verecek.<br /><br /> <b>OnSite</b> yüklemesi otomatik olarak gerçekleşecek. Eğer otomatik olarak başlamazsa <a href="%s" class="lightbluelink">buraya tıklayın</a>.<br /><br /> Devamında <b>OnSite</b> uygulamasını nasıl kullanacağınız hakkında bilgiler bulacaksınız.]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[Geçersiz veya boş kod]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[OnSite yüklenemiyor (kod bulunamadı)]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[Başlat]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[Talep Gönder]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[Adım adım]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[Dosya karşıdan yüklenemiyor (hata: %s)]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[Yardım yolda!]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[Yardım yolda!]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[Yardım yolda!]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[<b>OnSite</b> bilgisayarınızın hard diskini temizlemenizle giden küçük ve belirli bir süre için çalışan bir destek uygulamasıdır. <br /><br />Kullanımı sırasında sizin ve operatörün çevrimiçi olması gerekir. Vereceğiniz izin dahilinde bilgisayarınızın faresinin ve klavyesinin kontrolü geçici bir süreliğine operatörün kontrolüne geçer. <i>(kontrol seçenekleri veya kontrolün tamamı herhangi bir zamanda sonlandırılabilir)</i>.]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[Bu tamamen güvenlidir. Bilgisayarınıza sizinle beraber bağlı olan bir operatör müdahale edebilir. Bu kontrol sizin <b>OnSite</b> üzerinden vereceğiniz izin dahilinde gerçekleşir. <br /><br /><strong>Eğer herhangi bir zamanda bu kontrolü iptal etmek isterseniz sadece crtl + F1 tuşuna basmanız yeterli olur. Bu sayede operatörün kontrolü anında kesilir ve bilgisayarınızın kontrolü tamamen kendinizde olur.</strong>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[Ne indiriyorum? Nasıl çalışıyor?]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[Bilgisayarımda olması güvenli mi?]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[Operatörümüzün size yardımcı olabilmesi için lütfen linke tıklayarak OnSite&reg; destek uygulamasını indirin. Bu uygulama, bilgisayarınızın kontrolünü geçici bir süreliğine öperatöre devredebilmenize olanak sağlayacak. Eğer herhangi bir zamanda bu kontrolü iptal etmek isterseniz sadece crtl + F1 tuşuna basmanız yeterli olur.]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Operatörümüz yardım etmek için bilgisayarınızın faresini ve klavyesini kontrol etmeye hazır]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Windows için OnSite uygulamasını indirmek için buraya tıklayın]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[İstemde bulunulduğunda 'Çalıştır' seçeneğine tıklayın.]]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[OnSite oturumuna başlamak için Güvenlik Uyarısındaki 'Çalıştır'a tıklayın.]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Adres:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[Şehir:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Ülke:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Faks:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Kuruluş Adı:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Kuruluş Profili]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Eyalet:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Kuruluş profiliniz başarıyla güncellendi]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Web sayfası:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Zip/Posta Kodu:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[Sayfa %s/%s]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Şifre Detayları]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[PDF Dokümanı]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[Önünüzde bekleyen %s kişi var.]]></phrase>
+<phrase section="mime" code="php"><![CDATA[PHP Script Dosyası]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[Size hangi konuda yardımcı olabiliriz?]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Size hangi konuda yardımcı olabiliriz?]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Lütfen bekleyin. Operatörlerimizden biri sizinle en kısa zamanda iletişime geçecek.]]></phrase>
+<phrase section="mime" code="png"><![CDATA[PNG Görseli]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Gönderen]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Yeni bir yorum yaz]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Kayako Destek Masası Yazılımı Teknolojisiyle]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[PowerPoint Dökümanı]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[PowerPoint Dökümanı]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[E-Posta Ekle]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Tercihler]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[YSU Etkinleştir:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Tam Adı:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[ Özel ]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Dil:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Geçerli bir e-posta adresi girmelisiniz]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Sohbete Başla]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Ekibimiz yardım etmeye hazır. &quot;Sohbete Başla&quot; seçeneğine tıklayarak hemen bağlantı kurabilirsiniz.]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Nasıl yardımcı olabilirim?]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Ziyaretçi]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Profil Detayları]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[Profilim]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Organizasyon:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Telefon Numarası:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[Telefon numarası (%s) başka bir kullanıcı hesabı tarafından zaten kullanılıyor.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Profil Resmi:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Profil resmin güncellendi]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Zaman Dilimi:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Ünvan/Pozisyon:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Tercihleriniz başarıyla güncellendi]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ Gizli ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Real Ses dosyası]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[RAR Dosyası]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Devamını Oku &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Son Makaleler]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[E-Posta:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[E-Posta adresi zaten kayıtlı. Şifre kurtarma seçeneği için şifremi unuttum linkini kullanın ya da başka bir e-posta adresi belirtin.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[Girilen e-posta adresi kayıt için uygun değil]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[Bir kez kayıt olduğunuzda, doğrudan e-posta ile destek talebi gönderebileceksiniz. Verdiğimiz rahatsızlıktan dolayı özür dileriz.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Destek talebiniz sistemimiz tarafından kabul edilmemiştir. Destek talebi göndermeden önce bir destek hesabı oluşturmanız gerekmektedir.
+Lütfen takip eden link ile kayıt olun:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Destek talebi oluşturulamıyor (Kayıt gerekli)]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Tam Adı:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Belirtilen e-posta adresi hatalı.]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Lütfen kayıt olmak için aşağıdaki alanları doldurunuz.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[%s Destek Merkezi'ne Hoş geldiniz]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[%s Destek Merkezi'ne kaydınızı doğrulayın]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Bu mesaj destek merkezimize başarıyla kayıt olduğunuzu doğrulamaktadır.
+
+Kayıtlı E-Posta: %3$s
+Parola: [Gizli]
+
+Destek merkezimizi şu her zaman şu linke takip ederek ulaşabilirsiniz: %2$s
+
+Lütfen herhangi bir sorunuz varsa bize bildirin.
+
+Saygılarımızla,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Kayıt başarılı]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Yeni hesap oluştur]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Hesabınızı kullanmadan önce aktifleştirmeniz gerekmektedir. Bu e-posta mesajı e-posta adresinizin geçerli ve size ait olduğunu belirtir. Hesabınızı aktifleştirmek için lütfen aşağıdaki linki tarayıcınızın adres çubuğuna yapıştırın:
+
+%3$s
+
+Eğer bu mesajı bir hata ile aldığınızı düşünüyorsanız hiçbir şey yapmanıza gerek yok. Hesap aktifleştirilmeyecek ve bizden ileride bu yönde bir mesaj almayacaksınız.
+
+Saygılarımızla,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Bu mesaj sistemimize başarıyla kaydolduğunuzu doğrulamaktadır.
+
+Kayıtlı E-Posta: %3$s
+Parola: %4$s
+
+Destek merkezimizi her zaman şu linkten takip edebilirsiniz: %2$s
+
+Lütfen herhangi bir sorunuz varsa bize bildirin.
+
+Saygılarımızla,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Kayıt detayları]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Şifre:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Şifre (tekrar):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Girilen yeni şifreler eşleşmiyor.]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Kaydol]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Kayıt olduğunuz için teşekkürler! Kayıt detaylarınızın bir kopyası e-posta adresinize gönderildi. Lütfen giriş formunu kullanarak giriş yapınız.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Beni hatırla]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Cevapla]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Yoruma cevap]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[Gerekli alanlardan biri boş]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[RSS beslemesi]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Zengin Metin Dosyası]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[İstemde bulunulduğunda 'Çalıştır' seçeneğine tıklayın.]]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[OnSite oturumuna başlamak için Güvenlik Uyarısındaki 'Çalıştır'a tıklayın.]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Bayan.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Bay.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Bayan.]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[ARA]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[Arama Sonuçları]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Eğer aradığınız çözümü bilgi bankamızda bulamadıysanız, aşağıdaki ilgili bölümlerden birine destek talebi gönderebilirsiniz.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Bir talep gönder]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Gönder]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Bölüm]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[E-posta]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Tam Adı]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Mesajın]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Öncelik]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Konu]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Konu: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[Talep Kimliği]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Tür]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Yorumlar]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Görüşleriniz]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Mesajınız yollanamıyor - Lütfen bir operatörün talebinizi kabul etmesini bekleyin.]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Geçersiz departman belirtildi; lütfen baştan başlayın.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Geçersiz talep önceliği belirtildi; lütfen baştan başlayın.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Geçersiz talep türü belirtildi; lütfen baştan başlayın.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Bölümler]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Abone ol]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s haberlere zaten abone.]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Destek Merkezi:]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Bu kısa anketi kabul ettiğiniz için teşekkür ederiz. Geri bildiriminiz bizim için çok önemli ve müşteri destek deneyimimizi geliştirmek için yardımcı olacaktır.]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[Anketi doldurmak için şu linki takip edin: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[Bizim için ne düşündüğünüz çok önemli. Verdiğiniz tüm öneriler hizmet kalitemizi daha da arttırmamızı sağlayacak.]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Müşteri destek deneyimimizi geliştirmeyi taahhüt etmek amacıyla, hizmetlerimiz hakkında ne düşündüğünüzü bilmek isteriz.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Kısa ve sadece birkaç seçimden oluşan memnuniyet anketimize davet ediyoruz.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Bir dakikadan fazla sürmeyecektir (söz veriyoruz!).]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Teşekkür ederiz,]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Hizmetlerimiz hakkında ne düşündüğünüz bizim için çok önemli. Lütfen aşağıdaki soruları yanıtlayarak bugün yaşadığınız tecrübe hakkında bizleri bilgilendirin.]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Bu e-posta son talebinizi içermektedir]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Geri bildiriminiz bizim için çok önemli, zaman ayırdığınız için teşekkür ederiz.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Macromedia Flash Dosyası]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Dosya Ekle]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[TAR dosyası]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Başvurunuz için teşekkürler!]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Teşekkürler. Lütfen üyeliğinizi onaylamak için, e-posta adresinizi kontrol ediniz.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Görüşleriniz için teşekkür ederiz!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[Haber kaynağımızdan ayrıldınız. Gittiğiniz için üzgünüz!]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Eklentiler]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Alıcı (BBC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Alıcı (CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Müşteri]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Yayınlanma:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Alıcı]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Personel]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Üçüncü Taraf]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Talep Detayları]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Talep Geçmişi]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Özür dileriz, aradığınız talebi bulamıyoruz. Bunu görüntülemeye yetkiniz olmayabilir.]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[İsteğinizi aldık ve detaylı bir bilgiyle size geri döneceğiz. Gelecek güncellemeler için destek merkezimize giriş yapabilir ya da e-posta gelen kutunuzu kontrol edebilirsiniz.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[İsteğiniz alındı]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Anket: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Talep Görüntüle: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Talepleri Görüntüle]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Bölüm]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Son Cevaplayan]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Son Güncelleme]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Öncelik]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Durum]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[Talep kimliği]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Tür]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[İletildi: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[E-posta: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Yayınlanma: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Çöp kutusu]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Eklentiler]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Önceki]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d Görüntüleme)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Sonraki &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Sonraki Adımlar]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Sorun giderici]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Sorun çözücü size adım adım hata tanılama ve çözme problemlerinde rehberlik edecektir. Bir kategori seçerek başlayın.]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Son Güncelleme: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Metin dosyası]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Bir sorunla karşılaştık (%s çalıştırılamıyor)]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Atanmamış]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Aboneliği Kaldır]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Talep başarıyla güncellendi]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Dosya Yükle]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Hoş geldiniz! Sizlere daha iyi bir hizmet sunabilmemiz için aşağıdaki profil bilgilerinizi güncelleyin.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Hesabınız bir kez doğrulandığında, bize doğrudan e-posta ile talep gönderebileceksiniz. Verdiğimiz rahatsızlıktan dolayı özür dileriz.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Hesap doğrulanmadı. (Talep oluşturulamadı)]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Talebiniz sistemimiz tarafından kabul edilmemiştir. Buna rağmen e-posta adresiniz destek merkezimiz içerisinde mevcut ancak henüz doğrulanmamış.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Talebiniz sistemimiz tarafından kabul edilmemiştir. Buna rağmen e-posta adresiniz sistemimizde kayıtlı ancak tüm hesaplar yönetici tarafından onaylanmaktadır. Onaylama gerçekleşene kadar destek merkezimize mesaj gönderemeyeceksiniz.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Kayıt olduğunuz için teşekkürler. Size aktivasyon linkini içeren bir e-posta gönderdik. Lütfen hesabınızı aktif etmek için bu linki takip edin. Giriş yapmadan önce bu işlemi yapmak zorundasınız.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[E-Posta doğrulama gerekiyor]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dgn %dsa %ddk]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dsa %ddk %dsn]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%ddk %dsn]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%dsn]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[CAPTCHA doğrulama]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[CAPTCHA doğrulama]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Tüm haberleri göster]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Çözülen Talepleri Göster]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Oluşturuldu:]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[Talebin içeriğinde değişiklik yaptınız. Değişiklikleri Kaydet tuşuna basarak bu değişiklikleri kaydedin.]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[BÖLÜM]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[SAHİBİ]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Cevap Yaz]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[ÖNCELİK]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[Değişiklikleri Kaydet]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[DURUM]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[TÜR]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Güncellendi:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s (%s) cevap verdi:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[WAV dosyası]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Ana Sayfa]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Bilgi Bankası]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Haberler]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Kaydol]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Bir Talep Gönder]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Sorun giderici]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Taleplerim]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Excel Dosyası]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Excel Dosyası]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Evet]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Talep detaylarınızı aşağıya giriniz. Eğer bir problem raporluyorsanız mümkün olduğunca problemle alakalı fazla bilgi vermeye çalışın.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Talep detaylarınız]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[ZIP dosyası]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[En Son Haberler]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[Oturum açma %d dakikadır kilitlendi (girişim: %d/%d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[Geçersiz kullanıcı adı veya şifre (girişim: %d/%d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[Haber bültenine abone ol:]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[Belirtilen şifre, Şifre Politikasına uyumlu değil.]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[Şifre, gereksinimleri karşılamıyor]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[Ne yazık ki eklentiyi yüklerken bir sorun oluştu. büyük bir olasılıkla eklenti boyutu sunuculara yükleme kapasitesini aşıyor.]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[Alıcılar]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[Birden fazla e-posta adresini aralarında tek boşluk veya virgül bırakarak yazabilirsiniz. Alıcılar güncel talebi alırlar.]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ Minimum uzunluk: %d karakter, Minimum rakam: %d, Minimum semboller: %d, Minimum büyük harfler: %d]]></phrase>
+</swiftlanguage>

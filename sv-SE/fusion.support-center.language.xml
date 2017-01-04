@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[Svenska]]></title>
+<isocode><![CDATA[se-sv]]></isocode>
+<author><![CDATA[Tobbe & Erik]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}se.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Kontoinformation]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Detta meddelande handlar om ditt ärende #%s. Vi ändrar status på detta ärende till '%s' eftersom vi inte fått svar från dig på %s timmar.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Om du har ytterligare frågor så låt oss veta. Du kan kontrollera status för eller svara på detta ärende online på:]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Detta meddelande gäller ditt ärende #% s. Vi har inte fått något svar från dig på % s, och skulle vilja veta om ni anser att detta ärende kvarstår. Om du har ytterligare frågor, svara på denna e-post.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Observera att ärendet automatiskt kommer att stängas inom % s timmar om vi inte erhållit något svar från dig. Ärendet kommer inte att stängas i det fall som du skickar ett nytt svar. Du kan kontrollera status för eller svara på detta ärende online på:]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[%s åtgärd är inte registrerad]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[Din förfrågan är viktig för oss. Var god vänta, operatören kommer att svara dig inom kort.]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[%s appen är inte registrerad]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Avdelning: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[E-Post: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[Med Vänliga Hälsningar,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Tack för att du kontaktar oss. 
+Detta är ett automatiskt svar som bekräftar mottagandet av din fråga. 
+En av våra handläggare kommer att kontakta dig så snart som möjligt. 
+När du svarar ska du se till att Ärende-ID hålls i ämnesraden för att 
+se till att dina svar kan spåras på rätt sätt.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Lösenord: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Prioritet: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Status: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Du kan kontrollera status för eller svara på din fråga online på:]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Ämne: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[Ärende ID: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Denna artikel var till hjälp]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[Denna artikel var inte till hjälp]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[röster]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Typ: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[BCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Mottagare]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Personal]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Tredje Part]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Användare]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Tillbaka]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Nästa &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Sänd]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Starta Chatt]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Lägg till]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Uppdatera]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Bytes]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[BZ Fil]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[BZ2 Fil]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Ring Mig]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Avbryt]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Fyll i texten du ser i bilden i textrutan nedan. Detta krävs för att förhindra automatiska registreringar och inlagor.]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[CAPTCHA Verifikation]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Ändra lösenord]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[Chattkonversationen har upphört.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Klicka här för att svara på en kort enkät om den tjänst du har fått under denna chatt.]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Klicka här för att lämna ett meddelande]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[Om du vill svara på kort enkät om den tjänst du har fått under denna chatt trycker du på Avbryt, annars tryck på OK för att stänga detta fönster.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s har anslutit sig till konferensen]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[Chatten har löpt ut eller avslutats]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s har lämnat konversationen]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[En utskrift av samtalet historien kommer att skickas till adressen nedan:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Mall Group]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[Klicka på "Spara" när du uppmanas att starta hämtningen.]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[När hämtningen är klar klickar du på OnSite i nedladdningenfältet.]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[Klicka på Kör på dialogrutan Säkerhetsvarning för att börja din OnSite session.]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Klicka här för Live Chat]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[Live Chat är offline. Klicka här för att lämna ett meddelande.]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Klicka för att tillkalla omedelbart]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Klicka för att ringa]]></phrase>
+<phrase section="default" code="close"><![CDATA[Stäng]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Tack för att du skickar in dina kommentarer. Din kommentar kan flaggats för granskning och kommer att visas när den godkänts av vår personal.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Kommentarer:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[E-Post:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Fullständigt namn:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Kommentarer:]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s Kayako Infotech Ltd.]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Objekt skapas inte.]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- Standad Tidzon --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Help Desk Software</a> by Kayako %s]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Word Dok]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Word Dok]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[E-postkonton]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Angivna e-postadressen är ogiltig]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Nytt lösenord:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[CAPTCHA frasen matchar inte.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Profilen bildfil har en ogiltig filändelse. Tillåtna tillägg är: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Kan inte ansluta till SMTP-servern]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Ogiltigt avdelnings-ID anges, vänligen välj en giltig avdelning.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[%s evenemanget är inte registrerad]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Befintligt Lösenord:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Ogiltigt befintligt lösenord angivet. Kan inte fortsätta]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Personal:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Din fråga:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Kommentarer:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Avdelning:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[E-Post:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Fullständigt namn:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Meddelande:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Omdöme:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Ämne:]]></phrase>
+<phrase section="default" code="file"><![CDATA[Fil]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Kunskapsbank]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Nyheter Kategorier]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[Klicka på Spara fil när du blir uppmanad.]]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[När nedladdningen är klar, dubbelklicka på OnSite i nedladdningslisten.]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[Klicka på Kör på dialogrutan Säkerhetsvarning för att börja din OnSite session.]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[Vi har fått en förfrågan om att återställa ditt lösenord för kontot på %1$s support center (%2$s). Om du tror att du har fått detta meddelande av misstag kan du bortse från det.
+
+För att återställa ditt lösenord, klicka på länken nedan eller kopiera och klistra in länken i din webbläsare adressfältet:
+
+%3$s
+
+Med Vänliga Hälsningar,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Allmän Information]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Allmänna Val]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[Nytt lösenord för %s Support Center]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[För mer information eller om du tror att detta har skett utan din tillåtelse, besök vår helpdesk genom att klicka på länken nedan.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Ditt lösenord för vår support har återställts och finns nedan:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[GIF Bild]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[GZIP Fil]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Dold ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Dölj Avslutade ärenden]]></phrase>
+<phrase section="default" code="home"><![CDATA[Hem]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[HTML Sida]]></phrase>
+<phrase section="mime" code="html"><![CDATA[HTML Sida]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Icon Fil]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[Klicka kör när du blir uppmanad.]]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[Vänta på att nedladdningen ska bli klar.]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[Klicka på Kör på dialogrutan Säkerhetsvarning för att börja din OnSite session.]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[Klicka på kör när du blir uppmanad.]]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[Vänta på att nedladdningen ska bli klar.]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[Klicka på Kör på dialogrutan Säkerhetsvarning för att börja din OnSite session.]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[Klicka på kör när du blir uppmanad. Din OnSite session startar automatiskt när nedladdningen är klar.]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Dina bilagor har avvisats (beroende på storlek/förlängning begränsningar): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Ogiltig e-postadress anges]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[Organisationen finns inte. Vänligen kontakta support.]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Ogiltig abonnent hash]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Ogiltig e-postadress eller lösenord]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Ogiltigt användarkonto. Kontot finns inte]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Det går inte att logga in. Användarkontot är inaktiverat]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Det går inte att logga in. Användarkontot har upphört att gälla]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Det går inte att logga in. Du har inte användarbehörig / tillstånd att komma åt denna Tempel grupp.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Ogiltig eller utgångna hash]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[Följande artiklar från vår kunskapsbank kan vara relevanta för det du letar efter. Ta dig tid att läsa dem innan du skickar ditt ärende.]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Laddar kunskapsbankens förslag ...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[Inga relevanta artiklar hittades i kunskapsbanken.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Kunskapsbankens förslag]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s skriver...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[JAR Fil]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[Du chattar nu med %s - %s]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[Du chattar nu med %s]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[JPEG Bild]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[JPEG Bild]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Bilagor]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Du Har Inte den behörighet som krävs för att visa den här artikeln, eller artikeln finns inte.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Kunskapsbank]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Språk:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Senaste Uppdateringar]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[E-Post]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[Skriv ut]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Ljud: Av]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Ljud: På]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Lämna ett meddelande]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Tack för att du kontaktar oss. En av våra medarbetare kommer att granska din förfrågan och svarar inom kort.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[För att kunna hjälpa dig på bästa sätt, lämna viss information innan du skickar ditt meddelande.]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Chatt]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - Chatten på %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[För att kunna hjälpa dig på bästa sätt, så var god och lämna viss information innan vi börjar chatten.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Ange ditt telefonnummer och andra uppgifter som begärs nedan för att initiera samtalet.]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Inloggad som: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Logga In]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Din e-postadress]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Logga in för att fortsätta]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Logga Ut]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Glömt lösenord?]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Ange din registrerade e-postadress nedan och klicka på Skicka. Du kommer att få ett e-postmeddelande med en länk för att återställa ditt lösenord inom kort.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Glömt lösenord begäran om %s Support Center]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Ange ditt nya lösenord nedan och klicka på Skicka för att återställa ditt lösenord.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Glömt lösenord?]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Kan inte hitta ett användarkonto med "%s" e-postadress]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Lösenordsåterställningen har nu sänts till "%s"]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Lösenord uppdaterat, du kan nu logga in med dina nya uppgifter.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Chatten är snart tillbaka]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[Chatten är Stängd]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Ändra Lösenord]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Logga ut]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Min Organisation]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Inställningar]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Min Profil]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[%s modulen är inte registrerad]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[Mest populära]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[QuickTime Film]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG Ljud]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[We encountered a problem (cross-site request forgery detected); please try again]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Konto]]></phrase>
+<phrase section="default" code="na"><![CDATA[Min organisation]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[- NA -]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Nyare inlägg &raquo;]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Nytt Lösenord:]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[Nytt Lösenord (Upprepa):]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[De angivna lösenorden matchar inte.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Användarens lösenord uppdaterades.]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[Nyheter]]></phrase>
+<phrase section="default" code="no"><![CDATA[Nyhet hittades inte.]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[Nej]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Ingen information finns i den här vyn]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Kan inte fortsätta. Du har inte tillåtelse att utföra denna åtgärd.]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Inga Resultat Hittades]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Nyhets prenumeration bekräftade]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Din prenumeration på vår nyhetsfeed har bekräftats. Du kommer nu få automatiska uppdateringar när ett nytt artikeln är utsänd. Du kan avsluta prenumerationen när som helst genom att klicka på länken nedan.]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Låt oss veta om vi kan vara till någon mer hjälp,]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Tack för att du prenumerera på vårt nyhetsflöde. Du måste bekräfta ditt abonnemang för att få uppdateringar. Klicka på länken nedan för att aktivera ditt abonnemang.]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Validera din nyhets prenumeration]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[Stängd]]></phrase>
+<phrase section="default" code="on"><![CDATA[&laquo; Äldre inlägg]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[Den]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[Öppen]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Enter the 4-digit session code given to you by our support agent and then press Start to download a small tool called <b>OnSite</b> that will allow the support agent to share control of your computer temporarily.]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[Kayako OnSite is currently only available for Microsoft Windows.]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[You are about to download a small tool called <b>OnSite</b> that will allow our support agent to share control of your computer temporarily.<br /><br />The <b>OnSite</b> tool should start downloading automatically. If it does not, please <a href="%s" class="lightbluelink">click here</a> to start it manually.<br /><br />Below you will find instructions on how to use <b>OnSite</b> to connect with the support agent.]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[Ogiltig eller tom kod]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[Unable to load session: non-existent code]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[Start]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[Support Center]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[Steg-för-steg]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[Kan inte ladda ner fil. Fel: %s]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[Hjälp är på väg!]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[Hjälp är på väg!]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[Hjälp är på väg!]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[<b>OnSite</b> is a remote support tool that works by temporarily installing itself on your computer in an area of your hard drive where it will be removed next time the hard drive is cleaned up.<br /><br />When you start it, you and the support agent will be connected over the Internet, and they will be able to share control of your keyboard and mouse as long as you allow them to <i>(you can abort the session at any time, and your mouse and keyboard input have a higher priority than the agent's)</i>.]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[It is completely safe -- only the support agent who is assisting you will be able to gain control of your computer, and only as long as <b>OnSite</b> is running and you grant them access.<br /><br /><b><font color="red">If at any time you wish to abort the session, simply hold down the Control key and press F1. The session will immediately end and the agent will no longer be able to control your computer.</font></b>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[What am I downloading and how does it work?]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[Is it safe to run on my computer?]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Klicka på länken nedan för att ladda ner programmet, när du har laddat ner filen, Klicka på ikonen för att starta på plats session. En på plats session gör att vår operatör kan se ditt skrivbord och guida dig genom lösningar för ditt problem.]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Vår operatör har begärt en på plats session.]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[Windows 7/Vista/XP/2000]]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[Klicka kör när du blir uppmanad.]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Click Run on the Security Warning dialog to begin your OnSite session.]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[Adress:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Stad:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Land:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Organisation Namn:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Telefon:]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Organisation Profil]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Kommun:]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Din organisation profil har uppdaterats]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Webbsida:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[ZIP/Post kod:]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Sida %s av %s]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[Lösenord Information]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[PDF Dokument]]></phrase>
+<phrase section="mime" code="php"><![CDATA[Det finns för närvarande %s  chattförfrågningar före dig i kön.]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[PHP Script Fil]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Skriv din sökfråga här]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Skriv din fråga här]]></phrase>
+<phrase section="mime" code="png"><![CDATA[Var god vänta, en operatören kommer att vara med dig inom kort.]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[PNG Bild]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Inlagd av]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Lägga till en kommentar]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[Powered by Kayako %s Help Desk Software]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[PowerPoint Dok]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[PowerPoint Dok]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Lägg till e-Postadress]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Inställningar]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Aktivera DST:]]></phrase>
+<phrase section="default" code="private"><![CDATA[Fullständigt Namn:]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[[ Privat ]]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Språk:]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Du måste ange minst en giltig e-postadress]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Chatt Nu]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Vår personal är redo att hjälpa dig. Klick &quot;Chatta Nu&quot; att anslutas till en direkt.]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Kan jag hjälpa dig?]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Besökare]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[Profil Data]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Min Profil]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Organisation:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[Telefon nr:]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA["%s" phone number is already registered.]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Profil Bild:]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Din profil har uppdaterats]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Tidszon:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Titel/Position:]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[Dina inställningar har uppdaterats]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[[ Dold ]]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[Real Ljud]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[RAR Fil]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Läs Mer &raquo;]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[Senaste artiklarna]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[E-Post:]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[E-postadressen är redan registrerad. Använd förlorat lösenord alternativet för att hämta ditt lösenord eller ange en annan e-postadress.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA["%s" e-postadress är redan registrerad.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[När du är registrerad kommer du att kunna lämna in frågan direkt genom att skicka ett mail. Vi beklagar eventuella besvär detta kan ha orsakat.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Ditt Ärende har inte godtagits av vårt system. Du måste skapa ett konto innan du kan skapa några ärenden via e-post. Vänligen registrera på följande webbadress:]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Registrering krävs: Du kan inte skapa ett ärende]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Fullständigt namn:]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Ogiltig e-postadress angiven]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Fyll i fälten nedan för att registrera ett nytt konto. När du registrerat dig kan du behöva att validera din e-postadress för att fullt ut aktivera ditt konto.]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Välkommen till %s Support Center]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Anmälan vid %s Support Center]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Detta meddelande fungerar som bekräftelse på att du nu framgångsrikt är registrerad i vårt supportcenter.
+
+Registrerad E-Post: %3$s
+Lösenord: [Dold]
+
+Du kan besöka Support Center när som helst genom att gå till %2$s
+
+Snälla, låt oss veta om du har några fler frågor.
+
+Med Vänliga Hälsningar,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Registreringen lyckades]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Skapa ett nytt konto]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Vi har mottagit din registreringsbegäran på. %1$s support center (%2$s).
+
+Innan du kan använda ditt nya konto måste du aktivera det - detta visar att den e-postadress du använde är giltigt och tillhör dig.
+ För att aktivera kontot, klicka på länken nedan eller kopiera och klistra in länken i webbläsarens adressfält:
+
+%3$s
+
+Om du tror att du har fått detta meddelande av misstag, behöver du inte vidta några åtgärder för att avsluta kontot. Kontot aktiveras inte, och du kommer inte få några fler meddelanden från oss.
+
+
+Med Vänliga Hälsningar,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Detta meddelande fungerar som bekräftelse på att Du är registrerad i vårt supportcenter.
+
+Registrerad E-Post: %3$s
+Lösenord: %4$s
+
+Du kan besöka Support Center när som helst genom att gå till %2$s
+
+Snälla, låt oss veta om du har några fler frågor.
+
+Med Vänliga Hälsningar,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Registrerings information]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Lösenord:]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Lösenord (Repetera):]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Lösenorden matchar inte.]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Registrera dig]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Tack för din registrering! En kopia av din registrering har skickats till din e-postadress. Använd inloggningsformuläret bredvid denna text för att logga in]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Kom ihåg mig!]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Svara]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[Besvara kommentar]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[Ett av de obligatoriska fälten är tomt]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[RSS Feed]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[Rich Text]]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[Click Run when prompted.]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Click Run on the Security Warning dialog to begin your OnSite session.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Ms.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Mr.]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[Mrs.]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[SÖK]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Sök Resultat]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Om du inte kan hitta en lösning på ditt problem i vår Kunskapsbank kan du skicka in en fråga genom att välja lämplig avdelning nedan.]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Välj en avdelning]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Sänd]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[Avdelning]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[E-Post]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Fullständigt namn]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Meddelande Information]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Prioritet]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Ämne]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[Ämne: ]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Ärende ID]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Typ]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Kommentarer]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Din feedback]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Ditt meddelande kunde inte levereras. Var god vänta på en operatör som acceptera din chatt förfrågan.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Ogiltig avdelning angiven, vänligen börja om.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Ogiltig Ärende prioritet angiven, vänligen börja om.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Ogiltig ärendetyp angiven, vänligen börja om.]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Avdelning]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[Abonnera]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[%s är redan prenumerant på nyhetsflödet.]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Support Center:]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[Tack för att du fyllde i enkäten. Du kan nu stänga fönstret.]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[För att svara på enkäten, vänligen klicka på följande länk: ]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Tack för att du tog den korta enkäten. Dina synpunkter är mycket viktiga för oss och hjälper oss att förbättra våra erfarenheter i kundsupport!]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Som en del i vårt åtagande att förbättra din upplevelse i kundsupporten, skulle vi vilja veta vad ni tycker omm oss.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Du är inbjuden att fylla i ett kort enkät som består av bara några flervalsfrågor.]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Det bör inte ta dig mer än en minut att slutföra (vi lovar!).]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Tack på förhand,]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Dina synpunkter är mycket viktiga för oss och vi skulle vilja veta hur ni tycker om oss. Vänligen fyll i enkäten nedan för att betygsätta din upplevelse.]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Detta e-postmeddelande gäller din senaste fråga]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Dina synpunkter är mycket viktiga för oss och vi uppskattar verkligen din tid.]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Adobe Flash Fil]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[Lägg till fil]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[TAR Fil]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Tack för att du prenumerera på vårt nyhetsflöde.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Tack. Kontrollera din e-post för att bekräfta din prenumeration.]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[Tack för din feedback!]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Du har avslutat prenumerationen på vårt nyhetsflöde.]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Bilagor]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Mottagare (BCC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Mottagare (CC)]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Kund]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Postad den:]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Mottagaret]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Personal]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Tredje Part]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Ärendedetaljer]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Ärende historik]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[Ogiltig Ärende-ID eller du har inte behörighet att komma åt detta ärende]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Vi har mottagit din begäran och kommer att återkomma till dig med ytterligare detaljer inom kort. Du kan logga in på Support Center eller kolla din mejl för vidare uppdateringar.]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Din förfrågan har mottagits]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Enkät: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Visa Fråga: #]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Visa Fråga]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Avdelning]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Senast besvarad av]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Senast uppdaterad]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Prioritet]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[Status]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Ärende ID]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Typ]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[Vidarebefordras till: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[E-Post till: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Postad den: %s]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Skräp]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[Bilagor]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[&laquo; Tillbaka]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[ (%d Visningar)]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Nästa &raquo;]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Nästa Steg]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Problemlösare]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Felsökaren guider leder dig genom en serie åtgärder för att diagnostisera och lösa vanliga problem. Börja med att välja en kategori.]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Uppdaterad den: %s]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Textfil]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Kunde inte köra %s]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Inte tilldelats]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Avsluta prenumeration]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Har uppdaterat frågans egenskaper]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Bifoga fil]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Inloggningen lyckades. Fyll i din profil nedan.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[När ditt konto har godkänts, kommer du att kunna lämna in frågor direkt genom att skicka ett mail. Vi beklagar eventuella besvär detta kan ha orsakat.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Konto validerade inte: Kan inte skapa din fråga]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Din fråga har inte godtagits i vårt systemet. Även om en supportkonto finns för din e-postadress har konto ännu inte utvärderats.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Din fråga har inte godtagits i vårt systemet. Även om en supportkonto finns för din e-postadress, måste alla konton manuellt godkännas av en supportfunktion administratör. Tills detta har gjorts, kommer du inte att kunna skicka e-postmeddelanden till supporten.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[Tack för din registrering. Vi har skickat ett e-postmeddelande med en aktiveringslänk. Följ länken för att bekräfta din e-postadress. Du måste slutföra denna process innan du kan logga in.]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[E-Postvalidering krävs]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%dm %ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[%ds]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[Verifiera Registrering]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Verifiera skicka ärende]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Visa alla nyheter]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Se Lösta Frågor]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[Skapad:]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[You have made changes to the ticket's fields. Click on the Save Changes button above to save them.]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[AVDELNING]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[ÄGARE]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[Svara]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[PRIORITET]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[Save Changes]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[STATUS]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[TYP]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[Uppdaterad:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[%s (%s) svarade med:]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[WAV Fil]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Ladda ner]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Hem]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Kunskapsbank]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Nyheter]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Registrera dig nu!]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Anmäl ett ärende]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Problemlösare]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Visa Ärende]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Excel Fil]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Excel Fil]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Ja]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[Skriv in din fråga här nedan. Om du rapporterar ett problem, kom ihåg att lämna så mycket information som är relevant för frågan som möjligt.]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[Senaste nyheterna]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[Inloggning låst i %d minuter (försök: %d/%d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[Felaktigt användarnamn eller lösenord (försök: %d av %d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[Prenumerera på nyhetsbrev:]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[Det lösenord som angetts matchar inte kraven för lösenordsprincipen.]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[Lösenordet uppfyller inte kraven]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[Tyvärr, vi har stött på ett problem med att ladda upp bilagor. En möjlig orsak är att bilagsstorlek överstiger server upload gränsen.]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[Mottagare]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[Du kan ange flera e-addressess separerade av ett blanksteg eller komma, som anpassade mottagare. Mottagarna får ärendeuppdateringar.]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ Minsta längd: %d tecken, Minimum siffror: %d, Minimum symboler: %d, Minimum versaler: %d]]></phrase>
+</swiftlanguage>

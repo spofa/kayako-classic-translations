@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[英語 (米国)]]></title>
+<isocode><![CDATA[ja-jp]]></isocode>
+<author><![CDATA[Kayako]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}jp.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[アカウント情報]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[お問い合わせ番号 #%sに関してのメッセージをお送りさせていただきます。お客様のご返信が%s 時間以内に確認できませんでしたので、お問い合わせ状況が%sに変更されました。]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[ご不明な点がございましたら、ご連絡くださいますようお願い申し上げます。現在のお問い合わせの状態確認、またはご返信はこちらから可能です:]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[お問い合わせ番号 #%s に関してご連絡させていただきます。お客様から%s時間以内にご返信がいただけませんでしたが、お困り事は既に解決されましたでしょうか？他にもご不明な点がございましたら、こちらのメールにご返信いただければ幸いです。]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[お客様からのご返信が%s 時間以内に頂けなければ、こちらのお問い合わせは期限が切れてしまいますことをご連絡いたします。お問い合わせ状況確認、またはご返信はこちらから可能です:]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[エラーが発生しました(アクション %sは登録されていません)]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[お客様のご意見を知ることが、弊社の最優先事項です。少々お待ちいただければ、まもなくオペレーターがご対応させていただけます。]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[エラーが発生しました(アプリケーション %s が登録されませんでした)]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[部門: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[メールアドレス: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[今後ともよろしくお願いいたします。]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[ご連絡いただき誠にありがとうございます。今メールは、お客様のお問い合わせが無事に届いたことをお知らせするための自動返信メールです。サポートチームが出来る限り迅速に対応させていただきます。お客様がサポートメールにご返信いただくときは、どうかお問い合わせ番号を、件名の欄に表記した上で送信するのをご確認くださいますよう、よろしくお願いいたします。]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[パスワード: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[優先度: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[進捗状況: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[お問い合わせの更新、もしくは進捗状況の確認はこちらから可能です: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[件名: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[お問い合わせID: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[役に立った]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[役に立たなかった]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[vote(s)]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[お問い合わせの種類: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[BCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[受信者]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[スタッフ]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[第三者機関]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[ユーザー]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; 戻る]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[次へ &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[送信する]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[チャットを開始]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[送信する]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[アップデート]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[バイト]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[BZファイル]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[BZ2ファイル]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[お電話ください]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[キャンセル]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[下の画像内に表示されている文字を、テキストボックスに入力してください (自動投稿を防ぐためです)]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[キャプチャ認証]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[パスワードを変更する]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[会話が終了しました。]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[こちらのチャットサポートに関する簡単なアンケートにお答えいただくには、こちらをクリックください。]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[メッセージを送るには、こちらをクリック]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[ぜひお客様のご意見をお聞かせください。キャンセルをクリックしお手軽なアンケートにお答えいただくか、ウィンドウを閉じるためにOKをクリックください。]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s がチャットに参加しました。]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[チャットの時間切れ、またはチャットが終了しました。]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s がチャットから抜けました。]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[これまでの会話の記録は、下のアドレスにメールで送信いたします:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[テンプレートグループ]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[「保存する」が表示されたら、そちらをクリックしてください。]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[ダウンロードが完了しましたら、ダウンロードバーの「OnSite」をクリックください。]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[OnSiteセッションを開始するには、セキュリティ警告ダイアログ画面内の「実行する」ボタンをクリックしてください。]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[チャットを開始する]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[チャットサポートはオフラインの状態です。メッセージを残すには、こちらをクリックください。]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[クリックして今すぐ通話を開始]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[クリックして通話を開始]]></phrase>
+<phrase section="default" code="close"><![CDATA[閉じる]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[ご意見をいただき誠にありがとうございます。お客様のコメントは承認された後に表示されます。]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[コメント:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[メールアドレス:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[ご氏名:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[コメント]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy;  2001%s Kayako]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[エラーが発生しました(オブジェクトの作成に失敗)]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- デフォルトのタイムゾーン --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Help Desk Software</a> by Kayako]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Wordファイル]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Wordファイル]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[メールアカウント]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[ご入力いただいたメールアドレスは無効です。]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[新しいパスワード:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[入力いただいた文字と確認用の文字が一致しませんでした。再度入力してください。]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[あなたのプロフィール画像が次のいずれの形式かどうかを確認してください: gif、jpeg、jpg、png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[エラーが発生しました(SMTPサーバーに接続できません)]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[エラーが発生しました(部門の項目が無効です)。再度お試しください。]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[エラーが発生しました(イベント%s が登録されませんでした)]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[現在ご利用のパスワード:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[既存のパスワードが正しくありません。]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[オペレーター:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[お問い合わせ:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[コメント:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[部門:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[メールアドレス:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[ご氏名:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[メッセージ:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[電話番号:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[評価:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[件名:]]></phrase>
+<phrase section="default" code="file"><![CDATA[ファイル]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[ナレッジベース]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[ニュースカテゴリー]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[「保存する」が表示さたら、クリックしてください。]]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[ダウンロードが完了したら、ダウンロードリスト内のOnSiteをダブルクリックしてください。]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[OnSiteを開始するには、セキュリティ警告ダイアログ画面内の「実行する」をクリックしてください。]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[ヘルプデスクアカウント%1$s (%2$s) のパスワード変更のご希望を承りました。もしこちらのメールにお心当たりのない場合は、お手数ではございますが、メッセージの削除をお願いいたします。
+
+パスワードをリセットするために、次のリンクをクリック、あるいはご利用のブラウザのアドレスバーに次のURLを貼り付けて、アクセスしてください。
+
+%3$s
+
+今後とも、よろしくお願いいたします。
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[一般情報]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[一般設定]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[ヘルプデスク %sのための新しいパスワード]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[お客様の許可無しで行われているとお思いの場合、下記のリンクよりお問い合わせください。]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[お使いのヘルプデスクアカウントのパスワードがリセットされました:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[GIF 画像]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[GZIP 画像]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[非表示]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[解決済みのお問い合わせを非表示にする]]></phrase>
+<phrase section="default" code="home"><![CDATA[ホーム]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[HTMLページ]]></phrase>
+<phrase section="mime" code="html"><![CDATA[HTMLページ]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[アイコンファイル]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[「実行する」と表示されたらそちらをクリックしてください。]]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[ダウンロードが完了するまでお待ちください。]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[OnSiteセッションを開始するには、セキュリティダイアログ画面内の「実行する
+」ボタンをクリックしてください。]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[「実行する」と表示されたらクリックしてください。]]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[ダウンロードが完了するまでお待ちください。]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[OnSiteセッションを開始するには、セキュリティダイアログ画面内の「実行する」ボタンをクリックしてください。]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[「実行」が表示されたらそちらをクリックしてください。お客様のOnSiteセッションはダウンロードが完了すると自動的に開始されます。]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[残念ながら、添付されたファイルが無効です(ファイルが大きすぎる、もしくはファイルの種類の制限のため): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[入力されたメールアドレスは無効です。]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[エラーが発生しました(この組織は存在しません)]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[エラーが発生しました(ユーザー名が無効です)]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[メールアドレスもしくはパスワードが無効です。]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[無効のユーザーアカウントです。このアカウントは存在しません。]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[アカウントが無効の状態になっているので、登録することができませんでした。]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[アカウントの期限が切れており、登録することができませんでした。]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[ログインができません。こちらのテンプレートグループには、ご使用のユーザーグループでのアクセスが許可されていません。]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[エラーが発生しました(確認処理が期限切れ、または無効です)]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[ナレッジベースから次の回答と記事が見つかりました。]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[ナレッジベースの内容を読み込み中です・・・・]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[ナレッジベースに関連の記事が存在しません。]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[ナレッジベースアドバイス]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s がメッセージを入力中です.....]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[JARファイル]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[%s - %sとチャット中です]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[%sとチャット中です]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[JPEG画像]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[JPEG画像]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[添付ファイル]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[申し訳ありません - この記事は存在しないか、または閲覧許可がありません。]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[ナレッジベース]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[言語:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[最新アップデート]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[メールアドレス]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[印刷する]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[サウンド: off]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[サウンド: on]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[メッセージを残す]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[メッセージをお送りいただきありがとうございます。サポートチームができるだけ迅速にご連絡を差し上げます。]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[残念ながら、現在お問い合わせサポートチームは不在です。以下のフォームからメッセージを残していただければ、こちらから改めてご連絡を差し上げます。]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[チャットサポート]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - チャットサポート %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[お客様により良いサービスを提供させていただくために、チャットの開始前にいくつかの情報をお教えください。]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[お客様の電話番号と以下の詳細情報をご入力ください。]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[%s としてログインする]]></phrase>
+<phrase section="default" code="login"><![CDATA[ログイン]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[お客様のメールアドレス]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[続行するにはログインしてください。]]></phrase>
+<phrase section="default" code="logout"><![CDATA[ログアウト]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[パスワードを忘れた]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[登録いただいたメールアドレスをご入力いただいた後、「送信する」をクリックしてください。パスワード変更のためのメールが送られます。]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[ヘルプデスク %s に紛失したパスワードを要求する]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[新しいパスワードを下に入力した後、「送信する」をクリックし、パスワード変更処理を完了してください。]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[パスワードを忘れた]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[エラーが発生しました(メールアドレス %s に関連されたユーザーアカウントが見つかりませんでした)]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[パスワード変更メールが %s に送信されました]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[お客様のパスワードが無事変更されました。ご登録いただいたアカウント情報を利用し、ログインください。]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[チャットサポートはまもなく戻ってきます]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[チャットサポートをご利用できません。]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[パスワードを変更する]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[ログアウト]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[所属組織]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[環境設定]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[マイプロフール]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[最も人気のある記事]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[QuickTime ムービー]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG オーディオ]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG 動画]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG 動画]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[エラーが発生しました(クロスサイトリクエストの改ざんが検出されました)。再度お試しください。]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[アカウント]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[所属組織]]></phrase>
+<phrase section="default" code="na"><![CDATA[- 該当なし -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[新しい記事を見る &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[新しいパスワード:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[新しいパスワード(確認する):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[入力されたパスワードが一致しません。]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[パスワードを更新します。]]></phrase>
+<phrase section="news" code="news"><![CDATA[ニュース]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[このニュース記事を見つけられませんでした。]]></phrase>
+<phrase section="default" code="no"><![CDATA[いいえ]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[表示する内容が存在しません。]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[申し訳ありませんが、このアクションを実行する権限がありません。]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[お客様の検索に関連する情報が見つかりませんでした。]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[ニュース購読登録が完了しました]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[お客様のニュースフィードへの登録が完了しました。更新状況であったり、新しい記事が公開されたときにお知らせをお送りさせていただきます。下記のリンクをクリックして頂ければ、お好きなときにいつでも解除していただくことが可能です。]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[何かお困りごとがありましたら、ご連絡ください。]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[ニュースフィードに登録していただきありがとうございます。登録処理を完了させるには、あなたの登録を有効にする必要があります。登録を有効するために、以下のリンクをクリックしてください。]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[ニュース購読の確認をする。]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[オフライン]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; 前の投稿]]></phrase>
+<phrase section="default" code="on"><![CDATA[オン]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[オンライン]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[オペレーターから送られた4桁のセッションコードを入力して、「スタート」ボタンをクリックし、<b>OnSite</b>という一時的にオペレーターにお客様のPCのコントロールを許可するツールをダウンロードしてください。]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Kayako OnSiteは、Microsoft Windowsにのみ対応しております。]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[お客様がダウンロードしようとしているのは、<b>OnSite</b>という一時的にオペレーターにお客様のPCのコントロールを許可するツールです。<br /><br /><b>OnSite</b>のダウンロードはまもなく始まります。もし開始されない場合、<a href="%s" class="lightbluelink">こちらをクリック</a>し、手動でスタートさせてください。<br /><br />下に<b>OnSite</b>の使い方の詳細が明記されていますので、ご確認ください。]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[コードが無効または空白]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[OnSiteのセッションのロードに失敗しました(コードが見つかりませんでした)]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[開始する]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[ヘルプデスク]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[ステップバイステップ]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[ファイルのダウンロードに失敗しました(エラー: %s)]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[いますぐお手伝いさせていただきます！]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[いますぐお手伝いさせていただきます！]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[いますぐお手伝いさせていただきます！]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[<b>OnSite</b>はリモートサポートツールで、一時的にお客様のお使いのPCにダウンロードしていただき、ハードディスクのクリーンアップをしていただくだけで消去されます。<br /><br />お客様とオペレーターの利用端末がインターネットを通して接続されます。お客様がオペレーターに<i>を許可する限り、キーボードとマウスのコントロールのみが共有されます。(お好きなときにコントロールの変更とセッションの終了が可能です)</i>]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[OnSiteは確実に安全なツールです。お客様の承諾が得られ、尚且つお客様が<b>OnSite</b>を実行中のときのみ、お客様の対応担当オペレーターだけがお使いのPCをコントロールすることができます。<br /><br /><strong>コントロールキーとF1キーを押していただければ、お好きなときにセッションを終了させることが可能です。セッションはその瞬間に終了され、オペレーターはお客様のPCにアクセスすることができなくなります。</strong>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[正確には何をダウンロードし、どのような仕組みで動作するんですか？]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[本当にパソコンにダウンロードして安全なんですか？]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[オペレーターがお客様のお手伝いをするために、リモートサポートソフトOnSite&reg;を下のリンクからダウンロードしてください。このソフトは、一時的にお客様のPCをオペレーターにコントロールさせるのを許可させるためのものです。お使いのPCの共有を停止するには、コントロールキーとF1キーを押してください。]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[オペレーターがリモートサポートセッションをスタートし、お使いのマウスとキーボードのコントロールを試みようとしています。]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[windows向けOnSiteをダウンロードするには、こちらをクリック]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[「実行する」と表示されたら、そちらをクリックしてください。]]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[OnSiteセッションを開始するには、セキュリティ警告ダイアログ画面内の「実行する」をクリック]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[住所:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[お住まいの都市:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[国:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[組織名:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[電話番号:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[組織プロフィール]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[進捗状況:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[組織プロフィールが無事に更新されました]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Webサイト:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[郵便番号:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[ページ %s 中 %s]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[パスワードの詳細]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[PDFファイル]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[現在、お客様の前に %s 人が並んでおります。]]></phrase>
+<phrase section="mime" code="php"><![CDATA[PHPスクリプトファイル]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[何かお手伝いできますか？]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[何かお手伝いできますか？]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[オペレーターがまもなく対応いたしますので、しばらくの間お待ちください。]]></phrase>
+<phrase section="mime" code="png"><![CDATA[PNG画像]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[投稿者]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[新しいコメントを投稿する]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Powered by Kayako Help Desk Software]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[PowerPointファイル ]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[PowerPointファイル ]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[メールアドレスを追加]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[環境設定]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[サマータイムを有効にする:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[ご氏名:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[ 非公開 ]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[言語:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[少なくとも1つメールアドレスを明記してください]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[チャットを開始]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[お客様をお手伝いする準備ができております。&quot;チャットを開始&quot;をクリックし、オペレーターに接続してください。]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[何かお困りごとですか？]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[訪問者]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[プロフィール詳細]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[マイプロフィール]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[所属組織:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[電話番号:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[この電話番号(%s)は既に他のアカウントにより使用されています。]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[プロフィール画像:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[プロフィールが更新されました]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[タイムゾーン:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[職位:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[設定が保存されました]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ 非表示 ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Real オーディオファイル]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[RARファイル]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[続きを読む &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[最新記事]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[メールアドレス:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[入力されたメールアドレスは既に登録されています。お忘れになったパスワードオプションを使いパスワードを取得し直すか、違うメールアドレスをご使用ください。]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[このメールアドレス(%s)は、既に利用されています。]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[お客様の登録が完了すれば、メールを通してのお問い合わせが可能となります。ご迷惑をおかけして申し訳ございません。]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[お客様のメールアドレスの処理が完了されませんでした。ヘルプデスクアカウントを作成いただいて、メールアドレスを利用し、お問い合わせください。弊社のヘルプデスクへの登録はこちらからとなります:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[メールアドレスの処理に失敗しました(登録が必須です)]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[ご氏名:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[入力されたメールアドレスは無効です。]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[新規アカウントのヘルプデスクを登録するには、下の欄を入力してください。]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[ヘルプデスク %s にようこそ]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[ヘルプデスク %s への登録を確認ください。]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[このメールは弊社のヘルプデスクにご登録いただいた確認メールです。
+
+メールアドレス: %3$s
+パスワード: 非表示
+
+お好きなときにヘルプデスクに行き、記事を探したり、ご連絡いただくことができます。: %2$s
+
+ご登録いただき誠にありがとうございました！
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[登録が完了しました]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[新規アカウントを作成]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[ヘルプデスク %1$s にご登録いただき誠にありがとうございます  (%2$s)
+
+お客様のメールアドレスの確認をしてください。
+
+アカウントを有効にするには、下のリンクをクリック、またはコピーし、お使いのブラウザ&#39;の検索バーに貼り付けてアクセスしてください。
+
+%3$s
+
+もしこちらのメールにお心当たりがない場合、お手数ですが当メールを破棄して頂ければ幸いです。
+アカウントが登録されることもなく、今後このようなメールが届くこともございません。
+
+今後ともよろしくお願いいたします。
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[このメールは、お客様が弊社のヘルプデスクに登録されたことを確認するためのメッセージです。
+
+登録メールアドレス: %3$s
+パスワード: %4$s
+
+ヘルプデスクを訪れていただくことで、お好きなときに記事を探したり、お問い合わせをしていただくことが可能となります:
+%2$s
+
+ご登録いただき誠にありがとうございました！
+
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[登録情報の詳細]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[パスワード:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[パスワード(同じパスワードを入力)]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[入力されたパスワードが一致しません。]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[登録する]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[登録いただき誠にありがとうございます！登録内容の詳細のコピーをお客様のメールアドレスに送信いたしました。この横にあるログインフォームからログインしてください。]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[思い出させる]]></phrase>
+<phrase section="default" code="reply"><![CDATA[返信する]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[コメントに返信する]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[必須項目が1つ入力されていません。]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[RSSフィード]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Richテキストフォーマットファイル]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[「実行する」が表示されたらクリックしてください。]]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[OnSiteセッションを開始するために、セキュリティ警告ダイアログ画面内の「実行する」をクリックしてください。]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Ms.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Mr.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Mrs.]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[検索する]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[結果を検索する]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[ナレッジベース上で問題の解決方法が見つからなかった場合、下から適切な部門を選択し、お問い合わせを送信ください。]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[お問い合わせを送信する]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[送信する]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[部門]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[メールアドレス]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[ご氏名]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[お客様のメッセージ]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[優先度]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[件名]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[件名: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[お問い合わせID]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[お問い合わせの種類]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[コメント]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[お客様のご意見]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[入力いただいたメッセージが送信されませんでした。リクエストがオペレーターに許可されるまで、少々お待ちください。]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[エラーが発生しました(部門が無効です)。再度お試しください。]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[お問い合わせ優先度が無効です; 再度お試しください。]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[エラーが発生しました(お問い合わせの種類が無効です)。再度お試しください。]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[部門]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[登録する]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s は既にニュースフィードに登録されています。]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[ヘルプデスク:]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[アンケートにお答えいただき誠にありがとうございます -  弊社はお客様のご意見を知ることを非常に重要と考えております。ウィンドウをお閉じいただけます。]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[アンケートにお答えいただくには、こちらをクリックしてください: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[お客様のご意見を知ることは弊社にとって非常に重要なことであり、より良いカスタマーサポートサービスをご提供させていただくことに繋がります。]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[弊社が提供するカスタマーサポートでのお客様の満足度を向上させるために、当サービスをご利用になったお客様のご意見を、ぜひご教示ください。]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[複数のオプションから選択していただくだけのごく簡単なアンケートですので、ぜひお答えいただければ幸いです。]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[アンケートのご記入には、3分もかかりません(お約束します！)]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[どうぞ宜しくお願いいたします。]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[お客様の弊社のサービスについてのご意見についてぜひお聞かせください。下の簡単なアンケートから、サービスをご利用になって感じたご意見・ご要望などをお知らせください。]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[お客様のお問い合わせに関するメールです]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[お客様のご意見を知り、より良いサービスをご提供させていただくことが弊社の最優先事項ですので、貴重なお時間を割いていただいてまでお知らせくださり、誠にありがとうございます。]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Macromedia Flashファイル]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[ファイルを追加する]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[TARファイル]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[ご登録いただき誠にありがとうございました！]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[ありがとうございました。登録を完了させるためにお使いのメールの受信箱をご確認ください。]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[貴重なご意見をいただき誠にありがとうございました！]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[弊社のニュースフィードの購読が無事解除されました - またのお越しをお待ちしております！]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[添付ファイル]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[受信者 (BCC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[受信者(CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[お客様]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[投稿日:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[受信者]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[スタッフ]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[サードパーティー]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[お問い合わせの詳細]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[お問い合わせ履歴]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[申し訳ございません。お客様が要求されたお問い合わせが見つからない、もしくは閲覧する許可がございません。]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[お客様のお申し込みを無事受信しました。まもなくサポートチームが対応させていただきます。ヘルプデスクにログインし、お申し込みの進捗状況を確認していただくか、お使いのメールから更新状況をご確認いただけます。]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[お客様のご要望が無事送信されました。]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[アンケート: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[お問い合わせ内容を確認する: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[お問い合わせを確認する]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[部門]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[最新返信者]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[前回のアップデート]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[優先度]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[進捗状況]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[お問い合わせ番号]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[お問い合わせの種類]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[転送先: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[送信先: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[投稿日: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[ゴミ箱]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[添付ファイル]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; 戻る]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (訪問者数: %d 人)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[次へ &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[次のステップ]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[トラブルシューティング]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[一般的な問題であれば、いくつかの質問を通してお客様のお困りごとの解決のお手伝いをさせていただけます。
+「トラブルシューター」のカテゴリーを選択していただき、そちらから開始してください。]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[アップデート日: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[テキストファイル]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[エラーが発生しました(%s が実行できません)]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[未割り当て]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[購読解除]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[お問い合わせ状況が更新されました。]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[ファイルを添付する]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[ようこそ！プロフィールを更新していただくと、将来的により良いサービスをご提供させていただけます。]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[お客様のアカウント確認を完了していただければ、メールでのお問い合わせがご利用いただけます。お手間をおかけして、申し訳ございません。]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[お客様のメールアドレスの処理が失敗しました (アカウント確認が完了していません)]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[お客様のメールアドレスの処理が完了されませんでした。ヘルプデスク対応用のメールアドレスが存在しますが、アカウント確認処理が完了されておりません。]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[お客様のメールアドレスの処理が完了されませんでした。ヘルプデスク対応用のメールアドレスが存在しますが、アカウント確認処理が完了されておりません。アカウントを登録していただくには、管理者の承認を得る必要があります。そちらの処理が完了されるまでヘルプデスクへのメールを送ることが出来ません。]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[登録いただき誠にありがとうございます。下記URLからメールアドレス確認を完了してください。お客様の登録を完了していただくには、こちらのリンクをクリックしていただく必要がございます。ログインをしていただくためには、こちらのステップをご完了ください。]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[メールアドレスの確認が必要です。]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%d時 %d分 %d秒]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%d分 %d秒]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%d秒]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[キャプチャ画像認証]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[キャプチャ画像認証]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[すべてのニュースを確認する]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[解決済みのお問い合わせを確認する]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[作成日:]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[お問い合わせ内容が変更されました。上の保存ボタンをクリックし、保存してください。]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[部門]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[オーナー]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[返信を追加する]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[優先度]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[変更を保存する]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[進捗状況]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[お問い合わせの種類]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[アップデート日:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s(%s)の返信内容:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[WAVファイル]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[ホーム]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[データベース]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[ニュース]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[登録する]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[お問い合わせを送信する]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[トラブルシューター]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[お問い合わせ履歴]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Excelファイル]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Excelファイル]]></phrase>
+<phrase section="default" code="yes"><![CDATA[はい]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[なにしかしらの問題をご報告される場合、できるだけ明確な多くの情報をご提供いただければ、問題のより迅速な解決が図れます。]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[お問い合わせ状況]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[ZIPファイル]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[最新ニュース]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[%d 分間ログインがロックされています(試行回数：%d / %d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[ユーザー名またはパスワードが間違っています (試行回数：%d / %d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[ニュースレター購読:]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[指定したパスワードは、パスワード ポリシーの要件を満たしません。]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[パスワード要件を満たしていません。]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[申し訳ありませんが、添付ファイルのアップロード中に問題が発生しました。ファイルの容量が制限を超えている可能性があります。]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[受信者]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[半角スペースまたはコンマで区切ることにより複数のメールアドレスを指定できます。受信者にはチケットの更新が通知されます。]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ 文字数: %d 以上、数字の数: %d 以上、記号の数: %d以上、大文字の数: %d 以上]]></phrase>
+</swiftlanguage>

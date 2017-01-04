@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[Tiếng Việt]]></title>
+<isocode><![CDATA[vi]]></isocode>
+<author><![CDATA[Kayako]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}vn.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Thông tin tài khoản]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Tin nhắn này liên quan đến ID #%s ticket của bạn. Chúng tôi đang thay đổi trạng thái của ticket này sang '%s' do không nhận được thông tin phản hồi của bạn trong %s tiếng vừa qua.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Hãy cho chúng tôi biết nếu bạn có thêm bất kỳ các thắc mắc nào. Bạn có thể kiểm tra trạng thái hoặc hồi âm ticket trực tuyến này tại: ]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Tin nhắn này liên quan đến ticket #%s của bạn. Chúng tôi vẫn chưa nhận được thông tin phản hồi của bạn trong %s tiếng vừa qua, và muốn biết liệu bạn có muốn xem xét giải quyết vấn đề này không. Nếu có bất kỳ thắc mắc gì, đơn giản chỉ cần hồi âm email này.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Vui lòng lưu ý là ticket này sẽ tự động đóng lại trong vòng %s tiếng nếu chúng tôi không nhận được thông tin phản hồi nào của bạn. Bạn có thể kiểm tra trạng thái hoặc hồi âm ticket trực tuyến này tại: ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[%s thao tác chưa được đăng ký]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[Xin vui lòng đợi trong giây lát, nhân viên chúng tôi sẽ nhanh chóng trả lời bạn. Yêu cầu của khách hàng rất quan trọng với chúng tôi.]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[%s thao tác chưa được đăng ký]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Phòng ban: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[Email: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[Trân trọng,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Cảm ơn bạn đã liên lạc với chúng tôi. Đây là email trả lời tự động để xác nhận đã nhận được ticket của bạn. Nhân viên của chúng tôi sẽ liên lạc với bạn trong thời gian ngắn nhất có thể. Khi hồi âm vui lòng ghi rõ ID của ticket ở phần tiêu đề của email này để chúng tôi có thể nhanh chóng tìm thấy phản hồi của bạn.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Mật khẩu: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Ưu tiên: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Trạng thái: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Bạn có thể kiểm tra trạng thái hoặc cập nhật ticket trực tuyến này tại: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Tiêu đề: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[ID của ticket: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Bài này có ích]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[Bài này không có ích]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[Bỏ phiếu]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Loại: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[BCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Người nhận]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Nhân viên]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Bên thứ ba]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Người dùng]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Trở về]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Kế tiếp &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Gửi đi]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Bắt đầu Chat]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Gửi đi]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Cập nhật]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Byte]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[Tập tin BZ]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[Tập tin BZ2]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Gọi cho tôi]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Hủy]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Vui lòng nhập các ký tự bạn nhìn thấy vào ô chữ phía dưới. Thủ tục bắt buộc này nhằm tránh bị đăng ký tự động.]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[Xác nhận CAPTCHA]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Đổi mật khẩu]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[Phiên hỗ trợ đã kết thúc.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Xin bạn vui lòng dành chút thời gian trả lời một bảng khảo sát ngắn liên quan tới dịch vụ chăm sóc khách hàng mà bạn vừa được phục vụ.]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Hãy nhấp vào đây và để lại lời nhắn.]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[Chúng tôi muốn biết ý kiến phản hồi của bạn. Hãy nhấp vào nút Hủy để thực hiện một bảng khảo sát ngắn gọn, nếu không thì nhấp OK để đóng của sổ này.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s đã tham gia phiên hỗ trợ.]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[Phiên hỗ trợ đã quá thời gian cho phép hoặc đã kết thúc.]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s đã rời phiên hỗ trợ.]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[Bản sao nội dung đoạn đối thoại giữa nhân viên hỗ trợ và bạn sẽ được gửi tới địa chỉ email:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Nhóm Mẫu]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[Nhấp nút 'Tiếp tục' khi có thông báo bắt đầu tải về.]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[Khi tải xong tập tin, nhấp vào OnSite trên thanh tải về.]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[Nhấp nút 'Run' trên cửa sổ Cảnh Báo Bảo Mật để bắt đầu lượt hỗ trợ OnSite.]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Nhấp vào đây để Chat Trực Tiếp]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[Nhân viên hỗ trợ hiện không có mặt. Hãy nhấp vào đây và để lại lời nhắn.]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Nhấp vào đây để gọi ngay]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Nhấp gọi ngay]]></phrase>
+<phrase section="default" code="close"><![CDATA[Đóng]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Cảm ơn quý khách đã gửi kết quả bảng khảo sát. Góp ý của các bạn có thể đã được đánh dấu để xem và sẽ hiện ra khi được phê chuẩn bởi nhân viên của chúng tôi.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Bình luận:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[Email:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Tên đầy đủ:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Bình luận]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s VinaMarket.COM.]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Không tạo được đối tượng]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- Múi Thời Gian Mặc Định --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href=\"http://vinamarket.com\" target=\"_blank\" class=\"bottomfooterlink\">Trung tâm hỗ trợ khách hàng của VINAMARKET.COM</a>  - Giải pháp phần mềm: Kayako %s]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[Tài khoản email]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Email cung cấp không hợp lệ]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Mật khẩu mới:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[CAPTCHA vừa nhập không chính xác, vui lòng thử lại.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Định dạng tập tin ảnh hồ sơ không phù hợp. Định dạng tập tin phải là một trong các tên sau đây: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Không thể kết nối với máy chủ SMTP]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Phòng ban không hợp lệ. Vui lòng chọn lại.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[%s thao tác chưa được đăng ký]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Mật khẩu đang dùng:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Mật khẩu hiện tại của bạn không chính xác.]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Nhân viên hỗ trợ:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Câu hỏi của bạn:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Bình luận:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Phòng ban:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[Email:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Tên đầy đủ:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Tin nhắn:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Điện thoại:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Đánh giá:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Tiêu đề: ]]></phrase>
+<phrase section="default" code="file"><![CDATA[Tập tin]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Vấn đề thường gặp]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Danh mục tin tức]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[Vui lòng nhấp "Lưu tập tin" khi được thông báo.]]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[Khi kết thúc tải tập tin, nhấp vào OnSite trên thanh tải về.]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[Nhấp nút 'Run' trên cửa sổ Cảnh Báo Bảo Mật để bắt đầu lượt hỗ trợ OnSite.]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[Chúng tôi vừa nhận được yêu cầu đặt lại mật khẩu từ %1$s Trung tâm hỗ trợ  (%2$s). Nếu bạn không phải là người đưa ra yêu cầu này thì hãy bỏ qua email vừa nhận.
+
+Để phục hồi mật khẩu, hãy nhấp hoặc chép đường link dưới đây vào thanh địa chỉ của trình duyệt web của bạn:
+
+%3$s
+
+Trân trọng,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Thông tin chung]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Tùy chọn chung]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[Mật khẩu mới cho Trung tâm hỗ trợ %s]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[Nếu cần biết thêm thông tin hoặc nếu bạn không yêu cầu xử lý mật khẩu thì hãy liên lạc với Trung tâm hỗ trợ theo đường link dưới đây.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Mật khẩu của bạn tại Trung tâm hỗ trợ  đã được đặt lại và có thể thấy ở dưới đây:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[Hình ảnh GIF]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[Tập tin GZIP]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Ẩn ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Ẩn các ticket đã xử lý]]></phrase>
+<phrase section="default" code="home"><![CDATA[Trang chủ]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[Trang HTML]]></phrase>
+<phrase section="mime" code="html"><![CDATA[Trang HTML]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Biểu tượng Tập tin]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[Nhấp vào 'Run' khi có thông báo.]]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[Đợi cho tới khi hoàn tất tải về.]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[Nhấp nút 'Run' trên cửa sổ Cảnh Báo Bảo Mật để bắt đầu lượt hỗ trợ OnSite.]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[Nhấp vào 'Run' khi có thông báo.]]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[Đợi cho tới khi hoàn thành download.]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[Nhấp nút 'Run' trên cửa sổ Cảnh Báo Bảo Mật để bắt đầu lượt hỗ trợ OnSite.]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[Nhấp nút 'Run' khi có thông báo. Lượt OnSite của bạn tự động bắt đầu khi tải về xong.]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Tập tin đính kèm bị từ chối (có thể kích thước tập tin quá lớn hoặc sai định dạng theo yêu cầu): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Email cung cấp không hợp lệ]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[Cơ quan này không tồn tại. Vui lòng liên lạc với nhân viên hỗ trợ.]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Hash thuê bao không hợp lệ]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Email hoặc mật khẩu không hợp lệ]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Tài khoản người dùng không hợp lệ. Tài khoản này không tồn tại.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Không thể đăng nhập. Tài khoản đã bị khóa.]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Không thể đăng nhập. Tài khoản đã hết hạn sử dụng]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Không thể đăng nhập. Bạn không thuộc nhóm được truy cập vào nhóm mẫu này.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Mật khẩu không hợp lệ hoặc đã hết hạn]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[Bài viết trong "Vấn đề thường gặp" của chúng tôi sau đây có thể phù hợp với thông tin bạn cần tìm. Vui lòng dành chút thời gian đọc thông tin đó. Xin cảm ơn.]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Đang tải gợi ý từ "Vấn đề thường gặp"...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[Không tìm thấy thông tin phù hợp nào trong "Vấn đề thường gặp".]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Gợi ý từ "Vấn đề thường gặp"]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s đang viết...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[Tập tin JAR]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[Bạn đang chat với  %s - %s]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[Bạn đang chat với %s]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[Hình ảnh JPEG]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[Hình ảnh JPEG]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Đính kèm]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Bạn không được phép xem bài viết này hoặc bài viết bạn vừa tìm không tồn tại.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Vấn đề thường gặp]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Ngôn ngữ:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Cập nhật mới nhất]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[Email]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[In]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Âm thanh: tắt]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Âm thanh: Bật]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Để lại lời nhắn]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Cảm ơn bạn đã liên lạc với chúng tôi. Nhân viên hỗ trợ chúng tôi sẽ xem xét yêu cầu và sớm liên lạc với bạn.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[Để quá trình trợ giúp được nhanh chóng và hiệu quả, bạn vui lòng cung cấp cho chúng tôi một vài thông tin trước khi thông tin được gửi đi.]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Chat trực tiếp]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - chat trực tiếp trên %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[Vui lòng cung cấp một số thông tin trước khi bắt đầu chat để chúng tôi có thể phục vụ bạn tốt hơn.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Điền số điện thoại và các thông tin yêu cầu dưới đây để bắt đầu kết nối.]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Người đăng nhập: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Đăng nhập]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Email của bạn]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Hãy đăng nhập để tiếp tục]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Đăng xuất]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Quên mật khẩu]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Vui lòng nhập email và nhấp nút "Gửi đi". Bạn sẽ sớm nhận được email có đường link để đặt lại mật khẩu.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Yêu cầu đặt lại mật khẩu tại Trung tâm hỗ trợ %s ]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Vui lòng nhập mật khẩu mới bên dưới và nhấp nút "Gửi đi" để thiết lập lại mật khẩu của bạn.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Quên mật khẩu]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Không thể định vị tài khoản người dùng với địa chỉ email "%s"]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Email đặt lại mật khẩu đã được gửi tới "%s"]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Cập nhật mật khẩu thành công; bạn có thể đăng nhập bằng mật khẩu mới.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Chat Trực tiếp sẽ sớm trở lại]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[Chat Trực tiếp đã đóng lại]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Đổi mật khẩu]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Đăng xuất]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Cơ quan của tôi]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Tùy thích]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Hồ sơ của tôi]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[Bài viết phổ biến nhất]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[Phim QuickTime]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG Audio]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[Phát hiện lỗi giả mạo yêu cầu CSRF. Vui lòng thử lại sau]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Tài khoản]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Cơ quan của tôi]]></phrase>
+<phrase section="default" code="na"><![CDATA[- NA -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Bài đăng gần đây &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Mật khẩu mới:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Xác nhận mật khẩu mới:]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[Mật khẩu mới nhập không trùng khớp.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[Cập nhật mật khẩu thành công.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Tin tức]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[Không thể tìm thấy tin này.]]></phrase>
+<phrase section="default" code="no"><![CDATA[Không]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[&#39; không hiển thị ở đây]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Xin lỗi, bạn không được phép thực hiện thao tác này.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Chúng tôi &#39; không thể tìm thấy bất cứ điều gì liên quan đến thông tin bạn đang tìm]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Xác nhận đăng ký tin tức]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Đăng ký nhận tin news feed của bạn đã được xác nhận. Tin tức sẽ được tự động cập nhật mỗi khi có tin mới. Bạn có thể hủy đăng ký nhận tin bất cứ lúc nào bằng cách bấm vào link sau đây.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Vui lòng liên lạc với chúng tôi nếu có thêm bất cứ thắc mắc nào,]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Cảm ơn bạn đã đăng ký nhận news feed. Bạn cần phải xác nhận đăng ký để có thể nhận được thông tin mới nhất. Hãy nhấp vào link dưới đây để kích hoạt đăng ký của bạn.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Xác nhận đăng ký nhận tin]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Offline]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Bài đăng Cũ hơn]]></phrase>
+<phrase section="default" code="on"><![CDATA[Ngày]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[Online]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[Nhập 4 chữ số phiên mã mà nhân viên chúng tôi gửi cho bạn và sau đó nhấn bắt đầu Bắt đầu để tải về một công cụ nhỏ gọi là <b>OnSite</b> cho phép chúng tôi chia sẻ tạm thời quyền kiểm soát máy tính của bạn.]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Kayako OnSite hiện chỉ có sẵn cho Microsoft Windows.]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[Bạn sẽ tải về một công cụ nhỏ gọi là <b>OnSite</b> cho phép chúng tôi chia sẻ tạm thời quyền kiểm soát máy tính của bạn. <br /> <br />Công cụ <b>OnSite</b> nên bắt đầu tải xuống tự động. Nếu không, xin vui lòng <a href="%s" class="lightbluelink">Nhấp vào đây</a> để tải về. <br /> <br />bạn sẽ tìm thấy hướng dẫn cách sử dụng <b>OnSite</b> dưới đây.]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[Mã không hợp lệ hoặc mã trống]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[Chúng tôi không thể tải OnSite (không tìm thấy mã)]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[Bắt đầu]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[Trung tâm hỗ trợ]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[Từng bước]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[Không thể tải tập tin (lỗi: %s)]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[Chúng tôi sẽ giúp bạn ngay!]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[Chúng tôi sẽ giúp bạn ngay!]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[Chúng tôi sẽ giúp bạn ngay!]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[<b>OnSite</b> là một công cụ hỗ trợ từ xa hoạt động bằng cách tạm thời cài đặt nó trên máy tính của bạn trong một khu vực của ổ cứng của bạn, và nó sẽ bị gỡ bỏ trong lần tới khi dọn dẹp ổ cứng  <br /> <br />Khi bạn khởi động nó, bạn và nhân viên chúng tôi sẽ được kết nối qua Internet, và họ sẽ có thể chia sẻ quyền kiểm soát bàn phím và chuột của bạn nếubạn cho phép <i>(bạn có thể ghi đè các điều khiển</i> và kết thúc phiên hỗ trợ bất kỳ lúc nào).]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[Nó hoàn toàn an toàn. Chỉ có nhân viên hỗ trợ bạn mới được phép kiểm soát máy tính của bạn, và chỉ khi <b>OnSite</b> đang chạy và bạn cấp quyền truy cập. <br /> <br /><strong>Nếu bất cứ lúc nào bạn muốn kết thúc phiên hỗ trợ, chỉ cần giữ phím Control và nhấn F1. Phiên hỗ trợ sẽ kết thúc ngay lập tức và nhân viên hỗ trợ sẽ không thể kiểm soát máy tính của bạn được nữa.</strong>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[Tôi đang tải về những gì và nó hoạt động như thế nào?]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[Nó có an toàn cho máy tính của tôi không?]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[Vui lòng tải chương trình hỗ trợ từ xa OnSite&reg; bằng cách nhấp vào đường link dưới đây để cho phép nhân viên chúng tôi hỗ trợ bạn. Chương trình này cho phép nhân viên hỗ trợ chúng tôi tạm thời kiểm soát máy tính của bạn. Nếu muốn ngừng chia sẻ quyền kiểm soát máy tính của bạn bất cứ lúc nào, hãy giữ phím Control và nhấn F1 phím trên bàn phím.]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Nhân viên hỗ trợ chúng tôi mong muốn bắt đầu một phiên hỗ trợ từ xa và kiểm soát chuột và bàn phím của bạn]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Nhấp vào đây để tải về công cụ hỗ trợ OnSite cho Windows]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[Nhấp vào 'Run' khi có thông báo.]]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[Nhấp nút 'Run' trên cửa sổ Cảnh Báo Bảo Mật để bắt đầu lượt hỗ trợ OnSite.]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Địa chỉ:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[Tỉnh/thành phố:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Quốc gia:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Tên Cơ Quan:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Điện thoại:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Hồ Sơ Cơ Quan]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Phường:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Hồ sơ cơ quan của bạn đã được cập nhật thành công]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Đã cập nhật thành công hồ sơ cơ quan của bạn]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Mã ZIP/Bưu chính:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[Trang %s / %s]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Chi tiết mật mã]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[Tài liệu PDF]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[Phía trước bạn hiện có  %s người đang xếp hàng chờ đợi.]]></phrase>
+<phrase section="mime" code="php"><![CDATA[Tập lệnh PHP]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[Chúng tôi có thể giúp gì cho bạn?]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Chúng tôi có thể giúp gì cho bạn?]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Xin vui lòng đợi trong giây lát, nhân viên hỗ trợ sẽ trả lời cho bạn ngay.]]></phrase>
+<phrase section="mime" code="png"><![CDATA[Hình ảnh PNG]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Đăng bởi]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Đăng bình luận mới]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Cung cấp bởi Phần Mềm Hỗ Trợ Khách Hàng Kayako]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[Tài liệu PowerPoint]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[Tài liệu PowerPoint]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[Thêm Email]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Tùy thích]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Chọn DST:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Tên đầy đủ:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[Riêng tư]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Ngôn ngữ:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Bạn phải chỉ định ít nhất một địa chỉ email hợp lệ]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Chat Bây Giờ]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Nhóm chúng tôi đã sẵn sàng hỗ trợ bạn. Nhấp vào  &quot;Chat Bây Giờ&quot; để kết nối ngay với nhân viên chúng tôi.]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Bạn cần trợ giúp?]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Lượt truy cập]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Chi tiết Hồ sơ]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[Hồ sơ của tôi]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Cơ quan:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Số điện thoại:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[Số điện thoại này (%s) đang được tài khoản khác sử dụng.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Hình Ảnh Hồ Sơ:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Hồ sơ của bạn cập nhật thành công]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Múi giờ:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Danh xưng/Địa vị:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Đã cập nhật thành công tùy thích của bạn]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[Ẩn]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Tập tin Real Audio]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[Tập tin RAR]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Đọc thêm &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Bài viết mới nhất]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[Email:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[Email đã được dùng để đăng ký. Vui lòng chọn mục tùy chọn mật khẩu để lấy lại mật khẩu cũ hoặc đăng ký bằng một email khác.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[Email  (%s) đã được dùng để đăng ký.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[Sau khi đăng ký xong, bạn có thể gửi tickets trực tiếp qua email. Chúng tôi xin lỗi vì sự bất tiện này.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Yêu cầu của bạn chưa được hệ thống chấp nhận. Bạn cần tạo một tài khoản Trung tâm hỗ trợ trước khi có thể tạo các tickets qua email. Hãy đăng ký tại địa chỉ sau:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Bạn cần đăng ký thành viên: Không thể tạo ticket]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Tên đầy đủ:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Email cung cấp không hợp lệ.]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Để đăng ký một tài khoản Trung tâm hỗ trợ, bạn hãy điền thông tin dưới đây.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Chào mừng bạn đến với Trung tâm hỗ trợ của VINAMARKET.COM %s]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Xác nhận đăng ký Trung tâm Hỗ trợ %s]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Email này xác nhận bạn đã đăng ký thành công với Trung tâm hỗ trợ.
+
+Email đăng ký: %3$s
+Mật khẩu: [Ẩn]
+
+Bạn có thể ghé Trung tâm hỗ trợ bằng cách nhấp vào link %2$s
+
+Hãy đặt câu hỏi khi bạn cần biết bất cứ điều gì.
+
+Trân trọng,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Đăng ký thành công]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Tạo tài khoản mới]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Cảm ơn bạn đã đăng ký tại Trung tâm hỗ trợ của %1$s (%2$s).  
+
+Chúng tôi cần xác minh địa chỉ email của bạn.  
+
+Để kích hoạt tài khoản của bạn, xin vui lòng nhấp vào link bên dưới hoặc sao chép và dán đường link vào trình duyệt của bạn &#39; s trên thanh địa chỉ:%3$s 
+
+Nếu bạn không phải là người đã đăng ký và bạn tin là có ai đó đã làm mà không có sự đồng ý của bạn, bạn chỉ cần bỏ qua email này không cần làm điều gì khác. Hệ thống của chúng tôi sẽ tự động xóa thông tin đã đăng ký trong vòng 30 ngày và không gửi thêm bất cứ một thông tin nào khác nữa đến email của bạn.
+
+Trân trọng
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Tin nhắn này thay cho xác nhận bạn đã đăng ký thành công với Trung tâm hỗ trợ.
+
+Email đăng ký: %3$s
+Mật khẩu: %4$s
+
+Bạn có thẻ ghé thăm Trung tâm hỗ trợ bất cứ khi nào bạn muốn %2$s
+
+Nếu bạn có câu hỏi thì hãy gửi ngay cho chúng tôi.
+
+Trân trọng,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Thông tin Đăng ký]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Mật khẩu:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Mật khẩu (lặp lại):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Mật khẩu nhập không trùng khớp.]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Đăng ký]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Cảm ơn bạn đã đăng ký! Một bản sao chi tiết đăng ký đã được gửi vào địa chỉ email của bạn. Vui lòng sử dụng thông tin đăng nhập bên cạnh đoạn tin nhắn này để đăng nhập.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Lưu thông tin]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Hồi âm]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Hồi âm bình luận]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[Một trong các khu vực yêu cầu trống rỗng]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[Nguồn cấp dữ liệu RSS]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Tập tin định dạng văn bản phong phú]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[Nhấp vào 'Run' khi có thông báo.]]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[Nhấp nút Run trên cửa sổ Security Warning để bắt đầu lượt hỗ trợ OnSite.]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Tiến sĩ.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Cô]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Ông]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Bà]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[TÌM KIẾM]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[Kết quả tìm kiếm]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Nếu bạn không tìm đuợc câu trả lời phù hợp tại "Vấn đề thường gặp", hãy chọn một trong các phòng ban sau đây để gửi một ticket.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Gửi ticket]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Gửi đi]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Phòng ban]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[Email]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Họ và Tên]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Nội dung chi tiết]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Ưu tiên]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Tiêu đề]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Tiêu đề: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[ID của Ticket]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Loại]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Bình luận]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Phản hồi của bạn]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Lời nhắn của bạn chưa được chuyển đi. Vui lòng chờ đợi nhân viên hỗ trợ chấp nhận yêu cầu của bạn.]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Phòng ban không hợp lệ. Vui lòng bắt đầu lại.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Cung cấp sai độ ưu tiên cho yêu cầu; vui lòng bắt đầu lại.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Loại ticket không hợp lệ. Vui lòng bắt đầu lại.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Phòng ban]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Đăng ký]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[Bạn %s đã đăng ký nhận news feed rồi.]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Trung tâm hỗ trợ:]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Cảm ơn đã hoàn thành bảng khảo sát - phản hồi của bạn thật sự rất quan trọng đối với chúng tôi. Bạn có thể đóng cửa sổ này.]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[Hãy nhấp vào đường link sau để thực hiện bảng khảo sát: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[Phản hồi của quý khách rất quan trọng vì chúng giúp chúng tôi cải thiện chất lượng phục vụ trong tương lai.]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Chúng tôi mong bạn bày tỏ cảm nhận về dịch vụ hỗ trợ từ phía chúng tôi nhằm cải thiện chất lượng phục vụ hỗ trợ khách hàng trong tương lai.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Bạn vui lòng giúp hoàn thành một bảng khảo sát ngắn với vài câu hỏi lựa chọn.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Chúng tôi tin rằng thời gian hoàn thành không quá một phút.]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Xin được cảm ơn trước,]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Phản hồi của bạn rất quan trọng vì chúng giúp chúng tôi hiểu được việc đang làm có ý nghĩa với khách hàng hay không. Vui lòng hoàn thành bảng khảo sát ngắn sau để đánh giá cảm nhận của bạn.]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Email này liên quan tới ticket gần đây của bạn]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Chúng tôi đánh giá cao những phản hồi quý báu của bạn.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Tập tin Macromedia Flash]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Thêm Tập Tin]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[Tập tin TAR]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Cảm ơn bạn đã đăng ký nhận thông tin news feed của chúng tôi!]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Xin cảm ơn. Vui lòng kiểm tra email để xác nhận đăng ký.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Cám ơn đã phản hồi!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[Bạn vừa hủy đăng ký nhận news feed của chúng tôi. Rất lấy làm tiếc khi không thể tiếp tục gửi tin cho bạn!]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Đính kèm]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Người nhận (BCC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Người nhận (CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Khách hàng]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Đăng ngày:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Người nhận]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Nhân viên]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Bên thứ ba]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Thông tin chi tiết Ticket]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Lịch sử ticket]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Xin lỗi, chúng tôi không thể tìm thấy ticket bạn yêu cầu hoặc bạn không được phép xem nó.]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[Chúng tôi đã nhận đươc yêu cầu của bạn và sẽ sớm trả lời chi tiết. Bạn có thể đăng nhập vào trung tâm hỗ trợ để xem xét trạng thái của yêu cầu của bạn, hoặc kiểm tra email của bạn để xem thông tin cập nhật.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Đã nhận được yêu cầu của bạn]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Bảng khảo sát: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Xem ticket: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Xem Tickets]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Phòng ban]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Người hồi âm cuối cùng]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Cập nhật Gần nhất]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Ưu tiên]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Trạng thái]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[ID của Ticket]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Loại]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Chuyển tiếp đến: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[Gửi email đến: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Đăng ngày: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Thùng rác]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Đính kèm]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Trở về]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d Lượt xem)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Kế tiếp &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Các bước tiếp theo]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Xử lý sự cố]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Chúng tôi có thể giúp bạn giải quyết các vấn đề và xử lý sự cố thường gặp thông qua một số câu hỏi. Đầu tiên bạn hãy chọn danh mục xử lý sự cố.]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Cập Nhật ngày: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Tập tin văn bản]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Không thể thực hiện  %s]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Không chỉ định]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Hủy đăng ký]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Cập nhật ticket của bạn thành công]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Đính kèm tập tin]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Đăng nhập thành công. Chào mừng bạn! Vui lòng dành chút thời gian cập nhật hồ sơ dưới đây để chúng tôi có thể phục vụ bạn tốt hơn trong tương lai.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Ngay khi tài khoản được xác nhận, bạn có thể gửi các ticket trực tiếp qua email. Chúng tôi xin lỗi vì sự bất tiện mà bạn có thể gặp phải.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Không thể xử lý email do tài khoản chưa được xác nhận]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Chúng tôi đã không thể xử lý email của bạn do tài khoản vẫn chưa được xác nhận. Mặc dù địa chỉ email này đã được dùng mở một tài khoản tại Trung tâm hỗ trợ.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Chúng tôi đã không thể xử lý email của bạn do tài khoản vẫn chưa được xác nhận. Mặc dù địa chỉ email này được dùng cho Trung tâm hỗ trợ. Tất cả các tài khoản phải được người quản trị phê duyệt, vì vậy hiện giờ bạn chưa thể gửi email đến Trung Tâm hỗ trợ.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Cảm ơn bạn đã đăng ký. Chúng tôi vừa gửi bạn một email có đường link kích hoạt tài khoản. Để có thể đăng nhập vào trung tâm hỗ trợ, bạn vui lòng nhấp vào link đó để xác nhận email của  bạn. Bạn phải hoàn tất bước này trước khi đăng nhập.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[Xác nhận email theo yêu cầu]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[Xác nhận CAPTCHA]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[Xác nhận CAPTCHA]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Xem tất cả tin tức]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Xem ticket đã xử lý]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Đã tạo:]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[Bạn vừa thay đổi một số thứ tại khu vực ticket. Hãy nhấp vào nút Lưu Thay Đổi ở trên để lưu lại.]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[PHÒNG BAN]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[CHỦ SỞ HỮU]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Thêm Hồi Âm]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[ƯU TIÊN]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[Lưu Thay Đổi]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[TRẠNG THÁI]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[LOẠI]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Đã cập nhật:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s (%s) trả lời:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[Tập tin WAV]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Trang chủ]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Vấn đề thường gặp]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Tin tức]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Đăng ký]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Gửi ticket hỗ trợ]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Xử lý sự cố]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Ticket của tôi]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Tập tin Excel]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Tập tin Excel]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Có]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Nhập thông tin chi tiết liên quan đến sự cố bạn gặp phải vào dưới đây và cung cấp càng nhiều thông tin cụ thể liên quan đến sự cố càng tốt.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Thông tin chi tiết ticket của bạn]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[Tập tin ZIP]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[Tin mới nhất]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[Login locked for %d minutes (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[Tài khoản hoặc mật khẩu không đúng (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[Subscribe to Newsletter:]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[Mật khẩu không đạt yêu cầu với chính sách mật khẩu của chúng tôi.]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[Mật khẩu không đạt yêu cầu]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[Xin lỗi, chúng tôi gặp phải một vấn đề khi tải tập tin đính kèm. Có thể do kích thước tập tin đính kèm vượt quá giới hạn tải lên của máy chủ.]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[Recipients]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[You can specify multiple e-mail addressess seperated by a single space or comma, as custom recipients. The recipients will receive ticket updates.]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ Minimum length: %d characters, Minimum digits: %d, Minimum symbols: %d, Minimum uppercase letters: %d]]></phrase>
+</swiftlanguage>

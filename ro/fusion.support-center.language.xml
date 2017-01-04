@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[Română (RO)]]></title>
+<isocode><![CDATA[ro-ro]]></isocode>
+<author><![CDATA[Kayako]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}us.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Informaţii despre cont]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Acest mesaj este cu privire la ticket-ul dvs. ID #%s. Am schimbat statusul acestui ticket la %s pentru că nu am avut noutăti la dvs. în %s ore.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Dacă aveţi orice întrebări anunţaţi-ne. Puteţi verifica statusul sau să răspundeţi la acest ticket online la: ]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Acest mesaj este cu privire la ticket-ul dvs. ID #%s. Nu am mai avut vești de la dvs. în %s ore și ne-ar plăcea să știm dacă considerati că problema dvs. s-a rezolvat. Dacă mai aveți întrebari, trebuie doar să ne răspundeți la acest email.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Vă rugăm să reţineţi că ticket-ul se va închide automat în %s ore dacă nu avem vești la de dvs.. Puteţi verifica status-ul sau să răspundeţi la acest ticket online la: ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[Am întâlnit o problemă (%s acţiune nu este înregistrată)]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[Cererea dvs. este importantă pentru noi. Vă rugăm să aşteptaţi şi, unul dintre operatorii noştri va intra în legatură cu dvs. .]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[Am întâlnit o problemă (%s aplicația nu este înregistrată)]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Departament: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[E-mail: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[Cu stimă,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Vă mulțumim că ați contactat cu noi. Acesta este un răspuns automat, confirmând că am primit ticket-ul dvs. Echipa noastră va contacta cu dvs. în curând. Când răspundeti, vă rugăm să vă asigurați că ticket-ul dvs. este mentionat în subiect, pentru a putea urmări răspunsurile dvs.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Parolă: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Prioritate: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Status: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Puteţi verifica statusul sau actualizarea acestui bilet online la: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Subiect: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[Ticket ID: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Util]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[De nici un ajutor]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[vot(uri)]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Tip: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[BCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Destinatar]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Staff]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Terţe Părţi]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Utilizator]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Înapoi]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Următoarea &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Trimiteţi]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Lansaţi chat-ul]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Trimiteti]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Actualizare]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Bytes]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[Fișier BZ]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[Fișier BZ2]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Sună-mă]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Anulează]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Vă rugăm să introduceţi textul pe care îl vedeţi în imagine, în casuta de mai jos (folosim acest lucru pentru a preveni trimiterile automatizate).]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[Verificare CAPTCHA]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Schimbați Parola]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[Conversația s-a încheiat.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Click aici pentru a realiza un scurt chestionar despre acest chat live.]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Click aici pentru a lăsa un mesaj.]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[Ne-ar plăcea să știm feedback-ul dvs. Apăsați Anulare pentru a realiza la un sondaj scurt, în caz contrar apăsați OK pentru a închide fereastra.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s s-a alăturat conversaţiei.]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[Conversaţia a expirat sau s-a încheiat.]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s a părăsit conversaţia.]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[O transcriere a conversaţiei de până acum va fi trimisă la adresa de mai jos:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Şablon Grup]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[Daţi click pe "Apăsaţi", atunci când vi se solicită, pentru a începe descărcarea.]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[Când descărcarea este completă, daţi click pe OnSite din bara download.]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[Daţi click pe 'Run' din caseta de dialog Security Warning pentru a începe sesiunea dvs. OnSite.]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Click Aici pentru Live Chat]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[Live Chat este offline. Click aici pentru a lăsa un mesaj.]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Daţi click pentru Apel instantaneu]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Daţi click pentru Apel]]></phrase>
+<phrase section="default" code="close"><![CDATA[Închideţi]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Vă mulţumim pentru feedback-ul dvs.. Comentariul dvs. va apărea odată ce a fost aprobat.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Comentarii:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[E-mail:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Nume Complet:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Comentarii]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s Kayako]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Am întâlnit o problemă (crearea obiectului a eșuat)]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[--Implicit Fus Orar--]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Help Desk Software</a> de Kayako]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[Conturi de E-mail]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Adresa de e-mail introdusă nu este validă]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Noua parolă:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[Literele introduse în CAPTCHA nu se potrivesc, vă rugăm să încercaţi din nou.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Vă rugăm, asiguraţi-vă că imaginea dvs. de profil este într-unul din următoarele formate: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Am întâlnit o problemă (Imposibil de a se conecta la SMTP server)]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Ne pare rău, am întâlnit o problemă (department invalid). Vă rugăm să începeți din nou.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[Am întâlnit o problemă (%s evenimentul nu este înregistrat)]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Parolă existentă:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Parola existentă este incorectă.]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Operator:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Întrebarea dvs. :]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Comentarii:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Departament:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[E-mail:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Nume Complet:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Mesaj:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Evaluare:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Subiect:]]></phrase>
+<phrase section="default" code="file"><![CDATA[Fișier]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Bază de cunoştinţe]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Categorii de Știri]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[Daţi click pe 'Save File' atunci când vi se solicită.]]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[Când descărcarea este completă, daţi dublu click pe OnSite în lista de descărcări.]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[Daţi click pe 'Run' din caseta de dialog Security Warning pentru a începe sesiunea dvs. OnSite.]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[Am primit o solicitare pentru a reseta parola contului pentru %1$s helpdesk (%2$s). Dacă credeți că ați primit acest mesaj din greșeală, vă rugăm să-l ignorați.
+
+Pentru a reseta parola, dați click pe linkul de mai jos sau copiați și inserați link-ul în bara de locație a browser-ului dvs.:
+
+%3$s
+
+Vă mulțumim,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Informații generale]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Opţiuni Generale]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[Noua parolă pentru %s helpdesk]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[Pentru mai multe informaţii sau dacă credeţi că acest lucru a fost făcut fără permisiunea dvs., vă rugăm să ne contactaţi accesând linkul de mai jos.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Parola dvs. a fost resetată:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[Imagine GIF]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[Fișier GZIP]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Ascuns ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Ascunde Tickets Rezolvate]]></phrase>
+<phrase section="default" code="home"><![CDATA[Home]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[Pagină HTML]]></phrase>
+<phrase section="mime" code="html"><![CDATA[Pagină HTML]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Fișier Pictogramă]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[Daţi click pe 'Run' atunci când vi se solicită.]]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[Aşteptaţi completarea descărcării.]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[Daţi click pe 'Run' din caseta de dialog Security Warning pentru a începe sesiunea dvs. OnSite.]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[Daţi click pe 'Run' atunci când vi se solicită.]]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[Aşteptaţi completarea descărcării.]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[Daţi click pe 'Run' din caseta de dialog Security Warning pentru a începe sesiunea dvs. OnSite.]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[Daţi click pe 'Run' atunci când vi se solicită. Sesiunea dvs. OnSite va începe automat atunci când descărcarea este completă.]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Din păcate, nu putem accepta ataşările dvs.  (fie din cauza unei dimensiuni prea mari sau din cauza restricţiilor de tip fişier): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Adresa de e-mail introdusă nu este validă]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[Am întâlnit o problemă (această organizaţie nu există)]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Am întâlnit o problemă (hash incorect)]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Email sau parolă invalidă]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Contul de utilizator invalid. Acest cont nu există.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Nu am putut să vă permitem logarea datorită faptului că acest cont este dezactivat]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Nu am putut să vă logăm datorită faptului că acest cont a expirat]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Autentificare imposibilă. Grupul utilizatorului nu este autorizat să acceseze acest grup template.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Am întâlnit o problemă (verificare invalidă sau expirată)]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[Am găsit următoarele răspunsuri sugerate şi articole din baza noastră de cunoştinţe]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Încărcare sugestii din baza noastră de cunoștinte...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[Nu s-au găsit articole relevante în baza noastră de cunoștințe.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Sugestii Bază de Cunoștinte]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s tastează...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[Fișier JAR]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[Acum chat-uiți cu %s - %s]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[Acum chat-uiți cu %s]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[Imagine JPEG]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[Imagine JPEG]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Atașamente]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Ne pare rău - fie acest articol nu există sau nu aveți permisiunea de a-l vizualiza.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Bază de cunostinte]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Limba:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Cele mai recente actualizări]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[E-mail]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[Imprimare]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Sunet: Dezactivat]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Sunet: Activat]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Lăsa-ti un mesaj]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Vă mulțumim pentru mesajul dvs. Echipa noastră vă va răspunde în scurt timp.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[Din păcate, echipa noastră nu este disponibilă în prezent. Cu toate acestea, completaţi formularul de mai jos pentru a ne lăsa un mesaj şi vă vom contacta cât mai curând posibil.]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Live Chat]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - Live Chat on %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[Pentru a îmbunătăţii serviciul, vă rugăm să furnizaţi unele informaţii înainte de a începe chat-ul.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Vă rugăm să introduceţi numărul de telefon şi detaliile de mai jos şi vă vom contacta.]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Autentificat ca: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Autentificare]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Adresa dvs. de e-mail]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Logaţi-vă pentru a continua]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Deconectare]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Parolă pierdută]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Vă rugăm să introduceţi adresa de e-mail înregistrată şi daţi click pe Trimiteţi. Veţi primi un e-mail cu un link pentru a reseta parola în scurt timp.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Solicitare parolă pierdută pentru %s helpdesk]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Vă rugăm să introduceţi parola nouă mai jos şi daţi click pe Trimiteţi pentru a reseta parola.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Parolă pierdută]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Am întâlnit o problemă (nu am putut găsi contul de utilizator cu adresa de e-mail %s)]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[E-mail-ul de resetare a parolei a fost trimis la %s]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Parola dvs. a fost schimbata. Acum va puteti loga utilizând noile date.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Live Chat va fi din nou în curând]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[Live Chat este la distanță]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Schimbați Parola]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Deconectare]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Organizaţia Mea]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Preferinţe]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Profilul Meu]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[Cele mai populare articole]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[Film QuickTime]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG Audio]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[Am întâlnit o problemă (s-a detectat cross-site request forgery); vă rugăm să încercaţi din nou]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Cont]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Organizaţia mea]]></phrase>
+<phrase section="default" code="na"><![CDATA[- NA -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Mesaje Recente &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Noua parolă:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Noua Parolă (confirmați):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[Noile parolele introduse nu coincid.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[Parolă actualizată.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Noutăți]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[Ne pare rău, nu am putut găsi acest articol de ştiri.]]></phrase>
+<phrase section="default" code="no"><![CDATA[Nu]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[Nu&#39;avem nimic pentru afișare aici]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Ne pare rau, nu aveţi permisiunea de a efectua această acţiune.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Nu am&#39;t putut găsi ceva relevant pentru căutarea dvs]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Abonamentul la noutăți a fost confirmat]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Abonarea la feed news a fost confirmată. Acum veţi primi actualizări la noi ori de câte ori postăm un nou articol. Vă puteţi dezabona oricând dând click pe linkul de mai jos.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Vă rugăm să ne anunţaţi dacă vă putem fi de ajutor în continuare,]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Vă mulţumesc pentru abonarea la feed news-ul nostru. Va trebui să validaţi abonamentul pentru a primi actualizări. Vă rugăm să daţi click pe link-ul de mai jos pentru a activa abonarea.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Validaţi abonarea la noutăţi]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Deconectat]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Postări mai vechi]]></phrase>
+<phrase section="default" code="on"><![CDATA[pe]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[Online]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[Introduceţi codul de 4 cifre pe care vi l-a dat de operatorul nostru şi apoi apăsaţi pe Start pentru a descărca un instrument mic numit <b>OnSite</b> care va permite operatorului să controleze temporar computerul dvs.]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Kayako OnSite, în prezent, este disponibil numai pentru Microsoft Windows.]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[Sunteți pe cale de a descărca un mic instrument numit <b>OnSite</b> care va permite operatorului să preia temporar controlul computer-ului dvs.<br /><br />Instrumentul <b>OnSite</b> se va descărca în mod automat. Dacă descărcarea nu începe, vă rugăm <a href="%s" class="lightbluelink">click aici</a> pentru a-l descărca de forma manuală.<br /><br />În continuare veți găsi instrucțiunile de utilizare <b>OnSite</b>.]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[Cod invalid sau fără conținut]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[Nu am putut încărca sesiunea OnSite (codul nu a putut fi găsit)]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[Start]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[Helpdesk]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[Pas cu pas]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[Imposibil de a descărca fişierul (eroare: %s)]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[În curând veți primi ajutor!]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[În curând veți primi ajutor!]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[În curând veți primi ajutor!]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[<b>OnSite</b> este un instrument care se instalează temporar pe hard disk-ul computer-ului dvs., de unde va fi sters data viitoare când este curătat hard disk-ul.<br /><br />Când îl executați, veți fi conectați la internet dvs. şi operatorul nostru, şi va putea să preia controlul de tastaturii şi mouse-ului dvs, atâta timp cât îi permiteți <i>(puteţi anula controlul şi termina sesiunea în orice moment)</i>.]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[Este complet sigur. Numai operatorul care va asistă va fi capabil să controleze calculatorul dvs, şi numai cât timp se execută <b>OnSite</b> îi permiteţi accesul. <br /><br /><strong>Dacă în orice moment doriţi să încheiati sesiunea, pur şi simplu ţineţi apăsată tasta Control şi apăsaţi F1. Sesiunea se va încheia imediat şi operatorul nu va mai fi capabil de a controla computerul.</strong>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[Ce descarc şi cum funcţionează?]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[Pot să-l execut în siguranță pe calculatorul meu?]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[Pentru a permite operatorului nostru să vă ajute, vă rugăm să descărcaţi OnSite&reg; programul de asistenţă la distanţă, dând click pe link-ul de mai jos. Acest program permite ca, computerul dvs. să fie temporar controlat de operatorul nostru. Dacă doriţi să opriţi controlul asupra calculatorului dvs., o puteti face în orice moment, apăsând tasta Control şi tasta F1 de pe tastatura dvs.]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Operatorul nostru ar dori să înceapă o sesiune de asistenţă şi control la distanţă a mouse-ului şi tastaturii dvs]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Click aici pentru a descărca OnSite pentru Windows]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[Daţi click pe 'Run' atunci când vi se solicită.]]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[Daţi click pe 'Run' din caseta de dialog Security Warning pentru a începe sesiunea dvs. OnSite.]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Adresă:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[Oraș:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Țară:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Numele organizaţiei:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Profilul Organizației]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Status:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Profilul de organizare a fost actualizat cu succes]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Website:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Cod Postal:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[Pagina %s din %s]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Detalii Parolă]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[Document PDF]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[În prezent %s sunt persoane înaintea dvs. în coadă de aşteptare.]]></phrase>
+<phrase section="mime" code="php"><![CDATA[Fişier Script PHP]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[Cu ce vă putem ajuta?]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Cu ce vă putem ajuta?]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Vă rugăm să aşteptaţi şi unul dintre operatorii nostri va lua legătura cu dvs.  în scurt timp.]]></phrase>
+<phrase section="mime" code="png"><![CDATA[Imagine PNG]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Postat de]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Postați un nou comentariu]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Realizat de Kayako Help Desk Software]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[Document PowerPoint]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[Document PowerPoint]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[Adăugați E-mail]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Preferinţe]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Abilități DST:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Nume Complet:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[ Privat ]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Limba:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Trebuie să specificaţi cel puţin o adresă de e-mail validă]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Chat-uiți Acum]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Echipa noastră este gata să vă ajute. Daţi click &quot;Chat Now&quot; pentru a vă conecta instant.]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Vă putem ajuta?]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Vizitator]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Detalii Profil]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[Profilul Meu]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Organizaţie:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Număr de telefon:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[Acest număr de telefon (%s) este deja utilizat de un alt cont.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Imagine de Profil:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Profilul dvs. a fost actualizat cu succes]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Fus orar:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Titlul/Functia:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Preferinţele dvs. s-au salvat cu succes]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ Ascuns ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Fişier Real Audio]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[Fișier RAR]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Citiți mai mult &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Cele mai noi articole]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[E-mail:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[Adresa de e-mail introdusă este deja înregistrată. Utilizaţi opţiunea de parolă pierdută pentru a recupera parola, sau specificați o adresă de e-mail diferită.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[Adresa de email (%s) este deja în uz.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[Odată înscrişi, ne veţi putea trimite tickets-urile dvs. prin intermediul unui e-mail. Ne cerem scuze pentru neplăcerile create.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Nu am putut procesa e-mail-ul dvs. . Trebuie să aveţi un cont de helpdesk înainte de a crea tickets prin email. Vă puteti înscrie dvs. la helpdesk-ul nostru:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Nu am putut procesa e-mail-ul dvs. (este necesar să vă înregistrați)]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Nume Complet:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Adresa de e-mail introdusă nu este validă.]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Vă rugăm să completaţi câmpurile de mai jos pentru a înregistra un cont nou de helpdesk.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Bine ați venit la %s helpdesk]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Verificați-vă %s înregistrarea de helpdesk]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Acest e-mail vă confirmă faptul că sunteți înregistrat la serviciul nostru de asistență.
+
+Adresa de E-mail: %3$s
+Parola: Hidden
+
+Puteți vizita serviciul nostru de asistentă pentru a căuta articole și ne contacta în orice moment: %2$s
+
+Vă mulțumim pentru înregistrare!
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Înregistrare realizată cu succes]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Creaţi un cont nou]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Vă mulțumim pentru înregistrarea la %1$s serviciul de asistență (%2$s).
+
+Trebuie să verificăm adresa dvs. de email.
+
+Pentru a activa contul, dați click pe linkul de mai jos sau copiați și inserați link-ul în bara de locație a browserului dvs.&#39;:
+
+%3$s
+
+Dacă credeți că ați primit acest mesaj din greșeală, nu trebuie să faceți nimic pentru a anula contul. Contul nu va fi activat, iar dvs. nu veti mai primi niciun mesaj suplimentar de la noi.
+
+Vă mulțumim,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Acest e-mail vă confirmă faptul că sunteti înregistrat la serviciul nostru de asistentă.
+
+E-mail-ul înregistrat: %3$s
+Parola: %4$s
+
+Puteți vizita serviciul nostru de asistentă pentru a căuta articole și ne contacta în orice moment: %2$s
+
+Vă mulțumim pentru înregistrare!
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Detaliile de înregistrare]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Parolă:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Parola (repetați):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Parolele introduse nu se potrivesc.]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Înregistrare]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Vă mulţumim pentru înregistrare! O copie a detaliilor dvs. de înregistrare au fost trimise la adresa dvs. de email. Vă rugăm să folosiţi formularul de login alături de acest text pentru a vă loga.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Păstrează-mă logat]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Răspuns]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Răspuns la comentariu]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[Unul dintre câmpurile obligatorii este fără conținut]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[Feed RSS]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Fișier Rich Text Format]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[Daţi click pe 'Run' atunci când vi se solicită.]]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[Daţi click pe 'Run' din caseta de dialog Security Warning pentru a începe sesiunea dvs. OnSite.]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Dna.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Dl.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Dna.]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[CĂUTAȚI]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[Rezultatele Căutării]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Dacă nu puteţi găsi o soluţie la problema dvs. în baza noastră de cunoştinţe, trimiteţi un ticket selectând Departamentul corespunzător din lista de mai jos.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Trimiteți un Ticket]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Trimiteţi]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Departament]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[E-mail]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Prenume și Nume]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Mesajul dumneavoastră]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Prioritate]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Subiect]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Subiect: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[Ticket ID]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Tip]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Comentarii]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Feedback-ul tău]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Mesajul dvs. nu a putut fi trimis - vă rugăm să aşteptaţi pentru ca un operator să accepte cererea dvs.]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Ne pare rău, am întâlnit o problemă (department invalid). Vă rugăm să începeți din nou.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Ticket invalid prioritate specificată; vă rugăm să începeți din nou.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Ne pare rău, am întâlnit o problemă (ticket tip invalid). Vă rugăm să începeți din nou.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Departamente]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Abonează-te]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s este deja abonat la news feed.]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Helpdesk:]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Vă mulţumim pentru completarea chestionarului - feedback-ul este foarte important pentru noi. Acum puteţi închide fereastra.]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[Pentru a completa un chestionar, daţi click pe următorul link: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[Feedback-ul dvs. este foarte important pentru noi şi ne va ajuta să îmbunătăţim serviciul nostru.]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Ca parte a angajamentului nostru de a îmbunătăţi serviciul nostru, am dori să ştim cum credeti că ne descurcăm în prezent.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Vă rugăm să acordați un moment pentru a finaliza un scurt sondaj format din câteva întrebări cu variante de răspuns.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Nu va dura mai mult de un minut pentru a-l completa (promitem!).]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Vă mulţumim anticipat,]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Am dori să ştim ce credeți despre noi. Vă rugăm să completaţi acest scurt chestionar pentru a ne relata experienta dvs. de astăzi.]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Acest email este cu privire la recentul dvs. ticket]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Feedback-ul dvs. este foarte important pentru noi şi apreciem timpul pe care ni l-ați acordat.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Fişier Macromedia Flash]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Adăugați fişier]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[Fişier GUDRON]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Vă mulţumim pentru abonare!]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Vă mulţumim. Vă rugăm să verificaţi email-ul dvs. pentru a confirma abonarea.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Vă mulţumim pentru feedback-ul dvs!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[V-ați dezabonat la feed news-ul nostru - ne pare rău!]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Atasamente]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Destinatar (BCC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Destinatar (BCC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Client]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Postat pe:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Destinatar]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Staff]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Terţe Părţi]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Detalii Ticket]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Ticket History]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Ne pare rau, nu am putut găsi biletul pe care l-aţi solicitat, sau nu aveți permisiunea să îl vizualizați.]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[Am primit cererea dumneavoastră şi echipa noastră vă va contacta in curand. Vă puteti conecta la serviciul de asistenta pentru a revizui statusul cererii dvs., sau să vă verificați e-mail-ul pentru actualizări suplimentare.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Am primit cererea dvs]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Chestionar: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Vizualizare Ticket: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Vizualizare Tickets]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Departament]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Ultimul Răspuns]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Ultima actualizare]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Prioritate]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Status]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[Ticket ID]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Tip]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Retrimis la: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[E-mail la: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Postat pe: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Coş de gunoi]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Atasamente]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Înapoi]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d vizualizări)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Următoarea &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Următorii Paşi]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Troubleshooter]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Vă putem ajuta la rezolvarea unor probleme comune şi probleme prin intermediul câtorva întrebări. Începeti prin alegerea unei categorii de troubleshooter.]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Actualizată pe: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Fişier text]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Am întâlnit o problemă (imposibil de a executa %s)]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Nealocat]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Dezabonare]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Ticket-ul dvs. a fost actualizat cu succes]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Ataşați Fişiere]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Bine ați venit! Vă rugăm să acordați un moment pentru a vă actualiza profilul, pentru ca, în viitor, să vă oferim un serviciu îmbunătățit.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Odată ce contul dvs. a fost validat, veţi putea trimite ticket-ul dvs. prin intermediul unui e-mail. Ne cerem scuze pentru neplăcerile create.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Nu am putut procesa email-ul dvs. (contul nu a fost validat)]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Nu am putut procesa e-mail-ul dvs. . Deşi există un cont helpdesk pentru adresa dvs. de e-mail, contul nu a încă fost validat.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Nu am putut procesa e-mail-ul dvs. . Deşi există un cont helpdesk pentru adresa dvs. de e-mail, toate conturile trebuiesc validate de către un administrador. Până nu se realizează acest lucru, nu veți putea trimite email helpdesk-ului.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Vă mulţumim pentru înregistrare. V-am trimis un e-mail cu link-ul de activare pentru a verifica adresa dvs. de e-mail. Vă rugăm să accesaţi link-ul pentru a verifica înregistrarea dvs. . Trebuie să completaţi acest pas înainte de a vă conecta.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[E-mail de verificare necesar]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[Verificare CAPTCHA]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[Verificare CAPTCHA]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Vizualizați toate știrile]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Vizualizare Tickets Soluționate]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Creat:]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[Aţi făcut modificări în câmpurile ticket-ului. Daţi click pe butonul de mai sus Salvaţi Modificările pentru a le salva.]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[DEPARTAMENT]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[PROPRIETAR]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Adaugă Răspuns]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[PRIORITATE]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[Salvați Modificările]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[STATUS]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[TIP]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Actualizat:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s (%s) a răspuns cu:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[Fişier WAV]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Home]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Bază de cunoştinţe]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Noutăți]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Înregistrare]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Trimiteți un Ticket]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Troubleshooter]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Tickets-urile mele]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Fişier Excel]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Fişier Excel]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Da]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Dacă doriţi să raportaţi o problemă, nu uitaţi să oferiţi cât mai multe informaţii.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Detaliile ticket-ului]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[Fişier ZIP]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[Latest News]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[Login locked for %d minutes (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[Invalid username or password (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[Subscribe to Newsletter:]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[The password specified does not match the requirements of the Password Policy.]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[Password does not meet requirements]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[Sorry, we encountered a problem while uploading attachments. A possible reason is attachments size exceeding server upload limit.]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[Recipients]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[You can specify multiple e-mail addressess seperated by a single space or comma, as custom recipients. The recipients will receive ticket updates.]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ Minimum length: %d characters, Minimum digits: %d, Minimum symbols: %d, Minimum uppercase letters: %d]]></phrase>
+</swiftlanguage>

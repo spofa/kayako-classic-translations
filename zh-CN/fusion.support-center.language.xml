@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[中文（China）]]></title>
+<isocode><![CDATA[zh-cn]]></isocode>
+<author><![CDATA[Kayako]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}cn.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[帐户信息]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[此消息关系到您的服务单（编号#%s）。因为我们在 %s 小时内没有收到您的跟进消息，我们将此服务单的状态改为了 %s 。]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[如果您后续有任何其他问题，请随时告知我们。您可以通过以下URL检查或回复此服务单： ]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[此消息关系到您的服务单（编号#%s）。我们在 %s 小时内没有收到您的跟进消息，我们想知道此问题是否已经得到了解决。如果您还有任何其他疑问，请随时回复此邮件。]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[请您知悉此服务单如果没有在 %s 小时内进行跟进，将会自行关闭。您可以通过以下URL对服务单进行查看或回复： ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[遇到了一个问题 （%s 操作未注册）]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[您的需求对我们来说非常重要，请您稍作等待，我们的客服将会很快和您联系。]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[遇到了一个问题 （%s 应用未注册）]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[部门： ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[Email： ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[祝您愉快！]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[感谢您与我们联系。这是一封服务单自动回复，我们的工作团队将尽快对服务单做出回复。在您通过邮件回复服务单时，请在标题栏中保留服务单ID，以便我们能够迅速地追踪到您的回复。]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[密码： ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[优先级： ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[状态： ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[您可以通过以下URL查看或更新此服务单： ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[标题： ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[服务单ID： ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[有帮助]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[没帮助]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[投票]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[类型： ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[密件抄送]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[收件人]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[员工]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[第三方]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[用户]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; 返回]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[下一步 &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[发送​​]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[开始聊天]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[提交]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[更新]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[字节]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[BZ 文件]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[BZ2 文件]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[给我打电话]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[取消]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[请在下方文字框中输入您在图像中看到的文字（预防自动提交）。]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[验证码验证]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[修改密码]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[会话已经结束。]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[点击这里对此次聊天做一个简单的调查反馈。]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[点击此处留言。]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[我们非常喜欢能够听到您的反馈，点击取消进行一个简单的反馈调查，或者点击OK关闭窗口。]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s 进入了会话。]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[会话已经过期或结束。]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s 已经离开会话。]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[一封会话副本将被发送到以下邮箱：]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[模板分组]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[请点击Keep开始下载。]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[下载完成后请点击下载栏中的Onsite。]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[请在安全警告对话中点击'Run'并开始'Onsite'进程。]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[点击这里在线聊天]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[聊天客服暂时离线，请点击此处进行留言。]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[点击立刻进行通话]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[单击进行通话]]></phrase>
+<phrase section="default" code="close"><![CDATA[关闭]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[感谢您的反馈，您的评论将在批准后列出。]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[评论：]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[Email： ]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[姓名：]]></phrase>
+<phrase section="default" code="comments"><![CDATA[评论]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[版权所有 © 2001-% Kayako]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[遇到了一个问题 （对象创建失败）]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- 默认时区 --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">售后帮助中心软件供应商</a> Kayako]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[微软Word文档]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[微软Word文档]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[Email账户]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[您输入的Email地址不存在。]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[新密码：]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[您输入的验证码字母不匹配，请重试。]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[请确定您的个人头像图片为以下格式：gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[遇到了一个问题 （无法连接到 SMTP 服务器）]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[抱歉，遇到了一个问题（部门不正确），请重新开始。]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[遇到了一个问题 （%s 事件未注册）]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[当前密码：]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[您当前的密码不正确。]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[客服：]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[您的问题：]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[评论：]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[部门：]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[Email： ]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[姓名：]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[消息：]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[电话：]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[评分：]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[标题：]]></phrase>
+<phrase section="default" code="file"><![CDATA[文件]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[知识库]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[消息分类]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[遇到提示时点击'Save File']]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[下载完成后请双击下载栏中的Onsite。]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[请在安全警告对话中点击'Run'开始'Onsite'进程。]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[我们收到了您在 %1$s 售后支持中心 （%2$s） 的账户密码重置请求，如果您并没有进行此操作，请忽略此消息。
+
+要执行密码重置，请点击下方链接或复制到浏览器中打开：
+
+%3$s
+
+祝您愉快！]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[常规信息]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[常规选项]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[%s 售后支持中心的新密码]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[需知详细信息或如果您认为本操作未经您的许可，请通过点击下面的链接联系我们。]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[您在售后支持中心的账户密码已经重置：]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[GIF 图像]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[GZIP 文件]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ 隐藏 ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[隐藏已解决的服务单]]></phrase>
+<phrase section="default" code="home"><![CDATA[首页]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[HTML 页面]]></phrase>
+<phrase section="mime" code="html"><![CDATA[HTML 页面]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[图标文件]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[遇到提示时点击'Run']]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[等待下载完成。]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[请在安全警告对话中点击'Run'开始'Onsite'进程。]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[遇到提示时点击'Run']]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[等待下载完成。]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[请在安全警告对话中点击'Run'开始'Onsite'进程。]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[遇到提示时点击'Run'。下载完成后，您的现场会话将自动开始。]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[非常抱歉，我们无法接收您的附件（可能是因为文件太大或者文件类型限制）：%s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[您输入的Email地址不存在。]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[遇到了一个问题（此组织不存在）]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[遇到了一个问题（不正确的订阅用户hash）]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Email不存在或密码错误]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[用户账户无效，此账户不存在。]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[您的账户已被禁止，无法登陆。]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[您的账号已过期，无法登陆。]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[无法登陆，该用户组无法访问本模板组。]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[遇到了一个问题（验证信息无效或已过期）]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[我们在我们的知识库中找到了以下可能对您有用的答案或文章]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[载入知识库建议中...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[未找到相关知识库文章。]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[知识库的建议]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s 正在输入]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[JAR 文件]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[您与 %s - %s 会话中]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[您与 %s 会话中]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[JPEG 图像]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[JPEG 图像]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[附件]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[抱歉 - 此文章不存在或您没有权限阅读此文章。]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[知识库]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[语言]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[最新的更新]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[Email]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[打印]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[声音： 关闭]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[声音：打开]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[留言]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[感谢您的留言，我们的工作团队将会尽快和您取得联系。]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[非常抱歉当前我们的客服已经离线，您可以填写下方表单给我们留言，我们将尽快回复您的留言。]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[在线聊天]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s-在线聊天%s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[为了更好地为您提供服务，请在我们与您展开会话之前填写一些较为重要的信息。]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[请输入您的电话号码和相关详细信息，我们将马上为您接通会话。]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[作为 %s 身份登陆]]></phrase>
+<phrase section="default" code="login"><![CDATA[登陆]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[您的Email地址]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[请登录以继续]]></phrase>
+<phrase section="default" code="logout"><![CDATA[退出登陆]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[忘记密码]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[请输入您用于注册的邮箱并点击提交，您将很快收到一封带有重置链接的邮件。]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[%s 售后支持中心密码重置请求]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[请在下方输入新的密码并点击提交对您的密码进行重置。]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[忘记密码]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[遇到了一个问题（无法找到Email地址为 %s 的用户）]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[密码重置邮件已经发送到 %s]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[您的密码已更改，您现在可以使用您的新登陆信息进行登陆。]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[在线聊天将很快恢复]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[在线聊天处于离开状态]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[修改密码]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[注销]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[我的组织]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[偏好设置]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[我的资料]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[最受欢迎的文章]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[QuickTime 影片]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG 音频]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG 视频]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG 视频]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[遇到了一个问题（检测到伪造跨站请求），请重试。]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[帐户]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[我的组织]]></phrase>
+<phrase section="default" code="na"><![CDATA[- NA -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[更新的文章 &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[新密码：]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[新密码 （确认）：]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[您输入的新密码不匹配。]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[密码已更新。]]></phrase>
+<phrase section="news" code="news"><![CDATA[消息]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[抱歉，我们无法找到此消息文章。]]></phrase>
+<phrase section="default" code="no"><![CDATA[否]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[暂无可显示信息]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[抱歉，您没有执行此操作的权限。]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[我们没有找到任何和您搜索相关的信息。]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[消息订阅已确认]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[您的订阅我们的新闻已被证实，您将受到我们发布的最新文章。你可以在任何时间通过点击下面的链接取消订阅。]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[是否还有更多需求？]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[感谢订阅。你将需要验证您的订购以接收更新。请点击下面的链接以激活您的订阅。]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[验证您的消息订阅]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[离线]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; 旧贴]]></phrase>
+<phrase section="default" code="on"><![CDATA[on]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[在线]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[输入 4 位会话代码以下载 <b>Onsite</b>工具，本工具将允许操作人员临时控制您的计算机。]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Kayako Onsite目前仅支持微软 Windows。]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[即将下载 <b>Onsite</b>工具，本工具将允许操作人员临时控制您的计算机。 <br /> <br /><b>Onsite</b> 工具应启动自动下载。如果未能下载，请 <a href="%s" class="lightbluelink">单击此处</a> 手动开始。 <br /> <br />以下为如何使用 <b>Onsite</b>工具。]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[无效或空的代码]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[我们未能加载Onsite进程 （找不到代码）]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[开始]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[售后支持中心：]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[一步一步]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[无法下载文件（错误：%s）]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[处理中！]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[处理中！]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[处理中！]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[<b>Oniste</b> 将暂时安装并会在硬盘清理时被移除。 <br /> <br />当你启动它时，您和我们的话务员将通过互联网连线，在您允许的情况下话务员将操作您的键盘和鼠标<i>（你可以在任何时间中断话务员的控制）</i>。]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[本操作完全安全。话务员只在您允许并在 <b>Onsite</b> 运行时才能控制您的计算机。 <br /><br /><strong> 如果在任何时候你想要结束会话，只需按住 Control 键并按 F1。会话将立即结束。话务员将不再能够控制您的计算机。</strong>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[我正在下载什么以及它是如何工作？]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[在我的电脑上运行是否安全？]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[如果需要在线操作员的协助，请通过单击下面的链接下载 OnSite&reg; 远程支持程序。该程序将使您的计算机暂时由我们的在线操作员控制。如果你想要在任何时候停止共享您的计算机，请按住Contorl键并按 F1 键。]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[我们的接线员即将启动远程支持会话并控制您的鼠标和键盘]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[点击这里下载 Windows Onsite]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[遇到提示时点击'Run']]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[请在安全警告对话中点击'Run'开始'Onsite'进程。]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[地址：]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[城市：]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[国家/地区：]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[传真：]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[组织名称：]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[电话：]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[组织资料]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[省/直辖市/自治区：]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[您的组织资料已经更新成功]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[网站：]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[邮政编码：]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[第 %s 页，共 %s 页]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[密码详情]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[PDF 文档]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[当前有 %s 人在您之前排队。]]></phrase>
+<phrase section="mime" code="php"><![CDATA[PHP 脚本文件]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[请问有什么可以帮到您的吗？]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[请问有什么可以帮到您的吗？]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[请您稍候，我们的客服将会很快接通与您的会话。]]></phrase>
+<phrase section="mime" code="png"><![CDATA[PNG 图像]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[发布人：]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[发布一条新评论]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[由 Kayako 售后工作台驱动]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[PPT文档]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[PPT文档]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[添加Email]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[偏好设置]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[启用 DST：]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[姓名：]]></phrase>
+<phrase section="default" code="private"><![CDATA[[ 私人 ]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[语言]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[您必须指定至少一个有效的Email地址]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[现在开始聊天]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[我们的团队时刻准备为您服务。点击 &quot; 开始聊天 &quot; 连接到工作坐席。]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[请问有什么可以帮到您的？]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[游客]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[资料详情]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[我的资料]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[组织：]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[电话号码： ]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[此电话号码（%s）已经被其他用户使用。]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[个人资料头像：]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[您的资料信息已经更新]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[时区：]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[职位：]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[您的偏好设置已经保存]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ 隐藏 ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[真实音频文件]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[RAR 文件]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[阅读更多 &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[最新文章]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[Email： ]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[您输入的Email地址已经注册。您可以使用找回密码功能找回您的密码，或使用一个不同的Email地址注册。]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[Email地址（%s）已经被使用]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[一旦注册，您将能够通过登录电子邮件提交工作单。我们很抱歉造成您的不便。]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[我们暂时无法处理您的邮件，您必须在售后支持中心注册才能提交服务单，在我们的售后支持中心您可以自行注册账户。]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[无法处理您的邮件（必须先注册账户）]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[姓名：]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[您输入的Email地址不符合规范]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[请填写下面的内容注册一个新的帐户。]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[欢迎来到 %s 售后支持中心]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[验证您的 %s 账户]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[这封电子邮件是确认您现在在我们的帮助中心注册。 电子邮件地址 ︰ %3$s 密码 ︰ 隐藏
+
+你现在可以访问服务支持中心并浏览文章并随时与我们联系 ︰ %2$s 感谢您注册 ！%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[注册成功]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[创建新帐户]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[感谢您在 %1$s 帮助中心 (%2$s)注册。 我们需要验证您的电子邮件地址。 若要激活您的帐户，请单击下面的链接或复制并粘贴到您的浏览器的 &#39; s 位置栏 ︰
+
+%3$s 
+
+如果您认为您错误地收到了此消息，您不需要采取任何行动以取消帐户。该帐户不会被激活，你也不会收到任何进一步的消息。 
+
+谢谢你
+
+ %1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[这封电子邮件是确认您现在在我们的帮助中心注册。 
+
+电子邮件地址 ︰ %3$s 
+密码 ︰ %4$s
+
+你现在可以访问服务支持中心以浏览文章并随时与我们联系 ︰ %2$s 
+
+感谢您注册！
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[注册设置]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[密码:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[再次输入密码 ︰]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[您输入的新密码不匹配。]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[注册]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[感谢您注册 ！您的注册资料将发送去您的电子邮件地址。请使用在本文本旁边登录栏登录。]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[记住我]]></phrase>
+<phrase section="default" code="reply"><![CDATA[回复]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[回复评论]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[至少一个必填项没有填写]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[Rss 订阅源]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[富文本格式的文件]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[遇到提示时点击'Run']]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[请在安全警告对话中点击'Run'开始'Onsite'进程。]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[博士.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Ms.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Mr.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Mrs.]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[搜索]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[搜索结果]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[如果您在我们知识库中没有找到解决您问题的方案，您可以在下方选择合适的部门提交一个服务单。]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[提交服务单]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[发送​​]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[部门]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[Email]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[名字和姓氏]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[您的消息]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[优先级]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[标题]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[标题： ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[服务单ID]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[类型]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[评论]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[您的反馈]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[您的消息无法发送 - 请等待客服接通您的会话请求。]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[抱歉，遇到了一个问题（部门无效），请重新开始。]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[服务单优先级指定无效，请重新开始。]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[抱歉，遇到了一个问题（服务单类型无效），请重新开始。]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[部门]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[订阅]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s 已经是消息订阅用户了。]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[售后支持中心：]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[感谢您完成此项调查 - 您的反馈对我们来说十分重要，您现在可以关闭此窗口。]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[请点击以下链接参与调查： ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[您的反馈对我们来说十分重要，这将帮助我们提升用户满意度体验。]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[作为我们努力改善您的用户体验的一部分，我们希望了解您对我们的看法。]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[请您留步完成我们的一个简短调查，只有几个问题选项。]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[这将花费您不超过1分钟的时间来完成。]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[提前谢谢您的配合。]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[我们非常希望能够了解您对我们的服务的看法，请填写一个简短的调查告诉我们您今天的使用感受。]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[这封邮件关乎您最近的服务单]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[您的反馈对我们来说非常重要，感谢您的配合！]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Macromedia 动画文件]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[添加文件]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[TAR 文件]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[感谢您的订阅！]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[谢谢您的订阅，请检查您的邮箱，确认此次订阅。]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[谢谢您的反馈 ！]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[您已经成功退订我们的消息订阅 - 非常遗憾我们不能继续为您提供精彩的订阅消息。]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[附件]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[(BCC) 收件人]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[收件人 (CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[客户]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[发布于：]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[收件人]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[员工]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[第三方]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[服务单详情]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[服务单历史]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[抱歉，我们无法找到您请求的服务单或您没有权限阅读此服务单。]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[我们已经收到了您的请求，并将会尽快回复您。您可以登陆售后支持中心查看您的请求状态或注意查收您的邮箱以接收进一步的更新。]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[我们已经收到了您的请求]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[调查：#]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[查看服务单：#]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[查看服务单]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[部门]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[最后回复者]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[最后更新]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[优先级]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[状态]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[服务单ID]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[类型]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[转发到： %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[发送邮件到：%s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[发布于：%s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[垃圾箱]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[附件]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; 返回]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ （%d 次查看）]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[下一步 &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[接下来的步骤]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[疑难解答]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[请先选择一个疑难解答分类，我们将指引您浏览一些问题，帮助您轻松处理常见问题和困难。]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[更新于：%s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[文本文件]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[遇到了一个问题（无法执行%s）]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[未指派]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[取消关注]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[您的服务单已经成功更新]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[添加文件]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[欢迎登陆售后支持中心！请花费一点时间更新您的个人资料以便我们以后可以更好地为您服务。]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[一旦您的账户通过验证，您将可以通过发送邮件来提交服务单。]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[无法处理您的Email（账户未验证）]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[我们无法处理您的Email，尽管您的账户已经存在于我们的数据库中，但此账户还没有完成验证。]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[我们无法处理您的电子邮件。您的邮件地址已在售后服务中心存在但必须由管理员手动批准。批准之前你不能够发送电子邮件给售后服务中心。]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[感谢您注册。我们已经向您与激活链接的电子邮件，以验证您的电子邮件地址。请验证您的注册链接。在您可以登录之前，必须完成此步骤。]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[电子邮件需验证]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[验证码验证]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[验证码验证]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[查看所有消息]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[查看已解决的服务单]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[创建： ]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[您已经对服务单字段做了修改，点击保存修改按钮来保存修改。]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[部门]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[所有者]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[添加回复]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[优先级]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[保存修改]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[状态]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[类型]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[更新：]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s （%s）在回复中说：]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[WAV 文件]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[首页]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[知识库]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[消息]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[注册]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[提交服务单]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[疑难解答]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[我的服务单]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Excel 文件]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Excel 文件]]></phrase>
+<phrase section="default" code="yes"><![CDATA[是]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[如果您在反映一个问题，请向我们提供尽量充足的信息以便我们能够更好更快地为您解决。]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[您的服务单详情]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[ZIP 文件]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[最新消息]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[登录锁定 %d 分钟 (尝试 ︰ %d %d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[无效的用户名或密码 (尝试 ︰ %d %d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[订阅到新闻通讯]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[指定的密码不符合密码要求。]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[密码不符合要求]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[对不起，我们上传附件时遇到问题。原因可能是附件大小超过服务器上传限制。]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[抄送]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[收件人]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[你可以指定多个电子邮件地址并由单个空格或逗号分隔作为自定义收件人。收件人将收到服务单更新。]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ 最小长度 ︰ %d 字符，最小位数 ︰ %d，最低符号 ︰ %d，最低大写字母 ︰ %d]]></phrase>
+</swiftlanguage>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[Čeština (CZ)]]></title>
+<isocode><![CDATA[cs-cz]]></isocode>
+<author><![CDATA[Kayako]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}us.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Informace o účtu]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Tato zpráva se týká vašeho tiketu s ID č. %s. Měníme status tohoto tiketu na %s, jelikož jste se nám neozval/a %s hodin.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Pokud máte nějaké další otázky, dejte nám vědět. Zkontrolovat status nebo odpovědět na tento tiket můžete na: ]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Tato zpráva se týká vašeho tiketu č. %s. Nedal/a jste nám vědět po dobu %s hodin a rádi bychom věděli, jestli můžeme tento problém považovat za vyřešený. Pokud máte nějaký dotaz, jednoduše odpovězte na tento email.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Berte prosím na vědomí, že se tiket automaticky uzavře do %s hodin, pokud se nám neozvete. Zkontrolovat status nebo odpovědět na tento tiket můžete online na: ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[Zaznamenali jsme problém (akce: %s není zaregistrována)]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[Váš požadavek je pro nás důležitý. Prosím počkejte a jeden z našich operátorů se vám bude brzy věnovat.]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[Zaznamenali jsme problém (aplikace: %s není zaregistrovaná)]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Oddělení: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[Email: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[S pozdravem,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Děkujeme, že jste nás kontaktoval/a. Toto je automatická odpověď, která potvrzuje přijetí vašeho tiketu. Náš tým se vám bude věnovat, co nejdříve to bude možné. Abychom mohli sledovat vaše odpovědi, tak při odpovídání prosím dbejte na to, že v předmětu zprávy zůstane ID číslo tiketu.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Heslo: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Priorita: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Status: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Zkontrolovat status nebo aktualizovat tiket můžete online na: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Předmět: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[ID tiketu: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Užitečné]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[Neužitečné]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[hlas(ů)]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Typ: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[BCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Příjemce]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Zaměstnanci]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Třetí strana]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Uživatel]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Zpět]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Další &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Odeslat]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Zahájit chat]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Odeslat]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Aktualizovat]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Bytů]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[BZ soubor]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[BZ2 soubor]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Zavolej mi]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Zrušit]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Vložte prosím text, který vidíte na obrázku do textového pole níže (toto opatření používáme k zabránění automatickým podáním).]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[CAPTCHA ověření]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Změnit heslo]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[Konverzace byla ukončena.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Klikněte zde k vyplnění krátkého dotazníku o tomto živém chatu.]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Klikněte zde k zanechání zprávy.]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[Rádi bychom slyšeli váš názor. Klepnutím na tlačítko Zrušit přejdete na krátký dotazník, v opačném případě klepněte na OK k uzavření okna.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s se připojil/a ke konverzaci.]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[Konverzace vypršela, nebo byla ukončena.]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s opustil/a konverzaci.]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[Přepis dosavadní konverzace bude odeslán emailem na adresu níže:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Šablona skupiny]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[Po výzvě klikněte na "Zachovat" k zahájení stahování.]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[Po dokončení stahování klikněte na OnSite v liště stahování.]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[K zahájení OnSite relace klikněte na "Spustit" v dialogovém okně s bezpečnostním upozorněním.]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Klikněte zde pro live chat]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[Live chat je offline. K zanechání zprávy klikěte zde.]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Klikněte k okamžitému hovoru]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Kliknout k hovoru]]></phrase>
+<phrase section="default" code="close"><![CDATA[Zavřít]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Děkujeme za váš názor. Váš komentář se zobrazí, jakmile bude schválen.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Komentáře:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[Email:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Celé jméno:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Komentáře]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s Kayako]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Zaznamenali jsme problém (vytvoření objektu se nezdařilo)]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- Výchozí časové pásmo --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Help Desk Software</a> od Kayako]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[Emailové účty]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Zadaná emailová adresa není platná]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Nové heslo:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[Zadaná písmena z CAPTCHA nejsou správná, zkuste to znovu.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Ujistěte se prosím, že váš profilový obrázek je v jednom z následujících formátů: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Zaznamenali jsme problém (nelze se připojit k SMTP serveru)]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Omlouváme se, zaznamenali jsme problém (neplatné oddělení). Začněte prosím znovu.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[Zaznamenali jsme problém (událost: %s není zaregistrovaná)]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Stávající heslo:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Vaše stávající heslo není správné.]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Operátor:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Vaše otázka:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Komentáře:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Oddělení:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[Email:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Celé jméno:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Zpráva:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Hodnocení:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Předmět:]]></phrase>
+<phrase section="default" code="file"><![CDATA[Soubor]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Databáze znalostí]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Kategorie novinek]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[Po vyzvání klikněte na "Uložit soubor".]]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[Jakmile je stahování dokončeno, proveďte dvojklik na OnSite na seznamu stahování.]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[K zahájení OnSite relace klikněte na "Spustit" v dialogovém okně s bezpečnostním upozorněním.]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[Obdrželi jsme žádost k obnovení hesla na vašem účtu pro %1$s helpdesk (%2$s). Pokud věříte, že jste obdrželi tuto zprávu omylem, ignorujte ji prosím.
+
+K obnovení vašeho heslo klikněte na odkaz níže nebo zkopírujte a vložte odkaz do adresového řádku vašeho prohlížeče:
+
+%3$s
+
+Děkujeme,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Všeobecné informace]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Obecné možnosti]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[Nové heslo pro %s helpdesk]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[Pro více informací, nebo pokud věříte, že se toto stalo bez vašeho svolení, kontaktujte nás prosím kliknutím na odkaz níže.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Heslo vašeho helpdesk účtu bylo obnoveno:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[Obrázek GIF]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[Soubor GZIP]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Skrytý ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Skrýt vyřešené tikety]]></phrase>
+<phrase section="default" code="home"><![CDATA[Domů]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[Stránka HTML]]></phrase>
+<phrase section="mime" code="html"><![CDATA[Stránka HTML]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Soubor ikony]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[Po výzvě klikněte na "Spustit".]]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[Počkejte na dokončení stažení.]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[K zahájení OnSite relace klikněte na "Spustit" v dialogovém okně s bezpečnostním upozorněním.]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[Po výzvě klikněte na "Spustit".]]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[Počkejte na dokončení stažení.]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[K zahájení OnSite relace klikněte na "Spustit" v dialogovém okně s bezpečnostním upozorněním.]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[Po zobrazení výzvy kliknetě na tlačítko "Spustit". Vaše OnSite relace začne automaticky po dokončení stahování.]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Bohužel jsme nemohli přijmout vaše přílohy (buď jsou příliš velké, nebo kvůli zakázaným typům souborů): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Zadaná emailová adresa není platná]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[Zaznamenali jsme problém (tato organizace neexistuje)]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Zaznamenali jsme problém (neplatný hash předplatitele)]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Neplatný email nebo heslo]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Neplatný uživatelský účet. Tento účet neexistuje.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Nebyli jsme schopni vás přihlásit kvůli tomu, že je tento účet zakázán]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Nebyli jsme schopni vás přihlásit, protože tento účet vypršel]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Nelze se přihlásit. Uživatelská skupina nemá oprávnění k přístupu této šabloně skupiny.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Zaznamenali jsme problém (ověření je neplatné nebo vypršelo)]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[V naší databázi znalostí jsme nalezli následující navrhnuté odpovědi a články]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Nahrávání návrhů z databáze znalostí...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[Žádné relevantní články nebyly v databázi znalostí nalezené.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Návrhy databáze znalostí]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s píše...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[Soubor JAR]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[Právě chatujete s %s - %s]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[Právě chatujete s %s]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[Obrázek JPEG]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[Obrázek JPEG]]></phrase>
+<phrase section="default" code="kb"><![CDATA[DZ]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Přílohy]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Omlouváme se - buď tento článek neexistuje, nebo vám nebylo uděleno oprávnění k jeho zobrazení.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Databáze znalostí]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Jazyk:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Nejnovější aktualizace]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[Email]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[Tisk]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Zvuk: Vyp.]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Zvuk: Zap.]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Zanechat zprávu]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Děkujeme za vaši zprávu. Náš tým se vám brzy bude věnovat.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[Náš tým bohužel není současnou chvíli k dispozici. Dokončete však formulář níže k tomu, abyste nám zanechali vzkaz a my se vám ozveme zpět, co nejdříve to bude možné.]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Živý chat]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - Živý chat na %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[Abychom vám lépe posloužili, poskytněte nám prosím nějaké informace ještě před tím, než zahájíme váš chat.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Vložte prosím vaše telefonní číslo a podrobnosti níže a my vás připojíme.]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Přihlášen jako: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Přihlášení]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Vaše emailová adresa]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Chcete-li pokračovat, přihlaste se]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Odhlášení]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Zapomenuté heslo]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Zadejte prosím vaší registrovanou emailovou adresu a klikněte na Odeslat. Brzy obdržíte email s odkazem, kde budete moci obnovit vaše heslo.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Žádost o ztracené heslo pro %s helpdesk]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Níže prosím vložte vaše nové heslo a klikněte na Odeslat k obnovení vašeho hesla.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Zapomenuté heslo]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Zaznamenali jsme problém (nelze najít uživatelský účet s emailovou adresou %s)]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Email k obnovení hesla byl odeslán na %s]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Vaše heslo bylo změněno. Nyní se můžete přihlásit pomocí vašich nových údajů.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Živý chat bude brzy zpět]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[Živý chat je nedostupný]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Změnit heslo]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Odhlášení]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Má organizace]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Nastavení]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Můj profil]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[Nejoblíbenější články]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[QuickTime Movie]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG Audio]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[Narazili jsme na problém (zjištěn falešný cross-site požadavek); zkuste to prosím znovu]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Účet]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Má organizace]]></phrase>
+<phrase section="default" code="na"><![CDATA[- NA -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Novější příspěvky &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Nové heslo:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Nové heslo (potvrzení):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[Nová zadaná hesla se neshodují.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[Heslo aktualizováno.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Novinky]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[Omlouváme se, tuto novinku jsme nemohli najít.]]></phrase>
+<phrase section="default" code="no"><![CDATA[Ne]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[Nemáme zde nic k zobrazení]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Omlouváme se, nemáte oprávnění provést tuto akci.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Nemohli jsme najít nic relevantního k vašemu hledání]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Odběr novinek potvrzen]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Váš odběr našeho feedu s novinkami byl potvrzen. Nyní od nás budete dostávat aktualizace, kdykoliv přidáme nový článek. Z odběru se můžete kdykoliv odhlásit kliknutím na odkaz níže.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Dejte nám prosím vědět, jestli můžeme být dále nápomocni.]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Děkujeme za přihlášení k odběru našeho feedu s novinkami. Abyste dostávali aktualizace, budete muset ověřit vaše přihlášení. Klikněte prosím na odkaz níže k aktivaci vašeho předplatného.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Ověřit přihlášení k odběru novinek]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Offline]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Starší příspěvky]]></phrase>
+<phrase section="default" code="on"><![CDATA[zap]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[Online]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[Vložte 4místný kód pro relaci, který jsme vám dali my nebo operátor a poté stiskněte tlačítko Start ke stažení malého nástroje zvaného <b>OnSite</b>, který operátorovi dočasně dovolí sdílet ovládání vašeho počítače.]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Kayako OnSite je v současné době k dispozici jen pro Microsoft Windows.]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[Chystáte se stáhnout malý nástroj zvaný <b>OnSite</b>, který dovolí našemu operátorovi dočasně sdílet kontrolu nad vaším počítačem.<br /><br />Nástroj <b>OnSite</b> by se měl začít stahovat automaticky. Pokud nezačne, prosím <a href="%s" class="lightbluelink">klikněte zde</a> k ručnímu zahájení stahování.<br /><br />Níže naleznete instrukce k tomu, jak používat <b>OnSite</b>.]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[Neplatný nebo prázdný kód]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[Nebyli jsme schopni načíst relaci OnSite (kód nebyl nalezen)]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[Start]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[Helpdesk]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[Krok za krokem]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[Nelze stáhnout soubor (chyba: %s)]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[Pomoc je na cestě!]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[Pomoc je na cestě!]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[Pomoc je na cestě!]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[<b>OnSite</b> je nástroj pro vzdálenou podporu, který funguje tak, že se dočasně nainstaluje na váš počítač do oblasti vašeho pevného disku, odkud bude odstraněn při příštím čištění pevného disku.<br /><br />Jakmile ho spustíte, vy a náš operátor budete spojeni přes internet a operátor bude moci sdílet ovládání vaší klávesnice a myši tak dlouho, dokud mu to dovolíte  <i>(můžete přitom kdykoliv převzít kontrolu a ukončit relaci)</i>.]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[Je to zcela bezpečné. Kontrolu nad vaším počítačem získá pouze operátor, který vám bude asistovat a jen po dobu, kdy <b>OnSite</b> bude zapnutý a vy mu udělíte přístup.<br /><br /><strong>Pokud si kdykoliv budete přát ukončit relaci, jednoduše podržte tlačítko CTRL a zmáčkněte F1. Relace tak okamžitě skončí a operátor již nadále nebude moci ovládat váš počítač.</strong>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[Co to stahuju a jak to funguje?]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[Je bezpečné to mít puštěné na mém počítači?]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[Aby vám náš operátor mohl pomoci, kliknutím na odkaz níže si prosím stáhněte program pro vzdálenou podporu OnSite&reg;. Tento program dočasně umožní našemu operátorovi ovládat váš počítač. Pokud si kdykoliv budete přát zastavit sdílení kontroly vašeho počítače, podržte na vaší klávesnici tlačítko CTRL a zmáčkněte tlačítko F1.]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Náš operátor by rád začal s relací vzdálené podpory a ovládat tak vaši myš a klávesnici]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Klikněte zde pro stažení OnSite pro Windows]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[Po výzvě klikněte na "Spustit".]]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[K zahájení OnSite relace klikněte na "Spustit" v dialogovém okně s bezpečnostním upozorněním.]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Adresa:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[Město:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Země:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Název organizace:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Profil organizace]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Stav:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Profil vaší organizace byl úspěšně aktualizován]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Webová stránka:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Poštovní směrovací číslo:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[Stránka %s z %s]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Podrobnosti hesla]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[Dokument PDF]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[V současnou chvíli je ve frontě před vámi %s lidí.]]></phrase>
+<phrase section="mime" code="php"><![CDATA[Skriptovací soubor PHP]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[S čím vám můžem pomoci?]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[S čím vám můžem pomoci?]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Vyčkejte prosím a jeden z našich operátorů se vám bude za chvíli věnovat.]]></phrase>
+<phrase section="mime" code="png"><![CDATA[Obrázek PNG]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Přidal/a]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Přidat nový komentář]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Poháněno softwarem Kayako Help Desk Software]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[Dokument PowerPoint]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[Dokument PowerPoint]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[Přidat email]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Nastavení]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Povolit DST:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Celé jméno:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[ Soukromé ]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Jazyk:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Musíte uvést alespoň jednu platnou emailovou adresu]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Chatovat nyní]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Náš tým je připraven vám pomoci. Klikněte na &quot;Chatovat nyní&quot;, abyste se s ním okamžitě spojili.]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Mohu vám pomoci?]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Návštěvník]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Detaily profilu]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[Můj profil]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Organizace:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Telefonní číslo:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[Toto telefonní číslo (%s) již používá jiný účet.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Obrázek profilu:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Váš profil byl aktualizován]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Časové pásmo:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Titul/pozice:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Vaše nastavení bylo uloženo]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ Skrytý ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Soubor Real Audio File]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[Soubor RAR]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Číst více &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Nejnovější články]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[Email:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[Zadaná emailová adresa je již registrovaná. Použijte možnost pro obnovení vašeho ztraceného hesla, nebo zadejte jinou emailovou adresu.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[Emailová adresa (%s) je již používána.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[Jakmile se zaregistrujete, budete moci jednoduše odesílat tikety tak, že nás kontaktujete emailem. Omlouváme se za nepříjemnosti.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Nebyli jsme schopni zpracovat váš email. Musíte si založit helpdesk účet předtím, než budete chtít vytvářet tikety přes email. Založit si ho můžete na našem helpdesku:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Nelze zpracovat váš email (vyžadována registrace)]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Celé jméno:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Zadaná emailová adresa není platná.]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[K registraci nového helpdesk účtu vyplňte prosím pole níže.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Vítejte na helpdesku %s]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Ověřte vaší registraci na helpdesku %s]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Tento email je potvrzením toho, že jste nyní registrován/a na našem helpdesku.
+
+Emailová adresa: %3$s
+Heslo: Skryté
+
+Můžete navštívit helpdesk, procházet tam články a kdykoliv nás kontaktovat: %2$s
+
+Děkujeme za registraci!
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Registrace byla úspěšná]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Vytvořit nový účet]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Děkujeme za registraci na helpdesku %1$s (%2$s).
+
+Potřebujeme ověřit vaši emailovou adresu.
+
+K aktivaci účtu klikněte prosím na odkaz níže, nebo odkaz zkopírujte a vložte do adresového řádku vašeho prohlížeče:
+
+%3$s
+
+Pokud se domníváte, že jste tento email dostali omylem, nemusíte nic dělat pro to, aby byl účet zrušen. Účet nebude aktivován a nebudete od nás dostávat žádné další zprávy.
+
+Děkujeme,
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Tento email je potvrzením toho, že jste nyní registrován/a na našem helpdesku.
+
+Registrovaný email: %3$s
+Heslo: %4$s
+
+Můžete navštívit helpdesk, procházet tam články a kdykoliv nás kontaktovat: %2$s
+
+Děkujeme za registraci!
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Podrobnosti registrace]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Heslo:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Heslo (zopakovat):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Zadaná hesla se neshodují.]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Registrovat]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Děkujeme za registraci! Na váš email byla odeslána kopie podrobností o registraci. K přihlášení prosím použijte přihlašovací formulář pod tímto textem.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Pamatovat si mě]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Odpovědět]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Odpovědět na komentář]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[Jedno z povinných polí je prázdné]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[RSS kanál]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Soubor Rich Text Format]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[Po výzvě klikněte na "Spustit".]]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[K zahájení OnSite relace klikněte na "Spustit" v dialogovém okně s bezpečnostním upozorněním.]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Slečna]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Pan]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Paní]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[HLEDAT]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[Výsledky hledání]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Pokud se vám nedaří najít řešení vašeho problému v naší databázi znalostí, můžete poslat tiket výběrem příslušného oddělení níže.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Poslat tiket]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Odeslat]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Oddělení]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[Email]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Jméno a příjmení]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Vaše zpráva]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Priorita]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Předmět]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Předmět: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[ID tiketu]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Typ]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Komentáře]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Váš názor]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Vaše zpráva nemohla být odeslána - pro přijetí vašeho požadavku počkejte prosím na operátora.]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Omlouváme se, zaznamenali jsme problém (neplatné oddělení). Začněte prosím znovu.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Určena neplatná priorita tiketu; začněte prosím znovu.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Omlouváme se, zaznamenali jsme problém (neplatný typ tiketu). Začněte prosím znovu.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Oddělení]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Přihlásit k odběru]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s je již přihlášen/a ke kanálu novinek.]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Helpdesk:]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Děkujeme vám za vyplnění dotazníku - váš názor je pro nás opravdu důležitý. Nyní můžete toto okno zavřít.]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[K vyplnění dotazníku klikněte na následující odkaz: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[Váš názor je pro nás velmi důležitý a pomůže nám vylepšit dojem z naší zákaznické podpory.]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Jako součást našeho snažení ve vylepšení naší zákaznické podpory bychom rádi znali váš názor na to, jak si vedeme.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Věnujte prosím chvíli k vyplnění krátkého dotazníku, který se skládá pouze z několika otázek s výběrem z více odpovědí.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Vyplnění by vám nemělo zabrat více jak minutu (slibujeme!).]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Předem děkujeme,]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Rádi bychom věděli váš názor na to, jak si vedeme. Vyplňte prosím krátký dotazník níže a podělte se s námi o vaši dnešní zkušenost.]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Tento email se týká vašeho posledního tiketu]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Váš názor je pro nás velmi důležitý a opravdu si ceníme vašeho času.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Soubor Macromedia Flash]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Přidat soubor]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[Soubor TAR]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Děkujeme za přihlášení!]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Děkujeme. Zkontrolujte prosím váš email a potvrďte přihlášení k odběru.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Děkujeme za váš názor!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[Byl/a jste odhlášen/a z našeho kanálu novinek - je nám líto, že odcházíte!]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Přílohy]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Příjemce (BCC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Příjemce (CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Klient]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Přispěno dne:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Příjemce]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Zaměstnanci]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Třetí strana]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Podrobnosti tiketu]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Historie tiketu]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Bohužel jsme nemohli najít tiket, který jste si vyžádal/a, nebo nemáte oprávnění k jeho zobrazění.]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[Obdrželi jsme váš požadavek a náš tým se vám brzy ozvě zpět. Můžete se přihlásit k helpdesku a zkontrolovat status vaší žádosti, nebo zkontrolovat vaše emaily pro další aktualizace.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Vaše žádost byla přijata]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Dotazník: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Zobrazit tiket: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Zobrazit tikety]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Oddělení]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Poslední odpovídající]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Poslední aktualizace]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Priorita]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Status]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[ID tiketu]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Typ]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Přeposláno pro: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[Email pro: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Přispěno dne: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Koš]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Přílohy]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Zpět]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d zobrazení)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Další &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Další kroky]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Poradce při potížích]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Můžeme vám pomoci vyřešit běžné problémy tím, že si s vámi projdeme pár otázek. Začněte výběrem kategorie Poradce při potížích.]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Aktualizováno: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Textový soubor]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Zaznamenali jsme problém (nelze provést %s)]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Nepřiděleno]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Zrušit odběr]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Váš tiket byl úspěšně aktualizován]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Připojit soubory]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Vítejte! Věnujte prosím chvíli aktualizaci svého profilu níže, abychom vám v budoucnu mohli lépe posloužit.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Jakmile bude váš účet ověřen, budete moci zasílat tikety jednoduše tak, že nám odešlete email. Omlouváme se za nepříjemnosti.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Nelze zpracovat váš email (účet není ověřen)]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Nebyli jsme schopni zpracovat váš email. I když helpdesk účet pro vaši emailovou adresu již existuje, účet ještě nebyl ověřen.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Nebyli jsme schopni zpracovat váš email. I když helpdesk účet pro vaši emailovou adresu již existuje, všechny účty musí být ručně schváleny administrátorem. Dokud tak nebude učiněno, nebudete moci zaslat email na helpdesk.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Děkujeme za registraci. Zaslali jsme vám emailovou zprávu s aktivačním odkazem k ověření vaši emailové adresy. Následujte prosím odkaz k ověření vaší registrace. Tento krok musíte před přihlášením dokončit.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[Vyžadováno emailové ověření]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%d d. %d hod. %d min.]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%d hod. %d min. %d s.]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%d min. %d s.]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%d s.]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[CAPTCHA ověření]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[CAPTCHA ověření]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Zobrazit všechny zprávy]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Zobrazit vyřešené tikety]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Vytvořeno:]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[Provedl/a jste změny v políčkách tiketu. Klikněte na tlačítko Uložit změny, které se nachází výše, k jejich uložení.]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[ODDĚLENÍ]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[VLASTNÍK]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Přidat odpověď]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[PRIORITA]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[Uložit změny]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[STATUS]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[TYP]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Aktualizováno:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s (%s) odpověděl/a:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[Soubor WAV]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Domů]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Databáze znalostí]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Novinky]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Registrovat]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Poslat tiket]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Poradce při potížích]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Mé tikety]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Soubor Excel]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Soubor Excel]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Ano]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Pokud nahlašujete problém, nezapomeňte prosím poskytnout co možná nejvíce informací, které se vztahují k problému.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Podrobnosti vašeho tiketu]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[Soubor ZIP]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[Latest News]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[Login locked for %d minutes (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[Invalid username or password (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[Subscribe to Newsletter:]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[The password specified does not match the requirements of the Password Policy.]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[Password does not meet requirements]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[Sorry, we encountered a problem while uploading attachments. A possible reason is attachments size exceeding server upload limit.]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[Recipients]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[You can specify multiple e-mail addressess seperated by a single space or comma, as custom recipients. The recipients will receive ticket updates.]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ Minimum length: %d characters, Minimum digits: %d, Minimum symbols: %d, Minimum uppercase letters: %d]]></phrase>
+</swiftlanguage>

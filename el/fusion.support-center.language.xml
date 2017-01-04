@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML generated: 18 March 2015 07:44 AM -->
+<swiftlanguage>
+<title><![CDATA[Ελληνικά (EL)]]></title>
+<isocode><![CDATA[el-el]]></isocode>
+<author><![CDATA[Kayako]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.69.0]]></version>
+<flagicon><![CDATA[{$themepath}el.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Πληροφορίες λογαριασμού]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Αυτό το μήνυμα αφορά το ID #%s του αιτήματός σας. Θα αλλάξουμε την κατάσταση του αιτήματός σας σε %s καθώς δεν έχετε επικοινωνήσει μαζί μας σχετικά με το αίτημά σας μέσα σε %s ώρες.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Εάν έχετε επιπλέον ερωτήσεις, μη διστάσετε να επικοινωνήσετε μαζί μας. Μπορείτε να ελέγξετε την κατάσταση του αιτήματός σας ή να απαντήσετε online σε αυτό το αίτημα, μέσω: ]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Αυτό το μήνυμα αφορά το αίτημά σας #%s. Δεν έχετε επικοινωνήσει μαζί μας μέσα σε ώρες %s και θα θέλαμε να ξέρουμε αν θεωρείτε ότι το ζήτημα αυτό έχει επιλυθεί. Εάν έχετε επιπλέον ερωτήματα, απλώς απαντήστε σε αυτό το email.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Παρακαλούμε να έχετε υπόψη ότι το αίτημά σας θα κλείσει αυτόματα μέσα σε %s ώρες εάν δεν λάβουμε καμία ενημέρωση απ' την πλευρά σας. Μπορείτε να ελέγξετε την κατάσταση του αιτήματός σας ή να απαντήσετε online σε αυτό το αίτημα, μέσω: ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (η ενέργεια %s δεν έχει καταχωρηθεί)]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[Το αίτημά σας είναι σημαντικό για εμάς. Παρακαλούμε περιμένετε και ένας από τους εκπροσώπους μας σύντομα θα σας εξυπηρετήσει.]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (η εφαρμογή %s δεν έχει καταχωρηθεί)]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Τμήμα: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[Email: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[Με εκτίμηση,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Σας ευχαριστούμε που επικοινωνήσατε μαζί μας. Αυτό το μήνυμα αποτελεί αυτοματοποιημένη απάντηση και επιβεβαιώνει την παραλαβή του αιτήματός σας. Η ομάδα μας θα επικοινωνήσει μαζί σας το συντομότερο δυνατό. Εάν επιθυμείτε να απαντήσετε σε αυτό το μήνυμα, βεβαιωθείτε ότι έχετε συμπεριλάβει το ID του αιτήματός σας στο θέμα του μηνύματος, ώστε να μπορούμε να παρακολουθούμε τις απαντήσεις σας.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Κωδικός: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Βαθμός προτεραιότητας: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Κατάσταση: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Μπορείτε να ελέγξετε ή να ενημερώσετε την κατάσταση αυτού του αιτήματος online μέσω: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Θέμα: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[ID Αιτήματος: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Χρήσιμο]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[Δεν ήταν χρήσιμο]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[ψήφοι]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Τύπος: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Παραλήπτης]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Προσωπικό]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Τρίτοι]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Χρήστης]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Πίσω]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Επόμενο &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Αποστολή]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Έναρξη συνομιλίας (chat)]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Υποβολή]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Ενημέρωση]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Bytes]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[Αρχείο BZ]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[Αρχείο BZ2]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Τηλεφωνήστε μου]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Ακύρωση]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Παρακαλούμε να εισαγάγετε το κείμενο που βλέπετε στην εικόνα μέσα στο πλαίσιο (χρησιμοποιούμε αυτή την τακτική για την πρόληψη αυτοματοποιημένων υποβολών).]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[Επαλήθευση CAPTCHA]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Αλλαγή κωδικού]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[Η συζήτηση έληξε.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Κάντε κλικ εδώ για να συμμετάσχετε σε μια σύντομη έρευνα σχετικά με αυτή τη ζωντανή συνομιλία.]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Κάντε κλικ εδώ για να αφήσετε ένα μήνυμα.]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[Θα θέλαμε να ακούσουμε τα σχόλιά σας. Πατήστε Άκυρο για να συμμετάσχετε σε μια σύντομη έρευνα, ή διαφορετικά πατήστε OK για να κλείσετε το παράθυρο.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[Ο / Η %s μπήκε στη συνομιλία.]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[Η συνομιλία έληξε ή διακόπηκε.]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[Ο / Η %s εγκατέλειψε τη συνομιλία.]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[Ένα αντίγραφο της συνομιλίας θα σταλεί με email στην παρακάτω διεύθυνση:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Ομάδα - πρότυπο]]></phrase>
+<phrase section="onsite" code="chrome_tile1_desc"><![CDATA[Κάντε κλικ στο κουμπί "Διατήρηση" όταν σας ζητηθεί για να ξεκινήσει η λήψη.]]></phrase>
+<phrase section="onsite" code="chrome_tile2_desc"><![CDATA[Όταν ολοκληρωθεί η λήψη, κάντε κλικ στο OnSite που βρίσκεται στη γραμμή λήψεων.]]></phrase>
+<phrase section="onsite" code="chrome_tile3_desc"><![CDATA[Κάντε κλικ στο κουμπί 'Εκτέλεση' στο παράθυρο προειδοποίησης ασφαλείας για να συνδεθείτε στο OnSite.]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Κάντε κλικ εδώ για Live Chat]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[To Live Chat είναι εκτός σύνδεσης. Κάντε κλικ εδώ για να αφήσετε ένα μήνυμα.]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Κάντε κλικ στην επιλογή άμεσης κλήσης]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Κάντε κλικ για κλήση]]></phrase>
+<phrase section="default" code="close"><![CDATA[Κλείσιμο]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Ευχαριστούμε για τη γνώμη σας. Το σχόλιό σας θα εμφανιστεί μόλις εγκριθεί.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Σχόλια:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[Email:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Ονοματεπώνυμο:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Σχόλια]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Πνευματικά δικαιώματα © 2001-%s Kayako]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (η δημιουργία αντικειμένου απέτυχε)]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[--Προεπιλεγμένη ζώνη ώρας--]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Λογισμικό Help Desk</a> από το Kayako]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[Έγγραφο του MS Word]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[Έγγραφο του MS Word]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[Emails]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Η διεύθυνση ηλεκτρονικού ταχυδρομείου που εισαγάγατε δεν είναι έγκυρη]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Νέος κωδικός:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[Τα στοιχεία CAPTCHA που εισαγάγατε δεν ταιριάζουν. Παρακαλούμε, προσπαθήστε ξανά.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Βεβαιωθείτε η εικόνα του προφίλ σας έχει μία από τις παρακάτω μορφές: gif, jpeg, jpg, png.]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (η σύνδεση με τον διακομιστή SMTP απέτυχε)]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Λυπούμαστε, αλλά αντιμετωπίσαμε ένα πρόβλημα (μη έγκυρο τμήμα). Παρακαλούμε να ξεκινήσετε τη διαδικασία από την αρχή.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (το %s συμβάν δεν έχει καταχωρηθεί)]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Ο κωδικός χρησιμοποιείται ήδη:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Ο υπάρχων κωδικός δεν είναι σωστός.]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Εκπρόσωπος:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Το ερώτημά σας:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Σχόλια:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Τμήμα:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[Email:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Ονοματεπώνυμο:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Μήνυμα:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Τηλέφωνο:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Βαθμολογία:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Θέμα:]]></phrase>
+<phrase section="default" code="file"><![CDATA[Αρχείο]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Γνωσιακή βάση]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Κατηγορίες ειδήσεων]]></phrase>
+<phrase section="onsite" code="firefox_tile1_desc"><![CDATA[Κάντε κλικ στο κουμπί "Αποθήκευση αρχείου" όταν σας ζητηθεί.]]></phrase>
+<phrase section="onsite" code="firefox_tile2_desc"><![CDATA[Όταν η λήψη ολοκληρωθεί, κάντε διπλό κλικ στο OnSite στη λίστα με τις λήψεις.]]></phrase>
+<phrase section="onsite" code="firefox_tile3_desc"><![CDATA[Κάντε κλικ στο κουμπί 'Εκτέλεση' στο παράθυρο προειδοποίησης ασφαλείας για να συνδεθείτε στο OnSite.]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[Λάβαμε ένα αίτημα για επαναφορά του κωδικού σας για το λογαριασμό σας %1$s στο helpdesk (%2$s). Εάν πιστεύετε ότι λάβατε αυτό το μήνυμα κατά λάθος, παρακαλούμε να το αγνοήσετε.
+
+Για να επαναφέρετε τον κωδικό σας, κάντε κλικ στον παρακάτω σύνδεσμο ή αντιγράψτε και επικολλήστε το σύνδεσμο στη γραμμή διευθύνσεων του περιηγητή σας:
+
+%3$s
+
+Ευχαριστούμε,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Γενικές πληροφορίες]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Γενικές επιλογές]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[Νέος κωδικός πρόσβασης για το helpdesk %s ]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[Για περισσότερες πληροφορίες ή αν πιστεύετε ότι αυτό συνέβη χωρίς την άδειά σας, παρακαλούμε επικοινωνήστε μαζί μας κάνοντας κλικ στον παρακάτω σύνδεσμο.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Έχει γίνει επαναφορά του κωδικού πρόσβασης για το λογαριασμό σας στο helpdesk:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[Εικόνα GIF]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[Aρχείο GZIP]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[Κρυφό]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Απόκρυψη ολοκληρωμένου αιτήματος]]></phrase>
+<phrase section="default" code="home"><![CDATA[Αρχική σελίδα]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[Σελίδα HTML]]></phrase>
+<phrase section="mime" code="html"><![CDATA[Σελίδα HTML]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Αρχείο εικονιδίου]]></phrase>
+<phrase section="onsite" code="ie7_tile1_desc"><![CDATA[Κάντε κλικ στην επιλογή "Εκτέλεση" όταν σας ζητηθεί.]]></phrase>
+<phrase section="onsite" code="ie7_tile2_desc"><![CDATA[Περιμένετε μέχρι να ολοκληρωθεί η λήψη.]]></phrase>
+<phrase section="onsite" code="ie7_tile3_desc"><![CDATA[Κάντε κλικ στο κουμπί 'Εκτέλεση' στο παράθυρο προειδοποίησης ασφαλείας για να συνδεθείτε στο OnSite.]]></phrase>
+<phrase section="onsite" code="ie8_tile1_desc"><![CDATA[Κάντε κλικ στην επιλογή "Εκτέλεση" όταν σας ζητηθεί.]]></phrase>
+<phrase section="onsite" code="ie8_tile2_desc"><![CDATA[Περιμένετε μέχρι να ολοκληρωθεί η λήψη.]]></phrase>
+<phrase section="onsite" code="ie8_tile3_desc"><![CDATA[Κάντε κλικ στο κουμπί 'Εκτέλεση' στο παράθυρο προειδοποίησης ασφαλείας για να συνδεθείτε στο OnSite.]]></phrase>
+<phrase section="onsite" code="ie9_tile1_desc"><![CDATA[Κάντε κλικ στην επιλογή "Εκτέλεση" όταν σας ζητηθεί. Η σύνδεσή σας στο OnSite θα ξεκινήσει αυτόματα όταν ολοκληρωθεί η λήψη.]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Δυστυχώς, δεν μπορέσαμε να δεχτούμε τα συνημμένα αρχεία που μας αποστείλατε (είτε λόγω μεγέθους είτε λόγω περιορισμών στον τύπο αρχείου): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Το email που εισαγάγατε δεν είναι έγκυρο]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (αυτή η οργάνωση δεν υπάρχει)]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (άκυρο hash συνδρομητή)]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Μη έγκυρο email ή κωδικός πρόσβασης]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Ο λογαριασμός χρήστη δεν είναι έγκυρος. Αυτός ο λογαριασμός δεν υπάρχει.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Δεν μπορέσαμε να σας συνδέσουμε γιατί αυτός ο λογαριασμός είναι απενεργοποιημένος]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Δεν μπορέσαμε να σας συνδέσουμε γιατί αυτός ο λογαριασμός έχει λήξει]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Δεν είναι δυνατή η σύνδεση. Αυτή η ομάδα χρηστών δεν έχει πρόσβαση στη συγκεκριμένη  ομάδα προτύπων.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (ο σύνδεσμος επαλήθευσης δεν είναι έγκυρος ή έχει λήξει)]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[Βρήκαμε τις παρακάτω προτεινόμενες απαντήσεις και τα παρακάτω άρθρα στη γνωσιακή μας βάση]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Φόρτωση προτάσεων από τη γνωσιακή βάση...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[Δεν βρέθηκαν σχετικά άρθρα στη γνωσιακή βάση.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Προτάσεις από τη γνωσιακή βάση]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[Ο / Η %s πληκτρολογεί...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[Αρχείο JAR]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[Αυτή τη στιγμή συνομιλείτε με τον / την %s - %s]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[Αυτή τη στιγμή συνομιλείτε  με τον / την  %s]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[Εικόνα JPEG]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[Εικόνα JPEG]]></phrase>
+<phrase section="default" code="kb"><![CDATA[ΚΒ]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Συνημμένα]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Λυπούμαστε - αυτό το άρθρο δεν υπάρχει ή δεν έχετε άδεια πρόσβασης σε αυτό.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Γνωσιακή βάση]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Γλώσσα:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Τελευταίες ενημερώσεις]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[Email]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[Εκτύπωση]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Ήχος: Απενεργοποιήθηκε]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Ήχος: Ενεργοποιήθηκε]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Αφήστε ένα μήνυμα]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Ευχαριστούμε για το μήνυμά σας. Η ομάδα μας σύντομα θα επικοινωνήσει μαζί σας.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[Δυστυχώς η ομάδα μας δεν είναι διαθέσιμη αυτή τη στιγμή. Ωστόσο, μπορείτε να συμπληρώσετε την παρακάτω φόρμα για να μας αφήσετε ένα μήνυμα, και θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατό.]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Live Chat]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - Live Chat για %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[Για να μπορέσουμε να σας εξυπηρετήσουμε καλύτερα, δώστε μας ορισμένες πληροφορίες πριν ξεκινήσουμε τη συνομιλία.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Σας παρακαλούμε να εισαγάγετε τα στοιχεία του τηλεφώνου σας παρακάτω και εμείς θα σας συνδέσουμε.]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Συνδεθήκατε ως: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Σύνδεση]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Το email σας]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Παρακαλώ συνδεθείτε για να συνεχίσετε]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Αποσύνδεση]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Ξεχάσατε τον κωδικό σας;]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Παρακαλούμε, γράψτε το email που έχετε καταχωρίσει σε αυτόν τον λογαριασμό και κάντε κλικ στο κουμπί Υποβολή. Σύντομα θα λάβετε μέσω email έναν σύνδεσμο για να επανακτήσετε τον κωδικό σας.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Αίτημα ανάκτησης κωδικού για το helpdesk %s ]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Παρακαλούμε να εισαγάγετε τον καινούριο κωδικό σας παρακάτω και να κάνετε κλικ στο κουμπί Υποβολή για να επαναφέρετε τον κωδικό σας.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Ξεχάσατε τον κωδικό σας;]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (ο λογαριασμός χρήστη με αυτό το email δεν βρέθηκε %s)]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Ένα email ανάκτησης κωδικού στάλθηκε στο %s]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Ο κωδικός σας έχει αλλάξει. Μπορείτε τώρα να συνδεθείτε με τα καινούρια στοιχεία σας.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Το Live Chat θα επανέλθει σύντομα]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[Το Live Chat δεν είναι ενεργοποιημένο]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Αλλαγή κωδικού]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Αποσύνδεση]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Η οργάνωσή μου]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Προτιμήσεις]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Το προφίλ μου]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[Δημοφιλέστερα άρθρα]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[QuickTime Movie]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG Audio]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="msgcsrfhash"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (ανιχθεύθηκε προσπάθεια πλαστογράφησης διατοποθεσιακού αιτήματος). Προσπαθήστε ξανά]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Λογαριασμός]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Η οργάνωσή μου]]></phrase>
+<phrase section="default" code="na"><![CDATA[- NA -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Νεότερα post &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Νέος κωδικός:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Νέος κωδικός (επιβεβαίωση):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[Οι νέοι κωδικοί που εισαγάγατε, δεν ταιριάζουν.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[Ο κωδικός σας ενημερώθηκε.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Ειδήσεις]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[Λυπούμαστε, δεν μπορέσαμε να βρούμε αυτή την είδηση.]]></phrase>
+<phrase section="default" code="no"><![CDATA[Όχι]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[Δεν υπάρχει τίποτα για να εμφανιστεί εδώ]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Συγγνώμη, δεν έχετε άδεια για αυτή την ενέργεια.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Δεν μπορέσαμε να βρούμε σχετικά αποτελέσματα στην αναζήτησή σας]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Η νέα εγγραφή επιβειβαιώθηκε]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Έχει επιβεβαιωθεί η εγγραφή σας στο newsfeed. Στο εξής θα λαμβάνετε ενημερώσεις κάθε φορά που θα δημοσιεύουμε ένα νέο άρθρο. Μπορείτε να διαγραφείτε οποιαδήποτε στιγμή, κάνοντας κλικ στον παρακάτω σύνδεσμο.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Παρακαλούμε ενημερώστε μας αν μπορούμε να σας προσφέρουμε επιπλέον βοήθεια,]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Ευχαριστούμε για την εγγραφή σας στο ενημερωτικό δελτίο. Θα πρέπει να επικυρώσετε την εγγραφή σας για να λαμβάνετε ενημερώσεις. Κάντε κλικ στον παρακάτω σύνδεσμο για να ενεργοποιήσετε την εγγραφή σας.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Επαληθεύστε την εγγραφή σας στο newsfeed
+]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Χωρίς σύνδεση]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Παλαιότερες αναρτήσεις]]></phrase>
+<phrase section="default" code="on"><![CDATA[Ενεργό]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[Σε σύνδεση]]></phrase>
+<phrase section="onsite" code="onsite_intro"><![CDATA[Εισάγετε τον τετραψήφιο κωδικό σύνδεσης που σας έχει δοθεί από τον εκπρόσωπό μας και στη συνέχεια κάντε κλικ στην επιλογή Έναρξη για να κατεβάσετε ένα μικρό εργαλείο που ονομάζεται <b>OnSite</b>, το οποίο θα επιτρέψει στον εκπρόσωπό μας να έχει προσωρινά πρόσβαση στον έλεγχο του υπολογιστή σας.]]></phrase>
+<phrase section="onsite" code="onsite_intronoplatform"><![CDATA[Το Kayako OnSite διατίθεται προς το παρόν μόνο για τα Microsoft Windows.]]></phrase>
+<phrase section="onsite" code="onsite_introsession"><![CDATA[Πρόκειται να κατεβάσετε ένα μικρό εργαλείο που ονομάζεται <b>OnSite</b> το οποίο θα επιτρέψει στον εκπρόσωπό μας να έχει προσωρινά πρόσβαση στον έλεγχο του υπολογιστή σας.<br /><br />Η λήψη του<b>OnSite</b> θα πρέπει να αρχίσει αυτόματα. Εάν δεν ξεκινήσει αμέσως, μπορείτε <a href="%s" class="lightbluelink">να κάνετε κλικ εδώ</a> για να ξεκινήσετε τη λήψη με μη αυτόματο τρόπο.<br /><br />Παρακάτω θα βρείτε οδηγίες για το πώς να χρησιμοποιήσετε το <b>OnSite</b>.]]></phrase>
+<phrase section="onsite" code="onsite_invalidcode"><![CDATA[Μη έγκυρος ή ανύπαρκτος κωδικός]]></phrase>
+<phrase section="onsite" code="onsite_invalidsession"><![CDATA[Δεν μπορέσαμε να συνδεθούμε στο OnSite (δεν βρέθηκε ο κωδικός)]]></phrase>
+<phrase section="onsite" code="onsite_start"><![CDATA[Έναρξη]]></phrase>
+<phrase section="onsite" code="onsite_supportcenter"><![CDATA[Helpdesk]]></phrase>
+<phrase section="onsite" code="onsite_tilesheader"><![CDATA[Βήμα - βήμα]]></phrase>
+<phrase section="onsite" code="onsite_unabletodloadfile"><![CDATA[Δεν μπόρεσε να γίνει λήψη του αρχείου (σφάλμα: %s)]]></phrase>
+<phrase section="onsite" code="onsite_welcome"><![CDATA[Έρχεται βοήθεια!]]></phrase>
+<phrase section="onsite" code="onsite_welcomenoplatform"><![CDATA[Έρχεται βοήθεια!]]></phrase>
+<phrase section="onsite" code="onsite_welcomesession"><![CDATA[Έρχεται βοήθεια!]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_1"><![CDATA[Το <b>OnSite</b> είναι ένα εργαλείο απομακρυσμένης υποστήριξης και για να λειτουργήσει, πρέπει να εγκατασταθεί προσωρινά στον υπολογιστή σας σε μια περιοχή του σκληρού σας δίσκου, από όπου θα αφαιρεθεί την επόμενη φορά που θα γίνει εκκαθάριση του δίσκου σας. <br /> <br />Όταν γίνεται εκκίνηση του προγράμματος, εσείς και ο εκπρόσωπός μας θα συνδέεστε μέσω διαδικτύου και ο εκπρόσωπός μας θα μπορεί να μοιράζεται τον έλεγχο πληκτρολογίου και του ποντικιού σας για όσο χρονικό διάστημα το επιτρέπετε εσείς <i>(μπορείτε να ανακαλέσετε τα στοιχεία ελέγχου και να τερματίσετε τη σύνδεση ανά πάσα στιγμή)</i>.]]></phrase>
+<phrase section="onsite" code="onsitefaq_answer_2"><![CDATA[Είναι απολύτως ασφαλές. Μόνο ο εκπρόσωπος που σας εξυπηρετεί θα μπορεί να αποκτήσει τον έλεγχο του υπολογιστή σας αποκλειστικά και μόνο κατά τη διάρκεια λειτουργίας του <b>OnSite</b> και μόνον εφόσον εσείς του εκχωρήσετε πρόσβαση. <br /> <br /><strong>Αν οποιαδήποτε στιγμή επιθυμείτε να τερματίσετε τη σύνδεσή σας στο Onsite, απλώς κρατήστε πατημένο το πλήκτρο Control και πιέστε το πλήκτρο F1. Η σύνδεση θα τερματιστεί αμέσως και ο εκπρόσωπός μας δεν θα μπορεί πλέον να ελέγχει τον υπολογιστή σας.</strong>]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_1"><![CDATA[Τι ακριβώς θα κατεβάσω και πώς λειτουργεί;]]></phrase>
+<phrase section="onsite" code="onsitefaq_question_2"><![CDATA[Είναι ασφαλές όταν εκτελείται στον υπολογιστή μου;]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[Για να μπορέσει ο εκπρόσωπός μας να σας βοηθήσει, θα πρέπει να κατεβάσετε το πρόγραμμα απομακρυσμένης υποστήριξης OnSite ® κάνοντας κλικ στον παρακάτω σύνδεσμο. Αυτό το πρόγραμμα επιτρέπει στον υπολογιστή σας να είναι προσωρινά υπό τον έλεγχο ενός εκπροσώπου μας. Εάν οποιαδήποτε στιγμή επιθυμείτε να διακόψετε τον κοινό έλεγχο του υπολογιστή σας, κρατήστε πατημένο το Control και πιέστε το πλήκτρο F1 στο πληκτρολόγιό σας.]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Ο εκπρόσωπός μας επιθυμεί να ξεκινήσει μία σύνδεση λειτουργίας απομακρυσμένης υποστήριξης και να αποκτήσει έλεγχο του ποντικιού και του πληκτρολογίου σας]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Κάντε κλικ εδώ για να κατεβάσετε το OnSite για Windows]]></phrase>
+<phrase section="onsite" code="opera_tile1_desc"><![CDATA[Κάντε κλικ στην επιλογή "Εκτέλεση" όταν σας ζητηθεί.]]></phrase>
+<phrase section="onsite" code="opera_tile2_desc"><![CDATA[Κάντε κλικ στο κουμπί 'Εκτέλεση' στο παράθυρο προειδοποίησης ασφαλείας για να συνδεθείτε στο OnSite.]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Διεύθυνση:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[Πόλη:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Χώρα:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Όνομα οργάνωσης:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Τηλέφωνο:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Προφίλ οργάνωσης]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Περιφέρεια:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Το προφίλ της οργάνωσής σας έχει ενημερωθεί με επιτυχία]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Ιστοσελίδα:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Ταχυδρομικός κώδικας:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[Σελίδα %s από %s]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Λεπτομέρειες κωδικού πρόσβασης]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[Έγγραφο PDF]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[Αυτή τη στιγμή υπάρχουν %s άνθρωποι σε αναμονή πριν από εσάς.]]></phrase>
+<phrase section="mime" code="php"><![CDATA[Αρχείο PHP Script]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[Σε τι μπορούμε να σας εξυπηρετήσουμε;]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Σε τι μπορούμε να σας εξυπηρετήσουμε;]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Παρακαλούμε περιμένετε και ένας εκπρόσωπός μας σύντομα θα σας εξυπηρετήσει.]]></phrase>
+<phrase section="mime" code="png"><![CDATA[Εικόνα PNG]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Αναρτήθηκε από]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Δημοσίευση νέου σχολίου]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Υποστηρίζεται από το λογισμικό Kayako Help Desk]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[Έγγραφο PowerPoint]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[Έγγραφο PowerPoint]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[Προσθήκη email]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Προτιμήσεις]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Ενεργοποίηση της θερινής ώρας:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Ονοματεπώνυμο:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[Ιδιωτική συνομιλία]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Γλώσσα:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Πρέπει να δηλώσετε τουλάχιστον ένα έγκυρο email]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Συνομιλήστε τώρα]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Η ομάδα μας είναι έτοιμη να σας βοηθήσει. Κάντε κλικ στην επιλογή &quot;Chat Now&quot; για να συνδεθείτε άμεσα με κάποιον εκπρόσωπό μας.]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Πώς μπορώ να βοηθήσω;]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Επισκέπτης]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Λεπτομέρειες προφίλ]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[Το προφίλ μου]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Οργάνωση:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Αριθμός τηλεφώνου:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA[Αυτός ο αριθμός τηλεφώνου (%s) χρησιμοποιείται ήδη από άλλο λογαριασμό.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Εικόνα προφίλ:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Το προφίλ σας έχει ενημερωθεί]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Ζώνη ώρας:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Τίτλος/θέση:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Οι προτιμήσεις σας έχουν αποθηκευτεί]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[Κρυφό]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Real Audio File]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[Αρχείο RAR]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Διαβάστε περισσότερα &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Νεότερα άρθρα]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[Email:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[Το email που εισαγάγατε έχει ήδη καταχωρηθεί. Χρησιμοποιήστε την επιλογή Ξεχάσατε τον κωδικό σας για να ανακτήσετε τον κωδικό σας ή για να εισαγάγετε μία διαφορετική διεύθυνση ηλεκτρονικού ταχυδρομείου.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[Το email (%s) χρησιμοποιείται ήδη.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[Μετά την εγγραφή σας, θα μπορείτε να υποβάλλετε αιτήματα υποστήριξης στέλνοντάς μας απλώς ένα email. Ζητούμε συγγνώμη για την ταλαιπωρία.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Δεν μπορέσαμε να επεξεργαστούμε το email σας. Πρέπει να έχετε ένα λογαριασμό στο helpdesk για να στέλνετε αιτήματα μέσω email. Μπορείτε να γραφτείτε στο helpdesk μας:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Δεν ήταν δυνατή η επεξεργασία του email σας (απαιτείται εγγραφή)]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Ονοματεπώνυμο:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Το email που εισαγάγατε δεν είναι έγκυρο.]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Παρακαλούμε συμπληρώστε τα παρακάτω πεδία για να δημιουργήσετε έναν νέο λογαριασμό στο helpdesk.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Καλώς ήλθατε στο %s helpdesk]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Επαληθεύστε την %s εγγραφή σας στο helpdesk ]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Αυτό το email αποτελεί επιβεβαίωση ότι έχετε εγγραφεί στο helpdesk μας.
+
+Διεύθυνση email: %3$s
+Κωδικός: Κρυφός
+
+Μπορείτε να επισκεφτείτε το helpdesk για να αναζητήσετε άρθρα και να επικοινωνήσετε μαζί μας ανά πάσα στιγμή: %2$s
+
+Σας ευχαριστούμε για την εγγραφή σας!
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Επιτυχής εγγραφή]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Δημιουργία νέου λογαριασμού]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Ευχαριστούμε για την εγγραφή σας στο helpdesk %1$s (%2$s).
+
+Θα χρειαστεί να γίνει επαλήθευση του email σας.
+
+Για να ενεργοποιήσετε το λογαριασμό σας, κάντε κλικ στον παρακάτω σύνδεσμο ή αντιγράψτε και επικολλήστε το σύνδεσμο στη γραμμή διευθύνσεων του περιηγητή σας:
+
+%3$s
+
+Εάν πιστεύετε ότι λάβατε αυτό το μήνυμα κατά λάθος, δεν χρειάζεται να κάνετε τίποτα για να ακυρώσετε το λογαριασμό σας. Ο λογαριασμός δεν θα ενεργοποιηθεί και δεν θα λαμβάνετε πλέον κανένα μήνυμα από εμάς.
+
+Σας ευχαριστούμε,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Αυτό το email αποτελεί επιβεβαίωση ότι είστε πλέον εγγεγραμμένος στο helpdesk μας.
+
+Καταχωρημένο email: %3$s
+Κωδικός: %4$s
+
+Μπορείτε να επισκεφτείτε το helpdesk για να αναζητήσετε άρθρα και να επικοινωνήσετε μαζί μας ανά πάσα στιγμή: %2$s
+
+Σας ευχαριστούμε για την εγγραφή σας!
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Στοιχεία εγγραφής]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[κωδικός:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Κωδικός (επανάληψη):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Οι κωδικοί πρόσβασης που υποβάλατε δεν ταιριάζουν.]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Εγγραφή]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Ευχαριστούμε για την εγγραφή σας! Ένα αντίγραφο με τα στοιχεία εγγραφής σας έχει σταλεί στην ηλεκτρονική σας διεύθυνση. Χρησιμοποιήστε την φόρμα σύνδεσης δίπλα σε αυτό το κείμενο για να συνδεθείτε.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Αποθήκευση στοιχείων]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Απάντηση]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Απάντηση στο σχόλιο]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[Ένα από τα απαιτούμενα πεδία είναι άδειο]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[RSS Feed]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Αρχείο εμπλουτισμένου κειμένου]]></phrase>
+<phrase section="onsite" code="safari_tile1_desc"><![CDATA[Κάντε κλικ στην επιλογή "Εκτέλεση" όταν σας ζητηθεί.]]></phrase>
+<phrase section="onsite" code="safari_tile2_desc"><![CDATA[Κάντε κλικ στο κουμπί 'Εκτέλεση' στο παράθυρο προειδοποίησης ασφαλείας για να συνδεθείτε στο OnSite.]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Δρ.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Κα.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Κ.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Δις]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[ΑΝΑΖΗΤΗΣΗ]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[Αποτελέσματα αναζήτησης]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Εάν δεν μπορείτε να βρείτε κάποια λύση στο πρόβλημά σας ανατρέχοντας στη γνωσιακή μας βάση, υποβάλετε ένα αίτημα, επιλέγοντας παρακάτω το κατάλληλο τμήμα.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Υποβάλετε ένα αίτημα]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Αποστολή]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Τμήμα]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[Email]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Oνοματεπώνυμο]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Το μήνυμά σας]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Προτεραιότητα]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Θέμα]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Θέμα: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[ID Αιτήματος]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Τύπος]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Σχόλια]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Τα σχόλιά σας]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Το μήνυμά σας δεν μπόρεσε να αποσταλεί - παρακαλούμε περιμένετε μέχρι κάποιος  εκπρόσωπός μας να αποδεχτεί το αίτημά σας.]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Λυπούμαστε, αλλά αντιμετωπίσαμε ένα πρόβλημα (μη έγκυρο τμήμα). Παρακαλούμε να ξεκινήσετε από την αρχή.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Η προτεραιότητα του αιτήματος που καταχωρήθηκε δεν είναι έγκυρη. Παρακαλούμε να ξεκινήσετε τη διαδικασία από την αρχή.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Λυπούμαστε, αλλά αντιμετωπίσαμε ένα πρόβλημα (μη έγκυρος τύπος αιτήματος). Παρακαλούμε να ξεκινήσετε από την αρχή.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Τμήματα]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Εγγραφή]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[Ο / Η %s είναι ήδη εγγεγραμμένος/η στο newsfeed.]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Helpdesk:]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Σας ευχαριστούμε που συμπληρώσατε αυτή την έρευνα - τα σχόλιά σας είναι  πολύ σημαντικά για εμάς. Μπορείτε τώρα να κλείσετε αυτό το παράθυρο.]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[Για να συμμετάσχετε στην έρευνα, κάντε κλικ στον παρακάτω σύνδεσμο: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[Τα σχόλιά σας είναι πολύ σημαντικά για εμάς και θα μας βοηθήσουν να βελτιώσουμε την υποστήριξη που προσφέρουμε στους πελάτες μας.]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Ως μέρος της δέσμευσής μας για τη βελτίωση της υποστήριξης που προσφέρουμε στους πελάτες μας, θα θέλαμε να μάθουμε τη γνώμη σας σχετικά με αυτό το θέμα.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Παρακαλούμε να αφιερώσετε λίγο χρόνο για να συμπληρώσετε μία σύντομη έρευνα που αποτελείται από έναν μικρό αριθμό ερωτήσεων πολλαπλής επιλογής.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Δεν θα σας πάρει περισσότερο από ένα λεπτό για να συμπληρώσετε το ερωτηματολόγιο (το υποσχόμαστε!).]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Ευχαριστούμε εκ των προτέρων,]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Θα θέλαμε να μάθουμε τη γνώμη σας σχετικά με τις υπηρεσίες μας. Παρακαλούμε συμπληρώστε την σύντομη έρευνα που υπάρχει παρακάτω και σχολιάστε τη σημερινή σας εμπειρία σχετικά με τις υπηρεσίες μας.]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Αυτό το email αφορά το αίτημα που υποβάλατε πρόσφατα]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Τα σχόλιά σας είναι πολύ σημαντικά για εμάς και εκτιμούμε πραγματικά το χρόνο σας.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Αρχείο Macromedia Flash]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Προσθέστε ένα αρχείο]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[Αρχείο TAR]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Ευχαριστούμε για την εγγραφή σας!]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Ευχαριστούμε. Παρακαλούμε, ελέγξτε το email σας για να επιβεβαιώσετε την εγγραφή σας.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Σας ευχαριστούμε για τα σχόλιά σας!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[Έχετε διαγραφτεί από το newsfeed - Λυπούμαστε που φεύγετε!]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Συνημμένα]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Παραλήπτης (BCC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Παραλήπτης (CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Πελάτης]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Καταχωρήθηκε στις:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Παραλήπτης]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Προσωπικό]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Τρίτοι]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Λεπτομέρειες αιτήματος]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Ιστορικό αιτημάτων]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Λυπούμαστε, αλλά δεν μπορέσαμε να βρούμε το αίτημα που ζητήσατε, ή δεν έχετε δικαίωμα πρόσβασης σε αυτό.]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[Έχουμε λάβει το αίτημά σας και η ομάδα μας σύντομα θα επικοινωνήσει μαζί σας. Μπορείτε να συνδεθείτε στο helpdesk για να ελέγξετε την κατάσταση του αιτήματός σας, ή να ανατρέξετε στο email σας για τυχόν επιπλέον ενημερώσεις.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Το αίτημά σας έχει παραληφθεί]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Έρευνα: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Προβολή αιτήματος: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Προβολή αιτημάτων]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Τμήμα]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Τελευταία απάντηση]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Τελευταία ενημέρωση]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Προτεραιότητα]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Κατάσταση]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[ID Αιτήματος]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Τύπος]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Προωθήθηκε στο: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[Αποστολή email στο: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Καταχωρήθηκε στο: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Ανεπιθύμητα μηνύματα]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Συνημμένα]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Πίσω]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d εμφανίσεις)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Επόμενο &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Επόμενα βήματα]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA["Αντιμετώπιση προβλημάτων"]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Μπορούμε να σας βοηθήσουμε να επιλύσετε κάποια κοινά προβλήματα και ζητήματα μέσω μίας σειράς απλών ερωτήσεων. Αρχίστε με την επιλογή μίας κατηγορίας από την "αντιμετώπιση προβλημάτων".]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Ενημερώθηκε στις: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Αρχείο κειμένου]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Αντιμετωπίσαμε ένα πρόβλημα (δεν είναι δυνατή η εκτέλεση του %s)]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Μη προσδιορισμένο]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Διαγραφείτε]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Το αίτημά σας ενημερώθηκε με επιτυχία]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Επισύναψη αρχείων]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Καλωσήρθατε! Αφιερώστε λίγο χρόνο για να ενημερώσετε το προφίλ σας παρακάτω, έτσι ώστε να μπορούμε να σας εξυπηρετούμε καλύτερα στο μέλλον.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Μόλις επαληθευτεί ο λογαριασμός σας, θα μπορείτε να υποβάλλετε αιτήματα υποστήριξης στέλνοντάς μας απλώς ένα email. Ζητούμε συγγνώμη για την ταλαιπωρία.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Δεν ήταν δυνατή η επεξεργασία του email σας (ο λογαριασμός σας δεν έχει επαληθευτεί)]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Δεν μπορέσαμε να επεξεργαστούμε το email σας. Αν και υπάρχει ήδη ένας λογαριασμός στο helpdesk με αυτή τη διεύθυνση ηλεκτρονικού ταχυδρομείου, ο συγκεκριμένος λογαριασμός δεν έχει ακόμη επαληθευτεί.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Δεν μπορέσαμε να επεξεργαστούμε το email σας. Αν και υπάρχει ήδη ένας λογαριασμός στο helpdesk με αυτή τη διεύθυνση ηλεκτρονικού ταχυδρομείου, όλοι οι λογαριασμοί θα πρέπει να εγκριθούν πρώτα από έναν διαχειριστή. Μέχρι να γίνει αυτό, δεν θα μπορείτε να στέλνετε μηνύματα μέσω email στο helpdesk.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Σας ευχαριστούμε για την εγγραφή σας. Σας έχουμε αποστείλει ένα μήνυμα ηλεκτρονικού ταχυδρομείου με έναν σύνδεσμο ενεργοποίησης για να επαληθεύσετε τη διεύθυνση του ηλεκτρονικού σας ταχυδρομείου. Ακολουθήστε το σύνδεσμο για να επιβεβαιώσετε την εγγραφή σας. Πρέπει να ολοκληρώσετε αυτό το βήμα για να μπορέσετε να συνδεθείτε.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[Απαιτείται επαλήθευση της διεύθυνσης ηλεκτρονικού ταχυδρομείου]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[Επαλήθευση CAPTCHA]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[Επαλήθευση CAPTCHA]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Δείτε όλα τα νέα]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Προβολή ολοκληρωμένων αιτημάτων]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Δημιουργήθηκε:]]></phrase>
+<phrase section="tickets" code="vtcustomfieldchangednotice"><![CDATA[Έχετε κάνει αλλαγές στα πεδία του αιτήματος. Κάντε κλικ στο κουμπί Αποθήκευση αλλαγών παραπάνω για να τις αποθηκεύσετε.]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[ΤΜΗΜΑ]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[ΙΔΙΟΚΤΗΤΗΣ]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Προσθήκη απάντησης]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[ΠΡΟΤΕΡΑΙΟΤΗΤΑ]]></phrase>
+<phrase section="tickets" code="vtsavechanges"><![CDATA[Αποθήκευση αλλαγών]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[ΚΑΤΑΣΤΑΣΗ]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[ΤΥΠΟΣ]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Ενημερώθηκε:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[Ο / Η %s (%s) απάντησε με:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[Αρχείο WAV]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Αρχική σελίδα]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Γνωσιακή βάση]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Νέα]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Εγγραφή]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Υποβάλετε ένα αίτημα]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Αντιμετώπιση προβλημάτων]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Τα αιτήματά μου]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Αρχείο Excel]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Αρχείο Excel]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Ναι]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Εάν  πρόκειται να αναφέρετε ένα πρόβλημα, μην ξεχάσετε να μας δώσετε όσες περισσότερες πληροφορίες μπορείτε σχετικά με το θέμα.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Τα στοιχεία του αιτήματός σας]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[Αρχείο ZIP]]></phrase>
+<phrase section="ticketemails" code="arnewsheader"><![CDATA[Latest News]]></phrase>
+<phrase section="users" code="loginlogerror"><![CDATA[Login locked for %d minutes (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="loginlogwarning"><![CDATA[Invalid username or password (attempt: %d of %d)]]></phrase>
+<phrase section="users" code="prsubscription"><![CDATA[Subscribe to Newsletter:]]></phrase>
+<phrase section="users" code="regmsgpwpolicy"><![CDATA[The password specified does not match the requirements of the Password Policy.]]></phrase>
+<phrase section="users" code="regtitlepwpolicy"><![CDATA[Password does not meet requirements]]></phrase>
+<phrase section="tickets" code="st_attachmentwarning"><![CDATA[Sorry, we encountered a problem while uploading attachments. A possible reason is attachments size exceeding server upload limit.]]></phrase>
+<phrase section="tickets" code="st_cc"><![CDATA[CC]]></phrase>
+<phrase section="tickets" code="st_recipients"><![CDATA[Recipients]]></phrase>
+<phrase section="tickets" code="st_recipientsdesc"><![CDATA[You can specify multiple e-mail addressess seperated by a single space or comma, as custom recipients. The recipients will receive ticket updates.]]></phrase>
+<phrase section="users" code="userpasswordpolicy"><![CDATA[ Minimum length: %d characters, Minimum digits: %d, Minimum symbols: %d, Minimum uppercase letters: %d]]></phrase>
+</swiftlanguage>
