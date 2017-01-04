@@ -5,27 +5,29 @@ This repository is the home of translations for Kayako Classic. These translatio
 # Translation status
 
 
-| Language           	| Support Center 	| Staff control panel 	| Admin control panel 	| Compatible thru Kayako version 	|
-|--------------------	|----------------	|---------------------	|---------------------	|---------------------	|
-| Chinese Simplified 	| Complete       	| -             	| -             	| 4.76                   	|
-| Czech              	| Complete       	| -             	| -             	| 4.76                   	|
-| Dutch              	| Complete       	| Complete            	| Complete            	| 4.76                   	|
-| English (UK)       	| Complete       	| Complete            	| Complete            	| 4.76                   	|
-| French             	| Complete       	| Complete            	| Complete            	| 4.76                   	|
-| German             	| Complete       	| Complete            	| Complete            	| 4.76                   	|
-| Greek              	| Complete       	| -                   	| -                   	| 4.76                   	|
-| Italian            	| Complete       	| Partial             	| Complete            	| 4.76                   	|
-| Japanese           	| Complete       	| -                   	| -             	| 4.76                   	|
-| Polish             	| Complete              	| -                   	| -             	| 4.76                   	|
-| Portuguese             	| Complete              	| Complete                   	| Complete             	| 4.76                   	|
-| Portuguese (Brazilian)             	| Complete              	| -                   	| -             	| 4.76                   	|
-| Romanian             	| Complete              	| -                   	| -            	| 4.76                   	|
-| Russian             	| Complete              	| Complete                   	| Complete            	| 4.76                   	|
-| Sinhala             	| -              	| -                   	| -            	| 4.76                   	|
-| Spanish             	| Complete              	| Complete                   	| Complete            	| 4.76                   	|
-| Swedish             	| Complete              	| -                   	| -            	| 4.76                   	|
-| Turkish             	| Complete              	| Complete                   	| Complete            	| 4.76                   	|
-| Vietnamese             	| Complete              	| -                   	| -            	| 4.76                   	|
+| Language           	| Support Center 	| Staff control panel 	| Admin control panel 	| Compatible thru Kayako version 	| Officially bundled 	|
+|--------------------	|----------------	|---------------------	|---------------------	|---------------------	|---------------------	|
+| Chinese Simplified 	| Complete       	| -             	| -             	| 4.76                   	| No |
+| Czech              	| Complete       	| -             	| -             	| 4.76                   	| No |
+| Dutch              	| Complete       	| Complete            	| Complete            	| 4.76                   	| Yes |
+| English (UK)       	| Complete       	| Complete            	| Complete            	| 4.76                   	| Yes |
+| French             	| Complete       	| Complete            	| Complete            	| 4.76                   	| Yes |
+| German             	| Complete       	| Complete            	| Complete            	| 4.76                   	| Yes |
+| Greek              	| Complete       	| -                   	| -                   	| 4.76                   	| No |
+| Italian            	| Complete       	| Partial             	| Complete            	| 4.76                   	| Yes |
+| Japanese           	| Complete       	| -                   	| -             	| 4.76                   	| No |
+| Polish             	| Complete              	| -                   	| -             	| 4.76                   	| No |
+| Portuguese             	| Complete              	| Complete                   	| Complete             	| 4.76                   	| Yes |
+| Portuguese (Brazilian)             	| Complete              	| -                   	| -             	| 4.76                   	| No |
+| Romanian             	| Complete              	| -                   	| -            	| 4.76                   	| No |
+| Russian             	| Complete              	| Complete                   	| Complete            	| 4.76                   	| Yes |
+| Sinhala             	| -              	| -                   	| -            	| 4.76                   	| No |
+| Spanish             	| Complete              	| Complete                   	| Complete            	| 4.76                   	| Yes |
+| Swedish             	| Complete              	| -                   	| -            	| 4.76                   	| No |
+| Turkish             	| Complete              	| Complete                   	| Complete            	| 4.76                   	| No |
+| Vietnamese             	| Complete              	| -                   	| -            	| 4.76                   	| No |
+
+**Officially bundled** languages are already bundled with the latest versions of Kayako Classic, and you do not need to manually update or install them.
 
 # Installation
 
