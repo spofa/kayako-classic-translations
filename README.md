@@ -38,4 +38,5 @@ Go to the admin control panel, click 'Languages' and 'Import/Export'. Click on t
 # Admin or staff control panel languages (for Kayako Download customers only)
 To take the German (de) translation as an example, in the /repo-root/de/ directory you'll find a directory __swift/locale/de/. Upload this to your own __swift/locale/ directory. Then, when you next log in to the staff or admin control panel, click 'More Options' and select your new language:
 
-['More options' example](http://i.imgur.com/1W8mrMh.png)
+![More options](http://i.imgur.com/1W8mrMh.png "More options")
+
